@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1495556092596">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1495560046672">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="p_gina-2.css" crc="4046983306" ref="página-2"/>
-    <file name="index.css" crc="3764895872" ref="index"/>
+    <file name="index.css" crc="183861916" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="le-baseball.pptx" crc="4091408974" seo="true" mt="1494370881000"/>
@@ -14,9 +14,10 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index:página-2"/>
   </folder>
   <folder name="images">
-    <file name="mediabackground.jpg" crc="423641878" seo="true" ref="index"/>
+    <file name="mediabackground.jpg" crc="423641878" ref="index"/>
     <file name="logo6.png" crc="214422738" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="219715943" seo="true" mt="1495556081623" redirect="true"/>
+  <file name="index.html" crc="4141322484" seo="true" mt="1495559999223" redirect="true"/>
   <file name="página-2.html" crc="375295912" seo="true" mt="1495553187487" redirect="false"/>
 </manifest>
