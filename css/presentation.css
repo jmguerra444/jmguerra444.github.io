@@ -1,7 +1,7 @@
-.version.p_gina_2 /* version checker */
+.version.presentation /* version checker */
 {
-	color: #0000F2;
-	background-color: #F3561A;
+	color: #0000E3;
+	background-color: #E3A0DF;
 }
 
 #page
@@ -26,8 +26,8 @@
 	min-height: 43px;
 	background-color: transparent;
 	font-size: 29px;
-	line-height: 35px;
 	color: #0046F8;
+	line-height: 35px;
 	position: relative;
 	width: 19.28%;
 	margin-left: 2.71%;
