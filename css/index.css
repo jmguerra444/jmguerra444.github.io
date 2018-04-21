@@ -1,189 +1,757 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #F5829C;
-}
-
-#muse_css_mq
-{
-	background-color: #FFFFFF;
+	color: #00001B;
+	background-color: #97AA1B;
 }
 
 #page
 {
-	z-index: 1;
-	width: 1193px;
-	min-height: 794px;
-	background-image: none;
-	border-style: solid;
-	border-width: 3px;
-	border-color: #FFFFFF;
-	background-color: #FFFFFF;
-	margin-left: auto;
 	margin-right: auto;
+	background-image: none;
+	z-index: 1;
+	border-width: 3px;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	border-style: solid;
 }
 
-#page_position_content
+#pu126-4
 {
-	margin-top: -3px;
-	padding-bottom: 59px;
-	width: 0.01px;/* should not cover content below */
-}
-
-#pu94
-{
-	width: 0.01px;
-	margin-left: -115px;
-}
-
-#u94
-{
-	z-index: 2;
-	width: 1422px;
-	background-color: transparent;
-	position: relative;
 	margin-right: -10000px;
-}
-
-#u94_img
-{
-	margin-bottom: -511px;
 }
 
 #u126-4
 {
-	z-index: 4;
-	width: 959px;
+	color: #2E3192;
 	min-height: 56px;
-	text-shadow: 0px 0px 8px rgba(0,0,255,0.5),0px 0px 8px rgba(0,0,255,0.5);
-	-pie-box-shadow: none;
-	box-shadow: none;
+	position: relative;
+	line-height: 35px;
 	background-color: transparent;
-	line-height: 58px;
-	color: #FFFFFF;
-	font-size: 48px;
+	font-family: bowlby-one-sc, sans-serif;
+	font-size: 29px;
 	text-align: center;
-	font-family: nova-square, sans-serif;
+	z-index: 2;
 	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 75px;
-	left: 250px;
 }
 
-#u149-5
+#u766-5
 {
-	z-index: 8;
-	width: 148px;
-	min-height: 49px;
-	-webkit-transition-duration: 0s;
-	-webkit-transition-delay: 0s;
-	transition-duration: 0s;
-	transition-delay: 0s;
-	background-image: url("../images/blank.gif");
-	border-style: solid;
-	border-width: 3px;
-	border-color: #00FFFF;
-	background-color: #1B1464;
-	color: #FFFFFF;
-	text-align: center;
+	z-index: 12;
 	position: relative;
+	line-height: 28px;
+	background-color: transparent;
+	font-family: andika, sans-serif;
+	font-size: 23px;
 	margin-right: -10000px;
-	margin-top: 307px;
-	left: 174px;
+	font-weight: 400;
 }
 
-#u149-5.MuseLinkActive
+#u766-3
 {
-	-webkit-transition-duration: 1s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease;
-	transition-duration: 1s;
-	transition-delay: 0s;
-	transition-timing-function: ease;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 49px;
-	width: 148px;
-	margin: 307px -10000px 0px 0px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u766
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u766-2
+{
+	line-height: 28px;
+}
+
+#u1125-9
+{
+	margin-right: -10000px;
+	position: relative;
+	z-index: 53;
+	min-height: 98px;
+	font-weight: 400;
+	background-color: transparent;
+	font-family: andika, sans-serif;
+}
+
+#u1125-6 > li:before
+{
+	content: '-';
+}
+
+#u1125-6 > #u1125-5:before,#u1125-4
+{
+	font-weight: 400;
+	font-family: andika, sans-serif;
 }
 
 #u139
 {
-	z-index: 13;
-	width: 227px;
+	margin-right: -10000px;
+	position: relative;
+	z-index: 6;
 	background-color: transparent;
+}
+
+#pu753-4
+{
+	width: 0.01px;
+}
+
+#u753-4
+{
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 272px;
-	left: 1033px;
-}
-
-#u522-5
-{
-	z-index: 19;
-	width: 148px;
-	min-height: 49px;
-	border-style: solid;
-	border-width: 3px;
-	border-color: #00FFFF;
-	background-color: #1B1464;
-	color: #FFFFFF;
-	text-align: center;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 383px;
-	left: 174px;
-}
-
-#u525-5
-{
-	z-index: 24;
-	width: 148px;
-	min-height: 49px;
-	border-style: solid;
-	border-width: 3px;
-	border-color: #00FFFF;
-	background-color: #1B1464;
-	color: #FFFFFF;
-	text-align: center;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 459px;
-	left: 174px;
-}
-
-#u149,#u522,#u525
-{
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u149-3,#u522-3,#u525-3
-{
-	font-family: nova-square, sans-serif;
+	z-index: 8;
 	font-weight: 400;
+	background-color: transparent;
+	font-family: andika, sans-serif;
 }
 
-#u426-4
+#u852
 {
-	z-index: 15;
-	width: 287px;
-	min-height: 25px;
-	background-color: transparent;
-	margin-left: 889px;
-	margin-top: 15px;
+	background-position: center center;
+	z-index: 17;
 	position: relative;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#u910
+{
+	margin-right: -10000px;
+	position: relative;
+	background-position: center center;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	z-index: 18;
+	background-size: cover;
+}
+
+#u922
+{
+	margin-right: -10000px;
+	position: relative;
+	background-position: center center;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	z-index: 19;
+	background-size: cover;
+}
+
+#accordionu988
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	position: relative;
+	z-index: 20;
+	border-width: 1px;
+	background-color: transparent;
+}
+
+#u989
+{
+	z-index: 21;
+	background-color: transparent;
+	position: relative;
+}
+
+#u992-4
+{
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 22;
+	background-color: #DEDEDE;
+}
+
+#u992-4:hover,#u992-4:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F2F2F2;
+	margin-top: 0px;
+}
+
+#u992-4.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	margin-top: 0px;
+}
+
+#u990
+{
+	border-style: solid;
+	padding-bottom: 14px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 26;
+	border-width: 1px;
+	background-color: #FFFFFF;
+}
+
+#u991-6
+{
+	z-index: 27;
+	color: #7F7F7F;
+	min-height: 105px;
+	position: relative;
+	line-height: 20px;
+	background-color: transparent;
+	font-family: andika, sans-serif;
+	border-color: transparent;
+	margin-right: -10000px;
+	border-width: 0px;
+	font-weight: 400;
+	margin-top: -1px;
+}
+
+#u997
+{
+	z-index: 33;
+	background-color: transparent;
+	position: relative;
+}
+
+#u998-4
+{
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 34;
+	min-height: 14px;
+	background-color: #DEDEDE;
+}
+
+#u999
+{
+	border-style: solid;
+	padding-bottom: 66px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 38;
+	border-width: 1px;
+	background-color: #FFFFFF;
+}
+
+#u1000-4
+{
+	z-index: 39;
+	color: #999999;
+	min-height: 53px;
+	position: relative;
+	line-height: 20px;
+	background-color: transparent;
+	font-family: andika, sans-serif;
+	border-color: transparent;
+	margin-right: -10000px;
+	border-width: 0px;
+	font-weight: 400;
+	margin-top: -1px;
+}
+
+#u993
+{
+	z-index: 43;
+	background-color: transparent;
+	position: relative;
+}
+
+#u996-4
+{
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 44;
+	min-height: 14px;
+	background-color: #DEDEDE;
+}
+
+#u998-4:hover,#u998-4:active,#u996-4:hover,#u996-4:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	min-height: 14px;
+	background-color: #F2F2F2;
+	margin-top: 0px;
+}
+
+#u998-4.AccordionPanelTabOpen,#u996-4.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	min-height: 14px;
+	background-color: #FFFFFF;
+	margin-top: 0px;
+}
+
+#u992-4.AccordionPanelTabOpen p,#u998-4.AccordionPanelTabOpen p,#u996-4.AccordionPanelTabOpen p
+{
+	font-style: normal;
+	color: #4F4F4F;
+	font-weight: 400;
+	visibility: inherit;
+	font-family: andika, sans-serif;
+}
+
+#u992-3,#u998-3,#u996-3
+{
+	color: #999999;
+	line-height: 14px;
+	font-weight: 400;
+	margin-left: 10px;
+	font-family: andika, sans-serif;
+}
+
+#u994
+{
+	border-style: solid;
+	padding-bottom: 13px;
+	border-color: #FFFFFF;
+	position: relative;
+	z-index: 48;
+	border-width: 1px;
+	background-color: #FFFFFF;
+}
+
+#u995-4
+{
+	z-index: 49;
+	color: #999999;
+	min-height: 105px;
+	position: relative;
+	line-height: 20px;
+	background-color: transparent;
+	font-family: andika, sans-serif;
+	border-color: transparent;
+	margin-right: -10000px;
+	border-width: 0px;
+	font-weight: 400;
+	margin-top: -1px;
+}
+
+.AccordionPanelTab
+{
+	cursor: pointer;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/mediabackground.jpg") repeat left top scroll;
+	background-color: #FFFFFF;
 }
 
 body
 {
-	position: relative;
-	min-width: 1199px;
 	padding-bottom: 20px;
+	position: relative;
+}
+
+@media (min-width: 921px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 735px;
+		padding-bottom: 59px;
+		width: 100%;
+		max-width: 960px;
+	}
+
+	#pu753-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 436px;
+		margin-left: -3px;
+	}
+
+	#u753-4
+	{
+		width: 40px;
+		min-height: 28px;
+		margin-left: 20px;
+	}
+
+	#u852
+	{
+		width: 320px;
+		height: 264px;
+		background-image: url("../images/salz-u852-fr.jpg");
+		margin-top: 270px;
+	}
+
+	#pu126-4
+	{
+		margin-top: 78px;
+		width: 96.57%;
+		margin-left: 1.67%;
+	}
+
+	#u126-4
+	{
+		width: 70.02%;
+		margin-left: 2.27%;
+	}
+
+	#accordionu988
+	{
+		margin-top: 339px;
+		width: 99.79%;
+	}
+
+	#u992-4
+	{
+		min-height: 14px;
+		width: 100%;
+	}
+
+	#u992-4:hover
+	{
+		min-height: 14px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u992-4:active
+	{
+		min-height: 14px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u992-4.AccordionPanelTabOpen
+	{
+		min-height: 14px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u989,#u990,#u997,#u998-4
+	{
+		width: 100%;
+	}
+
+	#u998-4:hover
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u998-4:active
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u999,#u993,#u996-4
+	{
+		width: 100%;
+	}
+
+	#u998-4.AccordionPanelTabOpen,#u996-4:hover
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u996-4:active
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u996-4.AccordionPanelTabOpen
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u991-6,#u1000-4,#u995-4
+	{
+		width: 98.38%;
+		left: 0.98%;
+	}
+
+	#u766-5
+	{
+		width: 687px;
+		min-height: 90px;
+		margin-top: 144px;
+		left: 35px;
+	}
+
+	#u1125-9
+	{
+		margin-top: 234px;
+		width: 71.57%;
+		left: 3.65%;
+	}
+
+	#u910
+	{
+		width: 320px;
+		height: 264px;
+		background-image: url("../images/mede-u910-fr.jpg");
+		margin-top: 734px;
+		left: 317px;
+	}
+
+	#u922
+	{
+		width: 320px;
+		height: 264px;
+		background-image: url("../images/lux-u922-fr.jpg");
+		margin-top: 734px;
+		left: 637px;
+	}
+
+	#u139
+	{
+		margin-top: 82px;
+		width: 18.13%;
+		left: 76.78%;
+	}
+
+	#u994,#u139_img
+	{
+		width: 100%;
+	}
+
+}
+
+@media (max-width: 920px)
+{
+	#muse_css_mq
+	{
+		background-color: #000398;
+	}
+
+	#bp_920.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 714px;
+		min-height: 794px;
+	}
+
+	#page_position_content
+	{
+		padding-top: 78px;
+		padding-bottom: 59px;
+		width: 0.01px;/* should not cover content below */
+	}
+
+	#ppu126-4
+	{
+		width: 0.01px;
+		margin-left: 26px;
+	}
+
+	#pu126-4
+	{
+		width: 0.01px;
+		padding-bottom: 0px;
+	}
+
+	#u126-4
+	{
+		width: 508px;
+		margin-left: 1px;
+	}
+
+	#pu766-5
+	{
+		width: 0.01px;
+		margin-top: 9px;
+	}
+
+	#u766-5
+	{
+		width: 503px;
+		min-height: 141px;
+		left: 10px;
+	}
+
+	#u1125-9
+	{
+		width: 515px;
+		margin-top: 90px;
+	}
+
+	#u139
+	{
+		width: 136px;
+		margin-top: 4px;
+		left: 526px;
+	}
+
+	#pu753-4
+	{
+		margin-left: -103px;
+		margin-top: 78px;
+	}
+
+	#u753-4
+	{
+		width: 531px;
+		min-height: 81px;
+		margin-right: -10000px;
+		left: 158px;
+	}
+
+	#u852
+	{
+		width: 307px;
+		height: 235px;
+		background-image: url("../images/salz-u852-fr2.jpg");
+		margin-right: -10000px;
+		margin-top: 202px;
+	}
+
+	#u910
+	{
+		width: 307px;
+		height: 235px;
+		background-image: url("../images/mede-u910-fr2.jpg");
+		margin-top: 203px;
+		left: 308px;
+	}
+
+	#u922
+	{
+		width: 307px;
+		height: 235px;
+		background-image: url("../images/lux-u922-fr2.jpg");
+		margin-top: 203px;
+		left: 613px;
+	}
+
+	#accordionu988
+	{
+		width: 694px;
+		margin-right: -10000px;
+		margin-top: 64px;
+		left: 114px;
+	}
+
+	#u992-4
+	{
+		width: 694px;
+		min-height: 28px;
+	}
+
+	#u992-4:hover
+	{
+		margin-left: 0px;
+		min-height: 28px;
+		width: 694px;
+	}
+
+	#u992-4:active
+	{
+		margin-left: 0px;
+		min-height: 28px;
+		width: 694px;
+	}
+
+	#u992-4.AccordionPanelTabOpen
+	{
+		margin-left: 0px;
+		min-height: 28px;
+		width: 694px;
+	}
+
+	#u991-6
+	{
+		width: 683px;
+		left: 6px;
+	}
+
+	#u989,#u990,#u997,#u998-4
+	{
+		width: 694px;
+	}
+
+	#u998-4:hover
+	{
+		margin-left: 0px;
+		width: 694px;
+	}
+
+	#u998-4:active
+	{
+		margin-left: 0px;
+		width: 694px;
+	}
+
+	#u999,#u993,#u996-4
+	{
+		width: 694px;
+	}
+
+	#u998-4.AccordionPanelTabOpen,#u996-4:hover
+	{
+		margin-left: 0px;
+		width: 694px;
+	}
+
+	#u996-4:active
+	{
+		margin-left: 0px;
+		width: 694px;
+	}
+
+	#u996-4.AccordionPanelTabOpen
+	{
+		margin-left: 0px;
+		width: 694px;
+	}
+
+	#u994
+	{
+		width: 694px;
+	}
+
+	#u1000-4,#u995-4
+	{
+		width: 683px;
+		left: 7px;
+	}
+
+	body
+	{
+		min-width: 720px;
+	}
 }
 

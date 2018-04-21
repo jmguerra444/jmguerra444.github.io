@@ -1,0 +1,131 @@
+.version.logo /* version checker */
+{
+	color: #00001D;
+	background-color: #5EC47F;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu710-4
+{
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	width: 89.28%;
+	margin-left: 4.8%;
+}
+
+#u710-4
+{
+	z-index: 4;
+	min-height: 56px;
+	background-color: transparent;
+	color: #2E3192;
+	line-height: 58px;
+	font-size: 48px;
+	text-align: center;
+	font-family: bowlby-one-sc, sans-serif;
+	font-weight: 400;
+	position: relative;
+	width: 98.6%;
+	margin-left: 1.29%;
+}
+
+#u688
+{
+	z-index: 2;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 31.39%;
+}
+
+#u769-7
+{
+	z-index: 8;
+	width: 503px;
+	min-height: 141px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 23px;
+	font-family: andika, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 173px;
+	left: 347px;
+}
+
+#u769-2,#u769-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u769,#u769-4
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u790
+{
+	z-index: 15;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+	width: 10.53%;
+	left: 45.42%;
+}
+
+#u688_img,#u790_img
+{
+	width: 100%;
+}
+
+#u1158
+{
+	z-index: 17;
+	background-color: transparent;
+	-webkit-transform: matrix(-1,0,0,-1,44,31);
+	-ms-transform: matrix(-1,0,0,-1,44,31);
+	transform: matrix(-1,0,0,-1,44,31);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 419px;
+	width: 4.59%;
+	left: 92.61%;
+}
+
+#u1156
+{
+	z-index: 18;
+	display: block;
+	width: 100%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+
