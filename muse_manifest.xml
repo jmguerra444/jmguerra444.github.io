@@ -1,27 +1,32 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1524350103335">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1524651564546">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="462924315" ref="index"/>
-    <file name="galeria.css" crc="33464110" ref="galeria"/>
-    <file name="logo.css" crc="492749951" ref="logo"/>
-    <file name="nomq_index.css" crc="4152274949" ref="index"/>
+    <file name="index.css" crc="3971907688" ref="index"/>
+    <file name="galeria.css" crc="3770815626" ref="galeria"/>
+    <file name="logo.css" crc="347414042" ref="logo"/>
+    <file name="nomq_index.css" crc="465250419" ref="index"/>
+    <file name="tg.css" crc="185410105" ref="tg"/>
+    <file name="inv.css" crc="4250810954" ref="inv"/>
   </folder>
   <folder name="assets">
     <file name="le-baseball.pptx" crc="4091408974" seo="true" mt="1494370881000"/>
     <file name="cv_jorgemarioguerra.pdf" crc="173867506" seo="true" mt="1524305268000"/>
+    <file name="informe-final-trabajo-de-grado--jorge-mario-guerra-gonzález.pdf" crc="291561078" seo="true" mt="1477970750000"/>
+    <file name="blocks.png" crc="3890959484" seo="true" mt="1524572513000"/>
+    <file name="filter.png" crc="4118821140" seo="true" mt="1524572177000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:logo:galeria"/>
-    <file name="museutils.js" crc="3790713428" ref="index:logo:galeria"/>
-    <file name="whatinput.js" crc="84559013" ref="index:logo:galeria"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:logo:galeria"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:galeria"/>
-    <file name="webpro.js" crc="329496574" ref="index:galeria"/>
-    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:logo:galeria:tg:inv"/>
+    <file name="museutils.js" crc="3790713428" ref="index:logo:galeria:tg:inv"/>
+    <file name="whatinput.js" crc="84559013" ref="index:logo:galeria:tg:inv"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:logo:galeria:tg:inv"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:galeria:tg:inv"/>
+    <file name="webpro.js" crc="329496574" ref="index:galeria:tg:inv"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:tg"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="galeria"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="galeria"/>
-    <file name="touchswipe.js" crc="497316881" ref="galeria"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="galeria:inv"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="galeria:inv"/>
+    <file name="touchswipe.js" crc="497316881" ref="galeria:inv"/>
   </folder>
   <folder name="images">
     <file name="logo6.png" crc="3774615150" seo="true" ref="index:logo"/>
@@ -34,13 +39,24 @@
     <file name="mede-u910-fr2.jpg" crc="500688895" ref="index"/>
     <file name="lux-u922-fr2.jpg" crc="4231535325" ref="index"/>
     <file name="imwy.jpg" crc="149334874" seo="true" ref="logo"/>
-    <file name="svg-pegado-607x42.svg" crc="3817506084" ref="logo:galeria"/>
-    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo"/>
+    <file name="svg-pegado-607x42.svg" crc="3817506084" ref="logo:galeria:tg:inv"/>
+    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo:inv"/>
     <file name="lux.jpg" crc="401758683" ref="galeria"/>
     <file name="mede.jpg" crc="3929310367" ref="galeria"/>
     <file name="salz.jpg" crc="187501899" ref="galeria"/>
+    <file name="filter-u1590-fr.jpg" crc="4035359949" ref="tg"/>
+    <file name="result.jpg" crc="3960443069" ref="tg"/>
+    <file name="gui1.jpg" crc="4066390819" ref="tg"/>
+    <file name="gui2.jpg" crc="3942241015" ref="tg"/>
+    <file name="gui3.jpg" crc="234141689" ref="tg"/>
+    <file name="gr-hoop-house.jpg" crc="51305796" ref="inv"/>
+    <file name="esquema_proyecto_café.jpg" crc="4140409536" ref="inv"/>
+    <file name="img_1374.jpg" crc="4020207912" ref="inv"/>
+    <file name="img_1363.jpg" crc="3952284302" ref="inv"/>
   </folder>
-  <file name="index.html" crc="3822741949" seo="true" mt="1524350102641" redirect="true"/>
-  <file name="logo.html" crc="237531090" seo="true" mt="1524349126214" redirect="true"/>
-  <file name="galeria.html" crc="338431345" seo="true" mt="1524349980087" redirect="true"/>
+  <file name="index.html" crc="312459222" seo="true" mt="1524651563636" redirect="true"/>
+  <file name="logo.html" crc="4149799723" seo="true" mt="1524569213382" redirect="true"/>
+  <file name="galeria.html" crc="341072858" seo="true" mt="1524569190260" redirect="true"/>
+  <file name="tg.html" crc="57738844" seo="true" mt="1524573208527" redirect="true"/>
+  <file name="inv.html" crc="3839553546" seo="true" mt="1524651563585" redirect="true"/>
 </manifest>

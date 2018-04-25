@@ -20,7 +20,7 @@
 	{
 		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 436px;
+		margin-top: 357px;
 		margin-left: -3px;
 	}
 
@@ -28,6 +28,7 @@
 	{
 		width: 40px;
 		min-height: 28px;
+		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 		margin-left: 20px;
 	}
 
@@ -48,49 +49,40 @@
 
 	#u126-4
 	{
-		width: 70.02%;
-		margin-left: 2.27%;
+		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+		width: 94.83%;
+		margin-left: 2.05%;
 	}
 
 	#accordionu988
 	{
-		margin-top: 339px;
+		margin-top: 260px;
 		width: 99.79%;
 	}
 
-	#u992-4
+	#u989,#u992-4
 	{
-		min-height: 14px;
 		width: 100%;
 	}
 
 	#u992-4:hover
 	{
-		min-height: 14px;
 		width: 100%;
 		margin-left: 0%;
 	}
 
 	#u992-4:active
 	{
-		min-height: 14px;
 		width: 100%;
 		margin-left: 0%;
 	}
 
-	#u992-4.AccordionPanelTabOpen
-	{
-		min-height: 14px;
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u989,#u990,#u997,#u998-4
+	#u990,#u997,#u998-4
 	{
 		width: 100%;
 	}
 
-	#u998-4:hover
+	#u992-4.AccordionPanelTabOpen,#u998-4:hover
 	{
 		width: 100%;
 		margin-left: 0%;
@@ -135,15 +127,24 @@
 	{
 		width: 687px;
 		min-height: 90px;
+		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 		margin-top: 144px;
 		left: 35px;
 	}
 
-	#u1125-9
+	#u1125-18
 	{
 		margin-top: 234px;
 		width: 71.57%;
 		left: 3.65%;
+	}
+
+	#pu910
+	{
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: 655px;
+		margin-left: 188px;
 	}
 
 	#u910
@@ -151,8 +152,7 @@
 		width: 320px;
 		height: 264px;
 		background-image: url("../images/mede-u910-fr.jpg");
-		margin-top: 734px;
-		left: 317px;
+		left: 130px;
 	}
 
 	#u922
@@ -160,15 +160,23 @@
 		width: 320px;
 		height: 264px;
 		background-image: url("../images/lux-u922-fr.jpg");
-		margin-top: 734px;
-		left: 637px;
+		left: 450px;
+	}
+
+	#u1523-4
+	{
+		width: 579px;
+		min-height: 28px;
+		color: #ED1C24;
+		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+		margin-top: 10px;
 	}
 
 	#u139
 	{
-		margin-top: 82px;
+		margin-top: 161px;
 		width: 18.13%;
-		left: 76.78%;
+		left: 77.09%;
 	}
 
 	#u994,#u139_img

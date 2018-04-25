@@ -1,7 +1,7 @@
 .version.logo /* version checker */
 {
-	color: #00001D;
-	background-color: #5EC47F;
+	color: #000014;
+	background-color: #B51E1A;
 }
 
 #page
@@ -34,11 +34,10 @@
 	min-height: 56px;
 	background-color: transparent;
 	color: #2E3192;
-	line-height: 58px;
 	font-size: 48px;
 	text-align: center;
-	font-family: bowlby-one-sc, sans-serif;
-	font-weight: 400;
+	line-height: 58px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	width: 98.6%;
 	margin-left: 1.29%;
@@ -53,28 +52,27 @@
 	width: 31.39%;
 }
 
-#u769-7
+#u769-9
 {
 	z-index: 8;
 	width: 503px;
 	min-height: 141px;
 	background-color: transparent;
-	line-height: 28px;
 	font-size: 23px;
-	font-family: andika, sans-serif;
-	font-weight: 400;
+	line-height: 28px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 173px;
 	left: 347px;
 }
 
-#u769-2,#u769-5
+#u769-2,#u769-7
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u769,#u769-4
+#u769,#u769-6
 {
 	font-size: 14px;
 	line-height: 17px;
@@ -82,13 +80,13 @@
 
 #u790
 {
-	z-index: 15;
+	z-index: 17;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 229px;
+	margin-top: 250px;
 	width: 10.53%;
-	left: 45.42%;
+	left: 46.98%;
 }
 
 #u688_img,#u790_img
@@ -98,7 +96,7 @@
 
 #u1158
 {
-	z-index: 17;
+	z-index: 19;
 	background-color: transparent;
 	-webkit-transform: matrix(-1,0,0,-1,44,31);
 	-ms-transform: matrix(-1,0,0,-1,44,31);
@@ -112,7 +110,7 @@
 
 #u1156
 {
-	z-index: 18;
+	z-index: 20;
 	display: block;
 	width: 100%;
 }

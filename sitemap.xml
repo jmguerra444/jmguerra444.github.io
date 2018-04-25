@@ -13,32 +13,62 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ejemplo.com/assets/informe-final-trabajo-de-grado--jorge-mario-guerra-gonz%C3%A1lez.pdf</loc>
+    <lastmod>2016-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ejemplo.com/assets/blocks.png</loc>
+    <lastmod>2018-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ejemplo.com/assets/filter.png</loc>
+    <lastmod>2018-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ejemplo.com/images/logo6.png</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ejemplo.com/images/imwy.jpg</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ejemplo.com/index.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ejemplo.com/logo.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ejemplo.com/galeria.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ejemplo.com/tg.html</loc>
+    <lastmod>2018-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ejemplo.com/inv.html</loc>
+    <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
