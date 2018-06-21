@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "logo.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "logo.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?131700929"/>
-  <link rel="stylesheet" type="text/css" href="css/logo.css?347414042" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/logo.css?25569271" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -22,25 +22,20 @@
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="u1777-4"><!-- content -->
+    <p>Questions about this</p>
+   </div>
    <div class="clearfix grpelem" id="pu710-4"><!-- column -->
     <div class="clearfix colelem" id="u710-4"><!-- content -->
-     <p>what is this?</p>
+     <p>Questions</p>
     </div>
-    <div class="clip_frame colelem" id="u688"><!-- image -->
-     <img class="block" id="u688_img" src="images/logo6.png" alt="" data-image-width="269" data-image-height="245"/>
-    </div>
+    <ul class="AccordionWidget clearfix colelem" id="accordionu1778"><!-- vertical box -->
+     <li class="AccordionPanel borderbox clearfix colelem" id="u1783"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u1786-4"><!-- content --><div id="u1786-3"><p>Is this a professional or non-professional thing?</p></div></div><div class="AccordionPanelContent borderbox clearfix colelem" id="u1784"><!-- group --><div class="clearfix grpelem" id="u1785-4"><!-- content --><p>Not professional, but I might use it to show people in some professional situations my interests and what I like doing. I don't sell or offer anything here. I don't collect any kind of data</p></div></div></li>
+     <li class="AccordionPanel borderbox clearfix colelem" id="u1779"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u1782-4"><!-- content --><div id="u1782-3"><p>¿Por qué está tu página en inglés? (Why is your website in English?)</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u1780"><!-- group --><div class="clearfix grpelem" id="u1781-6"><!-- content --><p><span id="u1781">Como hablante nativo, prefiero crear contenido en mi propio idioma, sin embargo, en esta situación quisiera la página como algo más internacional</span></p><p><span id="u1781-3">As a native speaker I like to create content in my own language, however, in this situation I would like to make this space something more international.</span></p></div></div></li>
+     <li class="AccordionPanel borderbox clearfix colelem" id="u1818"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u1819-4"><!-- content --><div id="u1819-3"><p>What is that logo?</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u1820"><!-- group --><a class="nonblock nontext MuseLinkActive museBGSize grpelem" id="u2191" href="logo.html"><!-- simple frame --></a><div class="clearfix grpelem" id="u769-4"><!-- content --><p id="u769-2"><span id="u769">This is a personal logo Idesigned a while ago, It had no intention at all, I just drew it on my iPad and I thought it was cool. Why not....</span></p></div></div></li>
+    </ul>
+    <a class="nonblock nontext clip_frame colelem" id="u1158" href="index.html" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- svg --><img class="svg" id="u1156" src="images/svg-pegado-607x42.svg" alt="" data-mu-svgfallback="images/svg%20pegado%20607x42_poster_.png" data-image-width="44" data-image-height="31"/></a>
    </div>
-   <div class="clearfix grpelem" id="u769-9"><!-- content -->
-    <p id="u769-2"><span id="u769">This is a personal logo Idesigned a while ago, It had no intention at all, I just drew it on my iPad and I thought it was cool. Why not.... it might be well recognized in the future 🤷‍♂️.</span></p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p id="u769-7"><span id="u769-6">Don't steal it</span></p>
-   </div>
-   <div class="clip_frame grpelem" id="u790"><!-- image -->
-    <img class="block" id="u790_img" src="images/imwy.jpg" alt="" data-image-width="101" data-image-height="76"/>
-   </div>
-   <a class="nonblock nontext clip_frame grpelem" id="u1158" href="index.html" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- svg --><img class="svg" id="u1156" src="images/svg-pegado-607x42.svg" alt="" data-mu-svgfallback="images/svg%20pegado%20607x42_poster_.png" data-image-width="44" data-image-height="31"/></a>
    <div class="verticalspacer"></div>
   </div>
   <!-- JS includes -->
@@ -52,6 +47,9 @@
 </script>
   <script src="scripts/museutils.js?3790713428" type="text/javascript"></script>
   <script src="scripts/whatinput.js?84559013" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?3918880840" type="text/javascript"></script>
+  <script src="scripts/webpro.js?329496574" type="text/javascript"></script>
+  <script src="scripts/musewpdisclosure.js?4234230767" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4244854265" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -62,6 +60,7 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.initWidget('#accordionu1778', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:false,defaultIndex:0}); });/* #accordionu1778 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});

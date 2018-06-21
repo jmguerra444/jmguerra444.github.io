@@ -1,0 +1,273 @@
+.version.caf /* version checker */
+{
+	color: #00000D;
+	background-color: #5A6DC2;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1941-4
+{
+	z-index: 2;
+	min-height: 56px;
+	background-color: transparent;
+	line-height: 38px;
+	color: #2E3192;
+	font-size: 32px;
+	text-align: center;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+	width: 88.03%;
+	left: 5.94%;
+}
+
+#u1940-8
+{
+	z-index: 6;
+	width: 846px;
+	min-height: 63px;
+	background-color: transparent;
+	font-size: 23px;
+	line-height: 28px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 172px;
+	left: 57px;
+}
+
+#u1940-2,#u1940-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1940,#u1940-4
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#pu1899
+{
+	margin-right: -10000px;
+	margin-top: 280px;
+	width: 72.4%;
+	margin-left: 24.9%;
+}
+
+#u1899
+{
+	z-index: 14;
+	background-color: transparent;
+	-webkit-transform: matrix(-1,0,0,-1,44,31);
+	-ms-transform: matrix(-1,0,0,-1,44,31);
+	transform: matrix(-1,0,0,-1,44,31);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 385px;
+	width: 6.34%;
+	left: 93.67%;
+}
+
+#u1900
+{
+	z-index: 15;
+	display: block;
+	width: 100%;
+}
+
+#pamphletu1963
+{
+	z-index: 16;
+	width: 0.01px;
+	height: 415px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1974
+{
+	z-index: 17;
+	width: 201px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 370px;
+}
+
+#u1975
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #DEDEDE;
+	background-color: #DEDEDE;
+}
+
+#u1975:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1975.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #DEDEDE;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1977
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #C4C4C4;
+	background-color: #C4C4C4;
+	left: 70px;
+}
+
+#u1977:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1977.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1976
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	background-color: #999999;
+	left: 140px;
+}
+
+#u1976:hover
+{
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1976.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1968
+{
+	position: absolute;
+	width: 481px;
+	background-color: transparent;
+}
+
+#u1968popup
+{
+	z-index: 21;
+}
+
+#u1970
+{
+	z-index: 22;
+	width: 479px;
+	height: 359px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/esquema_proyecto_caf%c3%a9.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1971
+{
+	z-index: 23;
+	width: 479px;
+	height: 359px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/img_1374.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1969
+{
+	z-index: 24;
+	width: 479px;
+	height: 359px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #6B6B6B;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/img_1363.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+

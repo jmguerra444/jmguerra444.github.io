@@ -1,7 +1,7 @@
 .version.tg /* version checker */
 {
-	color: #00000B;
-	background-color: #0D2239;
+	color: #0000FF;
+	background-color: #DF98D3;
 }
 
 #page
@@ -498,7 +498,7 @@
 	margin-top: 69px;
 	width: 46.64%;
 	left: 46.96%;
-	background: transparent url("../images/filter-u1590-fr.jpg") no-repeat center center;
+	background: transparent url("../images/filter.jpg") no-repeat center center;
 	background-size: contain;
 }
 

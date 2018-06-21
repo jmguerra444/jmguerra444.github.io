@@ -16,172 +16,125 @@
 		max-width: 960px;
 	}
 
-	#pu753-4
+	#u1836
 	{
-		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 357px;
-		margin-left: -3px;
-	}
-
-	#u753-4
-	{
-		width: 40px;
-		min-height: 28px;
-		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-		margin-left: 20px;
+		margin-top: 507px;
+		width: 99.8%;
+		left: 0.21%;
 	}
 
 	#u852
 	{
-		width: 320px;
-		height: 264px;
+		width: 315px;
+		height: 255px;
 		background-image: url("../images/salz-u852-fr.jpg");
-		margin-top: 270px;
-	}
-
-	#pu126-4
-	{
-		margin-top: 78px;
-		width: 96.57%;
-		margin-left: 1.67%;
+		margin-top: 515px;
+		left: -3px;
 	}
 
 	#u126-4
 	{
+		min-height: 39px;
+		color: #FFFFFF;
 		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-		width: 94.83%;
-		margin-left: 2.05%;
+		margin-top: 76px;
+		width: 95.84%;
+		left: 1.78%;
 	}
 
-	#accordionu988
+	#pu766-5
 	{
-		margin-top: 260px;
-		width: 99.79%;
-	}
-
-	#u989,#u992-4
-	{
-		width: 100%;
-	}
-
-	#u992-4:hover
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u992-4:active
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u990,#u997,#u998-4
-	{
-		width: 100%;
-	}
-
-	#u992-4.AccordionPanelTabOpen,#u998-4:hover
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u998-4:active
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u999,#u993,#u996-4
-	{
-		width: 100%;
-	}
-
-	#u998-4.AccordionPanelTabOpen,#u996-4:hover
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u996-4:active
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u996-4.AccordionPanelTabOpen
-	{
-		width: 100%;
-		margin-left: 0%;
-	}
-
-	#u991-6,#u1000-4,#u995-4
-	{
-		width: 98.38%;
-		left: 0.98%;
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: 182px;
+		margin-left: 21px;
 	}
 
 	#u766-5
 	{
-		width: 687px;
+		width: 589px;
 		min-height: 90px;
 		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-		margin-top: 144px;
-		left: 35px;
-	}
-
-	#u1125-18
-	{
-		margin-top: 234px;
-		width: 71.57%;
-		left: 3.65%;
-	}
-
-	#pu910
-	{
-		width: 0.01px;
-		margin-right: -10000px;
-		margin-top: 655px;
-		margin-left: 188px;
-	}
-
-	#u910
-	{
-		width: 320px;
-		height: 264px;
-		background-image: url("../images/mede-u910-fr.jpg");
-		left: 130px;
-	}
-
-	#u922
-	{
-		width: 320px;
-		height: 264px;
-		background-image: url("../images/lux-u922-fr.jpg");
-		left: 450px;
+		margin-left: 14px;
 	}
 
 	#u1523-4
 	{
-		width: 579px;
-		min-height: 28px;
-		color: #ED1C24;
+		width: 291px;
+		min-height: 35px;
+		color: #000000;
 		font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-		margin-top: 10px;
+		margin-top: 254px;
 	}
 
-	#u139
+	#u1125-18
 	{
-		margin-top: 161px;
-		width: 18.13%;
-		left: 77.09%;
+		margin-top: 272px;
+		width: 61.36%;
+		left: 3.65%;
 	}
 
-	#u994,#u139_img
+	#ppu2154
 	{
-		width: 100%;
+		width: 0.01px;
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 439px;
+		margin-left: 313px;
+	}
+
+	#pu2154
+	{
+		width: 0.01px;
+		margin-left: 127px;
+	}
+
+	#u2154
+	{
+		width: 58px;
+		height: 53px;
+		background-image: url("../images/linkedin-icon-21-u2154-fr.png");
+	}
+
+	#u2148
+	{
+		width: 58px;
+		height: 53px;
+		background-image: url("../images/twitter-u2148-fr.png");
+		left: 63px;
+	}
+
+	#u2177
+	{
+		width: 58px;
+		height: 53px;
+		background-image: url("../images/logo6%20(1)-u2177-fr.png");
+		left: 126px;
+	}
+
+	#u910
+	{
+		width: 322px;
+		height: 255px;
+		background-image: url("../images/mede-u910-fr.jpg");
+		margin-top: 23px;
+	}
+
+	#u922
+	{
+		width: 321px;
+		height: 255px;
+		background-image: url("../images/lux-u922-fr.jpg");
+		margin-top: 515px;
+		left: 636px;
+	}
+
+	#u1720
+	{
+		margin-top: 128px;
+		width: 29.28%;
+		left: 67.4%;
 	}
 
 

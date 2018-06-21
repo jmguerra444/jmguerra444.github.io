@@ -1,7 +1,7 @@
 .version.logo /* version checker */
 {
-	color: #000014;
-	background-color: #B51E1A;
+	color: #000001;
+	background-color: #8627F7;
 }
 
 #page
@@ -19,98 +19,348 @@
 	margin-right: auto;
 }
 
+#u1777-4
+{
+	z-index: 8;
+	width: 207px;
+	min-height: 28px;
+	background-color: transparent;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 142px;
+	left: 20px;
+}
+
 #pu710-4
 {
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 68px;
-	width: 89.28%;
-	margin-left: 4.8%;
+	width: 96.57%;
+	margin-left: 1.98%;
 }
 
 #u710-4
 {
-	z-index: 4;
+	z-index: 2;
 	min-height: 56px;
 	background-color: transparent;
+	line-height: 58px;
 	color: #2E3192;
 	font-size: 48px;
 	text-align: center;
-	line-height: 58px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
-	width: 98.6%;
-	margin-left: 1.29%;
+	width: 91.16%;
+	margin-left: 4.1%;
 }
 
-#u688
+#accordionu1778
 {
-	z-index: 2;
+	z-index: 12;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F7F7F;
 	background-color: transparent;
-	margin-top: 19px;
+	margin-top: 53px;
 	position: relative;
-	width: 31.39%;
+	width: 99.79%;
 }
 
-#u769-9
+#u1783
 {
-	z-index: 8;
-	width: 503px;
-	min-height: 141px;
+	z-index: 13;
 	background-color: transparent;
-	font-size: 23px;
-	line-height: 28px;
+	position: relative;
+	width: 100%;
+}
+
+#u1786-4
+{
+	z-index: 14;
+	min-height: 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1786-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1786-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1784
+{
+	z-index: 18;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 66px;
+	position: relative;
+	width: 100%;
+}
+
+#u1785-4
+{
+	z-index: 19;
+	min-height: 53px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	color: #999999;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 173px;
-	left: 347px;
+	margin-top: -1px;
+	width: 98.38%;
+	left: 0.98%;
 }
 
-#u769-2,#u769-7
+#u1779
+{
+	z-index: 23;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+}
+
+#u1782-4
+{
+	z-index: 24;
+	min-height: 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1782-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1782-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1780
+{
+	z-index: 28;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 13px;
+	position: relative;
+	width: 100%;
+}
+
+#u1781-6
+{
+	z-index: 29;
+	min-height: 105px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	color: #999999;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	width: 98.38%;
+	left: 0.98%;
+}
+
+#u1781
+{
+	color: #7F7F7F;
+	font-style: italic;
+}
+
+#u1781-3
+{
+	color: #7F7F7F;
+}
+
+#u1818
+{
+	z-index: 35;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+}
+
+#u1819-4
+{
+	z-index: 36;
+	min-height: 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1819-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1819-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1786-4.AccordionPanelTabOpen,#u1782-4.AccordionPanelTabOpen,#u1819-4.AccordionPanelTabOpen
+{
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1786-4.AccordionPanelTabOpen p,#u1782-4.AccordionPanelTabOpen p,#u1819-4.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+}
+
+#u1786-3,#u1782-3,#u1819-3
+{
+	line-height: 14px;
+	color: #999999;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	margin-left: 10px;
+}
+
+#u1820
+{
+	z-index: 40;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 14px;
+	position: relative;
+	width: 100%;
+}
+
+#u2191
+{
+	z-index: 45;
+	width: 98px;
+	height: 87px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 18px;
+	background: transparent url("../images/logo6%20(1)-u2191-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u769-4
+{
+	z-index: 41;
+	width: 761px;
+	min-height: 78px;
+	background-color: transparent;
+	line-height: 28px;
+	color: #7F7F7F;
+	font-size: 23px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 129px;
+}
+
+#u769-2
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u769,#u769-6
+#u769
 {
 	font-size: 14px;
 	line-height: 17px;
 }
 
-#u790
+.AccordionPanelTab /* accordion */
 {
-	z-index: 17;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 250px;
-	width: 10.53%;
-	left: 46.98%;
-}
-
-#u688_img,#u790_img
-{
-	width: 100%;
+	cursor: pointer;
 }
 
 #u1158
 {
-	z-index: 19;
+	z-index: 6;
 	background-color: transparent;
 	-webkit-transform: matrix(-1,0,0,-1,44,31);
 	-ms-transform: matrix(-1,0,0,-1,44,31);
 	transform: matrix(-1,0,0,-1,44,31);
+	margin-top: 20px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 419px;
-	width: 4.59%;
-	left: 92.61%;
+	width: 4.75%;
+	margin-left: 93.42%;
 }
 
 #u1156
 {
-	z-index: 20;
+	z-index: 7;
 	display: block;
 	width: 100%;
 }

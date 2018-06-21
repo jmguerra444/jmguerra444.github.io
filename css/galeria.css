@@ -1,7 +1,7 @@
 .version.galeria /* version checker */
 {
-	color: #0000E0;
-	background-color: #C2148A;
+	color: #0000E2;
+	background-color: #8FACE0;
 }
 
 #page
@@ -96,7 +96,7 @@
 	color: #C4C4C4;
 	text-align: center;
 	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
@@ -136,6 +136,13 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+}
+
+#u1201.PamphletThumbSelected #u1202-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 }
 
 #u1203
@@ -188,7 +195,7 @@
 	color: #C4C4C4;
 	text-align: center;
 	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
@@ -231,7 +238,7 @@
 	visibility: inherit;
 }
 
-#u1201.PamphletThumbSelected #u1202-4 p,#u1203:active #u1204-4 p
+#u1203:active #u1204-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -287,7 +294,7 @@
 	color: #C4C4C4;
 	text-align: center;
 	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -361,7 +368,7 @@
 	height: 480px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #1B1464;
+	background-color: #FFFFFF;
 	padding-bottom: 1px;
 	margin-right: -10000px;
 	position: relative;
@@ -381,10 +388,9 @@
 	z-index: 28;
 	min-height: 60px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #000000;
 	line-height: 20px;
-	font-family: andika, sans-serif;
-	font-weight: 400;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	margin-top: 20px;
 	position: relative;
 	width: 93.55%;
@@ -393,6 +399,7 @@
 
 #u1213-2
 {
+	font-weight: bold;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
@@ -409,7 +416,7 @@
 	height: 480px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #1B1464;
+	background-color: #FFFFFF;
 	padding-bottom: 1px;
 	margin-right: -10000px;
 	position: relative;
@@ -429,11 +436,24 @@
 	z-index: 36;
 	min-height: 60px;
 	background-color: transparent;
-	font-family: andika, sans-serif;
+	color: #000000;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	margin-top: 20px;
 	position: relative;
 	width: 93.55%;
 	margin-left: 3.23%;
+}
+
+#u1211-2
+{
+	font-size: 19px;
+	line-height: 23px;
+	font-weight: bold;
+}
+
+#u1211-4
+{
+	line-height: 20px;
 }
 
 #u1328
@@ -443,14 +463,14 @@
 	height: 481px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #1F003C;
+	background-color: #FFFFFF;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u1341
 {
-	z-index: 50;
+	z-index: 51;
 	position: relative;
 	width: 100%;
 	background: transparent url("../images/salz.jpg") no-repeat center center;
@@ -462,31 +482,35 @@
 	padding-bottom: 64.51612903225806%;
 }
 
-#u1338-6
+#u1338-7
 {
 	z-index: 44;
 	min-height: 60px;
 	background-color: transparent;
-	font-family: andika, sans-serif;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	margin-top: 21px;
 	position: relative;
 	width: 93.55%;
 	margin-left: 3.23%;
 }
 
-#u1211-2,#u1338-2
+#u1338-2
 {
 	font-size: 19px;
 	line-height: 23px;
-	color: #FFFFFF;
-	font-weight: 700;
+	color: #000000;
+	font-weight: bold;
 }
 
-#u1211-4,#u1338-4
+#u1338-5
 {
 	line-height: 20px;
 	color: #FFFFFF;
-	font-weight: 400;
+}
+
+#u1338-3
+{
+	color: #000000;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -508,7 +532,7 @@
 
 #u1344
 {
-	z-index: 51;
+	z-index: 52;
 	background-color: transparent;
 	-webkit-transform: matrix(-1,0,0,-1,44,31);
 	-ms-transform: matrix(-1,0,0,-1,44,31);
@@ -521,7 +545,7 @@
 
 #u1345
 {
-	z-index: 52;
+	z-index: 53;
 	display: block;
 	width: 100%;
 }
