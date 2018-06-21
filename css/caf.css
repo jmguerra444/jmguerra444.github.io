@@ -1,7 +1,7 @@
 .version.caf /* version checker */
 {
-	color: #00000D;
-	background-color: #5A6DC2;
+	color: #0000F3;
+	background-color: #5AB4AF;
 }
 
 #page
@@ -95,7 +95,7 @@
 {
 	z-index: 16;
 	width: 0.01px;
-	height: 415px;
+	height: 455px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -103,18 +103,18 @@
 #u1974
 {
 	z-index: 17;
-	width: 201px;
+	width: 151px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 370px;
+	margin-top: 424px;
 }
 
 #u1975
 {
 	position: absolute;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #DEDEDE;
@@ -124,8 +124,8 @@
 #u1975:hover
 {
 	border-color: #999999;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -134,8 +134,8 @@
 {
 	border-color: #999999;
 	background-color: #DEDEDE;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -143,20 +143,20 @@
 #u1977
 {
 	position: absolute;
-	width: 59px;
-	height: 44px;
+	width: 30px;
+	height: 30px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #C4C4C4;
-	left: 70px;
+	left: 39px;
 }
 
 #u1977:hover
 {
 	border-color: #999999;
-	width: 59px;
-	height: 44px;
+	width: 30px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -164,8 +164,8 @@
 #u1977.PamphletThumbSelected
 {
 	border-color: #999999;
-	width: 59px;
-	height: 44px;
+	width: 30px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -173,29 +173,50 @@
 #u1976
 {
 	position: absolute;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #999999;
 	background-color: #999999;
-	left: 140px;
+	left: 80px;
 }
 
 #u1976:hover
 {
 	border-color: #6B6B6B;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1976.PamphletThumbSelected
+#u2286
+{
+	position: absolute;
+	width: 29px;
+	height: 30px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	background-color: #999999;
+	left: 120px;
+}
+
+#u1976.PamphletThumbSelected,#u2286:hover
 {
 	border-color: #6B6B6B;
-	width: 59px;
-	height: 44px;
+	width: 29px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2286.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	width: 29px;
+	height: 30px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -203,34 +224,34 @@
 #u1968
 {
 	position: absolute;
-	width: 481px;
+	width: 465px;
 	background-color: transparent;
 }
 
 #u1968popup
 {
-	z-index: 21;
+	z-index: 22;
 }
 
 #u1970
 {
-	z-index: 22;
-	width: 479px;
-	height: 359px;
+	z-index: 23;
+	width: 463px;
+	height: 414px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: transparent url("../images/esquema_proyecto_caf%c3%a9.jpg") no-repeat center center;
+	background: transparent url("../images/diagrama_1%20(1).jpg") no-repeat center center;
 	background-size: contain;
 }
 
 #u1971
 {
-	z-index: 23;
-	width: 479px;
-	height: 359px;
+	z-index: 24;
+	width: 463px;
+	height: 414px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #999999;
@@ -242,15 +263,29 @@
 
 #u1969
 {
-	z-index: 24;
-	width: 479px;
-	height: 359px;
+	z-index: 25;
+	width: 463px;
+	height: 414px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #6B6B6B;
 	margin-right: -10000px;
 	position: relative;
 	background: transparent url("../images/img_1363.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u2289
+{
+	z-index: 26;
+	width: 463px;
+	height: 414px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #6B6B6B;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/inv.jpg") no-repeat center center;
 	background-size: contain;
 }
 

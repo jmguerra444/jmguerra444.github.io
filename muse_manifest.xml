@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1529588487989">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1529621508261">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="516094970" ref="index"/>
+    <file name="index.css" crc="305630309" ref="index"/>
     <file name="galeria.css" crc="3801066720" ref="galeria"/>
     <file name="logo.css" crc="25569271" ref="logo"/>
-    <file name="nomq_index.css" crc="3819275908" ref="index"/>
-    <file name="tg.css" crc="4292843731" ref="tg"/>
-    <file name="caf.css" crc="224030146" ref="caf"/>
+    <file name="nomq_index.css" crc="154918506" ref="index"/>
+    <file name="tg.css" crc="254436968" ref="tg"/>
+    <file name="caf.css" crc="4082807983" ref="caf"/>
   </folder>
   <folder name="assets">
-    <file name="cv_jorgemarioguerra.pdf" crc="173867506" seo="true" mt="1524305268000"/>
+    <file name="cv_jorgemarioguerra.pdf" crc="39675140" seo="true" mt="1529588636000"/>
     <file name="informe-final-trabajo-de-grado--jorge-mario-guerra-gonzález.pdf" crc="291561078" seo="true" mt="1477970750000"/>
     <file name="blocks.png" crc="3890959484" seo="true" mt="1524572513000"/>
     <file name="filter.png" crc="4118821140" seo="true" mt="1524572177000"/>
@@ -28,7 +28,7 @@
     <file name="touchswipe.js" crc="497316881" ref="galeria:caf"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4062748155" ref="index"/>
+    <file name="favicon.ico" crc="4062748155" ref="index:tg"/>
     <file name="salz-u852-fr.jpg" crc="3768705475" ref="index"/>
     <file name="mede-u910-fr.jpg" crc="247988111" ref="index"/>
     <file name="lux-u922-fr.jpg" crc="4052265746" ref="index"/>
@@ -36,7 +36,7 @@
     <file name="mede-u910-fr2.jpg" crc="500688895" ref="index"/>
     <file name="lux-u922-fr2.jpg" crc="4231535325" ref="index"/>
     <file name="svg-pegado-607x42.svg" crc="3817506084" ref="logo:galeria:tg:caf"/>
-    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo"/>
+    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo:tg"/>
     <file name="lux.jpg" crc="401758683" ref="galeria"/>
     <file name="mede.jpg" crc="3929310367" ref="galeria"/>
     <file name="salz.jpg" crc="187501899" ref="galeria"/>
@@ -44,10 +44,8 @@
     <file name="gui1.jpg" crc="4066390819" ref="tg"/>
     <file name="gui2.jpg" crc="3942241015" ref="tg"/>
     <file name="gui3.jpg" crc="234141689" ref="tg"/>
-    <file name="esquema_proyecto_café.jpg" crc="11848600" ref="caf"/>
     <file name="img_1374.jpg" crc="294636740" ref="caf"/>
     <file name="img_1363.jpg" crc="4034646726" ref="caf"/>
-    <file name="photo1.png" crc="4022832932" ref="index"/>
     <file name="filter.jpg" crc="3928441847" ref="tg"/>
     <file name="linkedin-icon-21-u2154-fr.png" crc="4202947242" ref="index"/>
     <file name="twitter-u2148-fr.png" crc="409819242" ref="index"/>
@@ -56,10 +54,14 @@
     <file name="linkedin-icon-21.png" crc="406906218" ref="index"/>
     <file name="logo6 (1).png" crc="3774615150" ref="index"/>
     <file name="logo6 (1)-u2191-fr.png" crc="3910323841" ref="logo"/>
+    <file name="photo1-u1720.png" crc="4168797107" ref="index"/>
+    <file name="photo1-u17202.png" crc="4278475213" ref="index"/>
+    <file name="diagrama_1 (1).jpg" crc="168365245" ref="caf"/>
+    <file name="inv.jpg" crc="313195298" ref="caf"/>
   </folder>
-  <file name="index.html" crc="103278140" seo="true" mt="1529588438470" redirect="true"/>
-  <file name="logo.html" crc="353765635" seo="true" mt="1529588191865" redirect="true"/>
+  <file name="index.html" crc="4035038122" seo="true" mt="1529590000313" redirect="true"/>
+  <file name="logo.html" crc="353765635" seo="true" mt="1529589893418" redirect="true"/>
   <file name="galeria.html" crc="377361595" seo="true" mt="1529488714563" redirect="true"/>
-  <file name="tg.html" crc="177146407" seo="true" mt="1529488714564" redirect="true"/>
-  <file name="caf.html" crc="3763664495" seo="true" mt="1529587127321" redirect="true"/>
+  <file name="tg.html" crc="57738844" seo="true" mt="1529621418568" redirect="true"/>
+  <file name="caf.html" crc="391661595" seo="true" mt="1529621418751" redirect="true"/>
 </manifest>

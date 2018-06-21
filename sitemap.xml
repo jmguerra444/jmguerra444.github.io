@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ejemplo.com/assets/cv_jorgemarioguerra.pdf</loc>
-    <lastmod>2018-04-21</lastmod>
+    <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,13 +44,13 @@
   </url>
   <url>
     <loc>http://ejemplo.com/tg.html</loc>
-    <lastmod>2018-06-20</lastmod>
+    <lastmod>2018-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ejemplo.com/caf.html</loc>
-    <lastmod>2018-06-21</lastmod>
+    <lastmod>2018-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
