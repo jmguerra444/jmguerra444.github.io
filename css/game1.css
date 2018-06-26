@@ -1,7 +1,7 @@
 .version.game1 /* version checker */
 {
-	color: #0000F0;
-	background-color: #2E3EC9;
+	color: #0000F6;
+	background-color: #C9CC00;
 }
 
 #page
@@ -19,33 +19,16 @@
 	margin-right: auto;
 }
 
-#u2331-4
+#u2334-9
 {
 	z-index: 3;
-	min-height: 56px;
-	background-color: transparent;
-	line-height: 58px;
-	color: #2E3192;
-	font-size: 48px;
-	text-align: center;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 69px;
-	width: 95.42%;
-	left: 2.09%;
-}
-
-#u2334-7
-{
-	z-index: 7;
 	width: 207px;
 	min-height: 28px;
 	background-color: transparent;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
+	margin-top: 230px;
 	left: 48px;
 }
 
@@ -58,14 +41,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 137px;
+	margin-top: 62px;
 	width: 41.67%;
-	left: 27.71%;
+	left: 30.53%;
 }
 
 #u2346-4
 {
-	z-index: 16;
+	z-index: 14;
 	width: 41px;
 	min-height: 28px;
 	background-color: transparent;
@@ -73,27 +56,27 @@
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 488px;
-	left: 894px;
+	margin-top: 406px;
+	left: 889px;
 }
 
 #u2337
 {
-	z-index: 14;
+	z-index: 12;
 	background-color: transparent;
 	-webkit-transform: matrix(-1,0,0,-1,44,31);
 	-ms-transform: matrix(-1,0,0,-1,44,31);
 	transform: matrix(-1,0,0,-1,44,31);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 510px;
+	margin-top: 428px;
 	width: 4.59%;
-	left: 92.92%;
+	left: 92.4%;
 }
 
 #u2338
 {
-	z-index: 15;
+	z-index: 13;
 	display: block;
 	width: 100%;
 }
