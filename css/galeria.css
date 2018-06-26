@@ -1,7 +1,7 @@
 .version.galeria /* version checker */
 {
-	color: #0000E2;
-	background-color: #8FACE0;
+	color: #0000E5;
+	background-color: #A95CE6;
 }
 
 #page
@@ -25,10 +25,10 @@
 	z-index: 2;
 	min-height: 56px;
 	background-color: transparent;
+	line-height: 58px;
 	color: #2E3192;
 	font-size: 48px;
 	text-align: center;
-	line-height: 58px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	width: 88.03%;
@@ -93,9 +93,9 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -192,9 +192,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -291,9 +291,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -388,8 +388,8 @@
 	z-index: 28;
 	min-height: 60px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	margin-top: 20px;
 	position: relative;

@@ -1,53 +1,53 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #378C65;
+	color: #0000F0;
+	background-color: #F8CEF6;
 }
 
 #page
 {
-	background-color: #FFFFFF;
 	margin-right: auto;
-	border-width: 3px;
 	margin-left: auto;
 	border-color: #FFFFFF;
+	background-color: #FFFFFF;
 	border-style: solid;
 	z-index: 1;
 	background-image: none;
+	border-width: 3px;
 }
 
 #u1720
 {
-	background-position: 0px 0px;
-	position: relative;
-	margin-right: -10000px;
-	z-index: 2;
-	vertical-align: top;
 	background-repeat: no-repeat;
+	z-index: 2;
+	margin-right: -10000px;
+	position: relative;
+	background-position: 0px 0px;
+	vertical-align: top;
 	height: 369px;
 }
 
 #u126-4
 {
-	background-color: #2E3192;
 	font-size: 29px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
-	position: relative;
 	text-align: center;
+	position: relative;
 	filter: alpha(opacity=67);
-	opacity: 0.67;
-	z-index: 3;
-	line-height: 35px;
 	margin-right: -10000px;
+	opacity: 0.67;
+	background-color: #2E3192;
+	line-height: 35px;
+	z-index: 3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
 }
 
 #u766-5
 {
 	background-color: transparent;
-	font-size: 23px;
-	z-index: 7;
-	position: relative;
 	line-height: 28px;
+	z-index: 7;
+	font-size: 23px;
+	position: relative;
 }
 
 #u766-3
@@ -57,8 +57,8 @@
 
 #u766
 {
-	line-height: 17px;
 	font-size: 14px;
+	line-height: 17px;
 }
 
 #u766-2
@@ -68,11 +68,11 @@
 
 #u1125-18
 {
-	min-height: 98px;
 	background-color: transparent;
-	margin-right: -10000px;
 	z-index: 15;
+	margin-right: -10000px;
 	position: relative;
+	min-height: 98px;
 }
 
 #u1125-15 > li:before
@@ -82,8 +82,8 @@
 
 #u1125-4,#u1125-8
 {
-	font-weight: 400;
 	font-family: andika, sans-serif;
+	font-weight: 400;
 }
 
 #u1125-15 > #u1125-4:before,#u1125,#u1125-3,#u1125-15 > #u1125-8:before,#u1125-5,#u1125-7,#u1125-12,#u1125-14,#u1125-16
@@ -100,83 +100,83 @@
 
 #u1836
 {
-	height: 4px;
 	background-color: #7F7F7F;
 	z-index: 37;
 	position: relative;
+	height: 4px;
 }
 
 #u852
 {
-	background-color: transparent;
 	margin-right: -10000px;
+	opacity: 0.41;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=41)";
+	filter: alpha(opacity=41);
 	position: relative;
 	background-repeat: no-repeat;
-	filter: alpha(opacity=41);
-	background-position: center center;
-	opacity: 0.41;
+	background-color: transparent;
 	z-index: 12;
+	background-position: center center;
 	background-size: cover;
 }
 
 #u910
 {
-	background-color: transparent;
+	opacity: 0.41;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=41)";
-	background-repeat: no-repeat;
 	filter: alpha(opacity=41);
 	position: relative;
-	background-position: center center;
-	opacity: 0.41;
+	background-repeat: no-repeat;
+	background-color: transparent;
 	z-index: 13;
+	background-position: center center;
 	background-size: cover;
 }
 
 #u922
 {
-	background-color: transparent;
 	margin-right: -10000px;
+	opacity: 0.41;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=41)";
+	filter: alpha(opacity=41);
 	position: relative;
 	background-repeat: no-repeat;
-	filter: alpha(opacity=41);
-	background-position: center center;
-	opacity: 0.41;
+	background-color: transparent;
 	z-index: 14;
+	background-position: center center;
 	background-size: cover;
 }
 
 #u2148
 {
-	background-position: center center;
-	background-color: transparent;
-	margin-right: -10000px;
-	z-index: 38;
 	background-repeat: no-repeat;
+	background-position: center center;
+	z-index: 38;
+	margin-right: -10000px;
 	position: relative;
+	background-color: transparent;
 	background-size: cover;
 }
 
 #u2154
 {
-	background-position: center center;
-	background-color: transparent;
-	margin-right: -10000px;
-	z-index: 39;
 	background-repeat: no-repeat;
+	background-color: transparent;
+	z-index: 39;
+	margin-right: -10000px;
 	position: relative;
+	background-position: center center;
 	background-size: cover;
 }
 
 #u2177
 {
-	background-position: center center;
-	background-color: transparent;
-	margin-right: -10000px;
-	z-index: 40;
 	background-repeat: no-repeat;
+	background-position: center center;
+	z-index: 40;
+	margin-right: -10000px;
 	position: relative;
+	background-color: transparent;
 	background-size: cover;
 }
 

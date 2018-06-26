@@ -1,7 +1,7 @@
 .version.logo /* version checker */
 {
-	color: #000001;
-	background-color: #8627F7;
+	color: #0000F5;
+	background-color: #A16FC0;
 }
 
 #page
@@ -32,30 +32,6 @@
 	left: 20px;
 }
 
-#pu710-4
-{
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 68px;
-	width: 96.57%;
-	margin-left: 1.98%;
-}
-
-#u710-4
-{
-	z-index: 2;
-	min-height: 56px;
-	background-color: transparent;
-	line-height: 58px;
-	color: #2E3192;
-	font-size: 48px;
-	text-align: center;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	position: relative;
-	width: 91.16%;
-	margin-left: 4.1%;
-}
-
 #accordionu1778
 {
 	z-index: 12;
@@ -63,9 +39,11 @@
 	border-width: 1px;
 	border-color: #7F7F7F;
 	background-color: transparent;
-	margin-top: 53px;
 	position: relative;
-	width: 99.79%;
+	margin-right: -10000px;
+	margin-top: 179px;
+	width: 96.36%;
+	left: 1.98%;
 }
 
 #u1783
@@ -345,6 +323,42 @@
 	cursor: pointer;
 }
 
+#u2312-5
+{
+	z-index: 46;
+	width: 207px;
+	min-height: 28px;
+	background-color: transparent;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 429px;
+	left: 24px;
+}
+
+#pu710-4
+{
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	width: 90.84%;
+	margin-left: 5.94%;
+}
+
+#u710-4
+{
+	z-index: 2;
+	min-height: 56px;
+	background-color: transparent;
+	line-height: 58px;
+	color: #2E3192;
+	font-size: 48px;
+	text-align: center;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	width: 96.91%;
+}
+
 #u1158
 {
 	z-index: 6;
@@ -352,10 +366,10 @@
 	-webkit-transform: matrix(-1,0,0,-1,44,31);
 	-ms-transform: matrix(-1,0,0,-1,44,31);
 	transform: matrix(-1,0,0,-1,44,31);
-	margin-top: 20px;
+	margin-top: 303px;
 	position: relative;
-	width: 4.75%;
-	margin-left: 93.42%;
+	width: 5.05%;
+	margin-left: 94.96%;
 }
 
 #u1156
