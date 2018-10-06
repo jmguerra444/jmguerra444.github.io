@@ -35,7 +35,7 @@
         canv = document.getElementById("gc");
         ctx = canv.getContext("2d");
         document.addEventListener("keydown", keyPush);
-        setInterval(game, 1000 / 15);
+        setInterval(game, interval / 15);
     }
     px = py = 10;
     gs = tc = 20;
@@ -43,6 +43,7 @@
     xv = yv = 0;
     trail = [];
     tail = 5;
+    interval = 1000
 
     function game() {
         px += xv;
@@ -85,6 +86,17 @@
         }
         ctx.fillStyle = "#ffffff";
         ctx.fillRect(ax * gs, ay * gs, gs - 2, gs - 2);
+
+        /* text to print on the screen*/
+        var modificacion = get_score(trail.length);
+
+        /* show score*/
+        ctx.font = "20px Arial";
+        ctx.fillText("Score:  " + modificacion[0], 10, 30);
+
+        /* increase speed*/
+        interval = modificacion[1];
+
     }
 
     function keyPush(evt) {
@@ -106,6 +118,20 @@
                 yv = 1;
                 break;
         }
+    }
+
+    function get_score(trail) {
+        /* [score, speed, bonus]*/
+        var score_raw = trail - 4;
+        var speed = 1000 + (2000 * score_raw); /*this doesn't work*/
+
+        if (score_raw % 5 == 0) {
+            var bonus = true;
+        } else {
+            var bonus = false;
+        }
+        return [score_raw, speed, bonus];
+
     }
 </script>
 

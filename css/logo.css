@@ -1,7 +1,7 @@
 .version.logo /* version checker */
 {
-	color: #0000F5;
-	background-color: #A16FC0;
+	color: #000008;
+	background-color: #9B2DA1;
 }
 
 #page
@@ -323,10 +323,10 @@
 	cursor: pointer;
 }
 
-#u2312-5
+#u2312-9
 {
 	z-index: 46;
-	width: 207px;
+	width: 230px;
 	min-height: 28px;
 	background-color: transparent;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
