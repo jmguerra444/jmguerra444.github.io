@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1538862189565">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1538944961228">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="4042837750" ref="index"/>
@@ -8,20 +8,19 @@
     <file name="tg.css" crc="254436968" ref="tg"/>
     <file name="caf.css" crc="4082807983" ref="caf"/>
     <file name="game1.css" crc="4140420096" ref="game1"/>
-    <file name="selector-de-comidas.css" crc="29458777" ref="selector-de-comidas"/>
-    <file name="html.css" crc="3986126615" ref="html"/>
   </folder>
   <folder name="assets">
     <file name="cv_jorgemarioguerra.pdf" crc="39675140" seo="true" mt="1529588636000"/>
     <file name="informe-final-trabajo-de-grado--jorge-mario-guerra-gonzález.pdf" crc="291561078" seo="true" mt="1477970750000"/>
     <file name="blocks.png" crc="3890959484" seo="true" mt="1524572513000"/>
     <file name="filter.png" crc="4118821140" seo="true" mt="1524572177000"/>
+    <file name="random_emoji.html" crc="4080974643" seo="true" mt="1538944128000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:logo:galeria:tg:caf:game1:selector-de-comidas:html"/>
-    <file name="museutils.js" crc="3790713428" ref="index:logo:galeria:tg:caf:game1:selector-de-comidas:html"/>
-    <file name="whatinput.js" crc="84559013" ref="index:logo:galeria:tg:caf:game1:selector-de-comidas:html"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:logo:galeria:tg:caf:game1:selector-de-comidas:html"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:logo:galeria:tg:caf:game1"/>
+    <file name="museutils.js" crc="3790713428" ref="index:logo:galeria:tg:caf:game1"/>
+    <file name="whatinput.js" crc="84559013" ref="index:logo:galeria:tg:caf:game1"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:logo:galeria:tg:caf:game1"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:galeria:tg:caf:logo"/>
     <file name="webpro.js" crc="329496574" ref="galeria:tg:logo:caf"/>
     <file name="musewpdisclosure.js" crc="4234230767" ref="tg:logo"/>
@@ -31,15 +30,15 @@
     <file name="touchswipe.js" crc="497316881" ref="galeria:caf"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4062748155" ref="index:logo:html"/>
+    <file name="favicon.ico" crc="4062748155" ref="index:logo"/>
     <file name="salz-u852-fr.jpg" crc="3768705475" ref="index"/>
     <file name="mede-u910-fr.jpg" crc="247988111" ref="index"/>
     <file name="lux-u922-fr.jpg" crc="4052265746" ref="index"/>
     <file name="salz-u852-fr2.jpg" crc="273828662" ref="index"/>
     <file name="mede-u910-fr2.jpg" crc="500688895" ref="index"/>
     <file name="lux-u922-fr2.jpg" crc="4231535325" ref="index"/>
-    <file name="svg-pegado-607x42.svg" crc="3817506084" ref="logo:galeria:tg:caf:game1:selector-de-comidas:html"/>
-    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo:html"/>
+    <file name="svg-pegado-607x42.svg" crc="3817506084" ref="logo:galeria:tg:caf:game1"/>
+    <file name="svg pegado 607x42_poster_.png" crc="450730368" ref="logo"/>
     <file name="lux.jpg" crc="401758683" ref="galeria"/>
     <file name="mede.jpg" crc="3929310367" ref="galeria"/>
     <file name="salz.jpg" crc="187501899" ref="galeria"/>
@@ -63,11 +62,9 @@
     <file name="inv.jpg" crc="313195298" ref="caf"/>
   </folder>
   <file name="index.html" crc="4032037368" seo="true" mt="1530008785383" redirect="true"/>
-  <file name="logo.html" crc="420060158" seo="true" mt="1538861072798" redirect="true"/>
+  <file name="logo.html" crc="4021342109" seo="true" mt="1538944949030" redirect="true"/>
   <file name="galeria.html" crc="377361595" seo="true" mt="1530008785385" redirect="true"/>
   <file name="tg.html" crc="177146407" seo="true" mt="1530008785386" redirect="true"/>
   <file name="caf.html" crc="3774490572" seo="true" mt="1530008785387" redirect="true"/>
   <file name="game1.html" crc="327592566" seo="true" mt="1530137827229" redirect="true"/>
-  <file name="selector-de-comidas.html" crc="392332614" seo="true" mt="1538861479785" redirect="true"/>
-  <file name="html.html" crc="134376538" seo="true" mt="1538862176664" redirect="true"/>
 </manifest>

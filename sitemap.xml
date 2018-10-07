@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ejemplo.com/assets/random_emoji.html</loc>
+    <lastmod>2018-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ejemplo.com/index.html</loc>
     <lastmod>2018-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,7 +38,7 @@
   </url>
   <url>
     <loc>http://ejemplo.com/logo.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,18 +63,6 @@
   <url>
     <loc>http://ejemplo.com/game1.html</loc>
     <lastmod>2018-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ejemplo.com/selector-de-comidas.html</loc>
-    <lastmod>2018-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ejemplo.com/html.html</loc>
-    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
