@@ -43,61 +43,61 @@
 <!--#############################################START OF EXAMPLE#######################################################-->
                 <div id="source" style="text-align: left; margin: 1em 0 0 0; display:none" >
                 <pre><xmp>
-<h2>Food picker!</h2>
-<p style="font-size: 110%"> This is the food picker </p>
+    <h2>Food picker!</h2>
+    <p style="font-size: 110%"> This is the food picker </p>
 
-<div style="font-size: 120%">
-    <br>
-    <button class="small" onclick="get_x(1)">1</button>
-    <button class="small" onclick="get_x(2)">2</button>
-    <button class="small" onclick="get_x(3)">3</button>
-    <button class="small" onclick="get_x(4)">4</button>
-    <button class="small" onclick="get_x(5)">5</button>
-    <br>
-</div>
+    <div style="font-size: 120%">
+        <br>
+        <button class="small" onclick="get_x(1)">1</button>
+        <button class="small" onclick="get_x(2)">2</button>
+        <button class="small" onclick="get_x(3)">3</button>
+        <button class="small" onclick="get_x(4)">4</button>
+        <button class="small" onclick="get_x(5)">5</button>
+        <br>
+    </div>
 
-    <p id="demo"  style="font-size:350%"></p>
+        <p id="demo"  style="font-size:350%"></p>
 
 
-<!--SCRIPT-->
+    <!--SCRIPT-->
 
-<script>
-    //random food picker
-    var food = [
-        "🍇", "🍈", "🍉", "🍊", "🍋", "🍌", "🍍", "🍎", "🍏",
-        "🍐", "🍑", "🍒", "🍓", "🥝", "🍅", "🥥", "🥑", "🍆",
-        "🥔", "🥕", "🌽", "🌶", "🥒", "🥦", "🍄", "🥜", "🌰",
-        "🍞", "🥐", "🥖", "🥨", "🥞", "🧀", "🍖", "🍗", "🥩",
-        "🥓", "🍔", "🍟", "🍕", "🌭", "🥪", "🌮", "🌯", "🥙",
-        "🥚", "🍳", "🥘", "🍲", "🥣", "🥗", "🍿", "🍱", "🍘",
-        "🍙", "🍚", "🍛", "🍜", "🍝", "🍠", "🍢", "🍣", "🍤",
-        "🍥", "🥟", "🦀", "🥠", "🦐", "🦑", "🍦", "🍧", "🍨",
-        "🍩", "🍪", "🎂", "🍰", "🥧", "🍫", "🍬", "🍭", "🍮",
-        "🍯", "☕", "🍵", "🍶", "🍾", "🍷", "🍸", "🍹", "🍺",
-        "🥃"
-    ];
+    <script>
+        //random food picker
+        var food = [
+            "🍇", "🍈", "🍉", "🍊", "🍋", "🍌", "🍍", "🍎", "🍏",
+            "🍐", "🍑", "🍒", "🍓", "🥝", "🍅", "🥥", "🥑", "🍆",
+            "🥔", "🥕", "🌽", "🌶", "🥒", "🥦", "🍄", "🥜", "🌰",
+            "🍞", "🥐", "🥖", "🥨", "🥞", "🧀", "🍖", "🍗", "🥩",
+            "🥓", "🍔", "🍟", "🍕", "🌭", "🥪", "🌮", "🌯", "🥙",
+            "🥚", "🍳", "🥘", "🍲", "🥣", "🥗", "🍿", "🍱", "🍘",
+            "🍙", "🍚", "🍛", "🍜", "🍝", "🍠", "🍢", "🍣", "🍤",
+            "🍥", "🥟", "🦀", "🥠", "🦐", "🦑", "🍦", "🍧", "🍨",
+            "🍩", "🍪", "🎂", "🍰", "🥧", "🍫", "🍬", "🍭", "🍮",
+            "🍯", "☕", "🍵", "🍶", "🍾", "🍷", "🍸", "🍹", "🍺",
+            "🥃"
+        ];
 
-    function get_x(n) {
-        var pos = 0;
-        var myVar = setInterval(function() {
-            get_1(n);
-        }, 80);
+        function get_x(n) {
+            var pos = 0;
+            var myVar = setInterval(function() {
+                get_1(n);
+            }, 80);
 
-        function get_1(n) {
-            var i;
-            var output = "";
-            for (i = 0; i < n; i++) {
-                var item = food[Math.floor(Math.random() * food.length)];
-                output += item;
-            }
-            document.getElementById("demo").innerHTML = output;
-            pos++;
-            if (pos == 50) {
-                clearInterval(myVar)
+            function get_1(n) {
+                var i;
+                var output = "";
+                for (i = 0; i < n; i++) {
+                    var item = food[Math.floor(Math.random() * food.length)];
+                    output += item;
+                }
+                document.getElementById("demo").innerHTML = output;
+                pos++;
+                if (pos == 50) {
+                    clearInterval(myVar)
+                }
             }
         }
-    }
-</script>
+    </script>
                 </xmp></pre>
                 </div>
 <!--#############################################END OF EXAMPLE#######################################################-->
