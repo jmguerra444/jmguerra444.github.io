@@ -3225,7 +3225,7 @@ body.is-preload #header:after {
 /*-----------EDITO------------*/
 
 .tools {
-    margin: 3em 0 0 0;
+    margin: 2em 0 0 0;
 }
 
 .tools img {
@@ -3250,7 +3250,6 @@ body.is-preload #header:after {
 
 a:hover,
 a:hover strong {
-    font-size: 110%;
     border-bottom-color: transparent !important;
     color: #6bd4c8;
 }
