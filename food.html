@@ -32,12 +32,12 @@
 
                 <div id="res" style="font-size:350%">
                     <br><br><br>
-                    <p id="demo"></p>
+                    <p id="demo">🥑</p>
                     <br><br><br>
                 </div>
                 
 
-                <button class="small primary" onclick="hide()">Source</button>
+                <button class="small primary" onclick="hide('source')">Source</button>
 
 
 <!--#############################################START OF EXAMPLE#######################################################-->
@@ -145,8 +145,8 @@
 
 
     <script>
-        function hide() {
-        var x = document.getElementById("source");
+        function hide(elem_Id) {
+        var x = document.getElementById(elem_Id);
         if (x.style.display === "none") {
             x.style.display = "block";
         } else {
