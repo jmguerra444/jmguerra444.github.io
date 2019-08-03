@@ -3195,5 +3195,6 @@ pre xmp {
 }
 
 .social-widgets{
+    display: none;
     margin: 15px 0 15px 0;
 }
