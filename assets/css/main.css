@@ -3191,17 +3191,9 @@ pre xmp {
     text-align: center;
     /* background-image: linear-gradient(90deg, #363636 5%, #464646 30%, #888888); */
     margin: 0 0 10px 0;
+    width: 100%
 }
 
-.column {
-    float: left;
-    width: 50%;
-    padding: 20px;
+.social-widgets{
+    margin: 15px 0 15px 0;
 }
-
-.row {
-    content: "";
-    clear: both;
-    display: table;
-}
-
