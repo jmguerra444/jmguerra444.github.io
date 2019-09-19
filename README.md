@@ -1,9 +1,7 @@
-<center>
-<h1> jmguerra444.github.io </h1>
-</center>
+# jmguerra444.github.io
 
 This is a personal website with educative and professional pruposes
 
-#### Credits
+### Credits
 
 * Thanks to html5up.net and @ajlkn for template
