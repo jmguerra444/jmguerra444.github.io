@@ -3362,7 +3362,6 @@
   , "unicode_version": "6.0"
   , "ios_version": "6.0"
   },
-  ,
   {
     "emoji": "🇧🇷"
   , "description": "flag: Brazil"
@@ -3414,7 +3413,6 @@
   , "unicode_version": "6.0"
   , "ios_version": "8.3"
   },
-  ,
   {
     "emoji": "🇰🇷"
   , "description": "flag: South Korea"
@@ -3466,7 +3464,6 @@
   , "unicode_version": "6.0"
   , "ios_version": "8.3"
   },
-  ,
   {
     "emoji": "🇨🇱"
   , "description": "flag: Chile"
@@ -3479,7 +3476,6 @@
   , "unicode_version": "6.0"
   , "ios_version": "8.3"
   },
-  ,
   {
     "emoji": "🇬🇧"
   , "description": "flag: United Kingdom"
