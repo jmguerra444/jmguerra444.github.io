@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>MAKE A STORY!</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css"/>
+        <link rel="stylesheet" href="assets/css/food.css"/>
+		<link rel="icon" href="images/logo_purple.png">
+        <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+	</head>
+
+	<body class="is-preload">
+		<!-- One -->
+			<section id="one" class="main style1">
+            <div class="container">
+                <center>
+                <div class ="picker-main">
+                    <h2>Create a story</h2>
+                    <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
+                    <br>
+                    <div style="font-size: 120%">
+                        <button class="small" onclick="get_x(2)">RUN!!</button>
+                    </div>
+
+                    <div id="res" style="font-size:350%">
+                        <br><br><br>
+                        <p id="demo">😎</p>
+                        <br><br><br>
+                    </div>
+
+                    <div id="res" style="font-size:150%">
+                        <p id="string"></p>
+                    </div>
+                </div>
+                </center>
+            </div>
+            </section>
+
+	<script>
+        // emoji.json was taken from https://github.com/amio/emoji.json/blob/master/emoji.json
+        
+        var emojiList = $.getJSON( "assets/json/emoji.json", function( json )
+        {
+            emojiList = json;
+        });
+
+        var results = "";
+
+        function get_x(n) {
+            var pos = 0;
+            var myVar = setInterval(function() {
+                get_1(n);
+            }, 80);
+
+            function get_1(n) {
+                var i;
+                var output = "";
+                for (i = 0; i < n; i++) {
+                    //var randommIndex = Math.floor(Math.random() * emojiList.lenght)
+                    var item = emojiList[Math.floor(Math.random() * emojiList.length)].emoji;
+                    console.log(item);
+                    output += item;
+                }
+                document.getElementById("demo").innerHTML = output;
+                pos++;
+                if (pos == 50) {
+                    clearInterval(myVar)
+                    results = results + output
+                    document.getElementById("string").innerHTML = results;
+                }
+            }
+        }
+    </script>
+
+	</body>
+</html>
