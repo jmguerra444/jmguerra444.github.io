@@ -9,40 +9,63 @@
         <link rel="stylesheet" href="assets/css/food.css"/>
 		<link rel="icon" href="images/logo_purple.png">
         <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+        <script src="assets/js/emoji.js"></script>
+
+        <style>
+            .pick-lang
+            {
+                width: 200px;
+                margin-top: 15px;
+                margin-right: 15px;
+                text-align: center;
+                margin: 0 auto;
+            }
+            
+            .picker-main
+            {
+                margin-top: 30px;
+                text-align: center;
+            }
+
+        </style>
 	</head>
 
 	<body class="is-preload">
-		<!-- One -->
-			<section id="one" class="main style1">
-            <div class="container">
-                <center>
-                <div class ="picker-main">
-                    <h2>Create a story</h2>
-                    <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
-                    <br>
-                    <div style="font-size: 120%">
-                        <button class="small" onclick="get_x(2)">RUN!!</button>
-                    </div>
+    UNDER CONSTRUCTION 27.04.20
+    <div class ="picker-main">
+        <h2>Create a story</h2>
+        <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
+        <br>
+        <div style="font-size: 120%">
+            <button class="small" onclick="get_x(2)">RUN!!</button>
+        </div>
+            
+        <div style="font-size:350%; margin: 0.5em;">
+            <br>
+            <p id="demo">😎</p>
+            <br>
+        </div>
+        
+        <div style="font-size:150%; margin:0.4em; display:inline-block;">
+            <p id="story"></p>
+        </div>
+        <br>
+        <div style="font-size:150%; margin:0.4em; display:inline-block;">
+            <p id="alert"></p>
+        </div>
+    </div>
 
-                    <div id="res" style="font-size:350%">
-                        <br><br><br>
-                        <p id="demo">😎</p>
-                        <br><br><br>
-                    </div>
-
-                    <div id="res" style="font-size:150%">
-                        <p id="string"></p>
-                    </div>
-
-                    <div id="res" style="font-size:150%">
-                        <br><br>
-                        <p id="alert"></p>
-                    </div>
-                </div>
-                </center>
-            </div>
-            </section>
-
+    <div class="pick-lang">
+        <br>
+        Translate to:
+        <select id="cars">
+            <option value="en">🇺🇸</option>
+            <option value="es">🇪🇸</option>
+            <option value="de">🇩🇪</option>
+        </select>
+        <br>
+    </div>
+    
 	<script>
         // emoji.json was taken from https://github.com/amio/emoji.json/blob/master/emoji.json
         
@@ -96,11 +119,6 @@
                     }
                     if (counter == 5)
                     {
-                        document.getElementById("alert").innerHTML = "";
-                    }
-                }
-            }
-        }
     </script>
 
 	</body>
