@@ -1,0 +1,2178 @@
+{
+  "grinning face with big eyes": {
+    "en": "grinning face with big eyes",
+    "es": "cara sonriente con ojos grandes",
+    "de": "grinsendes Gesicht mit gro\u00dfen Augen",
+    "fr": "visage souriant avec de grands yeux",
+    "nl": "grijnzend gezicht met grote ogen",
+    "fi": "virnistelev\u00e4t kasvot isoilla silmill\u00e4"
+  },
+  "face with tears of joy": {
+    "en": "face with tears of joy",
+    "es": "enfrentar con l\u00e1grimas de alegr\u00eda",
+    "de": "Gesicht mit Freudentr\u00e4nen",
+    "fr": "faire face aux larmes de joie",
+    "nl": "geconfronteerd met tranen van vreugde",
+    "fi": "kasvot ilon kyynelill\u00e4"
+  },
+  "upside-down face": {
+    "en": "upside-down face",
+    "es": "cara al rev\u00e9s",
+    "de": "verkehrtes Gesicht",
+    "fr": "visage \u00e0 l&#39;envers",
+    "nl": "ondersteboven gezicht",
+    "fi": "yl\u00f6salaisin kasvot"
+  },
+  "winking face": {
+    "en": "winking face",
+    "es": "cara de gui\u00f1o",
+    "de": "zwinkert Gesicht",
+    "fr": "visage clignotant",
+    "nl": "knipogend gezicht",
+    "fi": "silm\u00e4ilev\u00e4t kasvot"
+  },
+  "smiling face with halo": {
+    "en": "smiling face with halo",
+    "es": "cara sonriente con halo",
+    "de": "l\u00e4chelndes Gesicht mit Heiligenschein",
+    "fr": "visage souriant avec halo",
+    "nl": "lachend gezicht met halo",
+    "fi": "hymyilev\u00e4t kasvot halo"
+  },
+  "smiling face with hearts": {
+    "en": "smiling face with hearts",
+    "es": "cara sonriente con corazones",
+    "de": "l\u00e4chelndes Gesicht mit Herzen",
+    "fr": "visage souriant avec coeurs",
+    "nl": "lachend gezicht met hart",
+    "fi": "hymyilev\u00e4 kasvot syd\u00e4mell\u00e4"
+  },
+  "face blowing a kiss": {
+    "en": "face blowing a kiss",
+    "es": "cara soplando un beso",
+    "de": "Gesicht bl\u00e4st einen Kuss",
+    "fr": "visage souffle un baiser",
+    "nl": "gezicht blaast een kus",
+    "fi": "kasvot puhaltavat suudelmaa"
+  },
+  "smiling face": {
+    "en": "smiling face",
+    "es": "cara sonriente",
+    "de": "l\u00e4chelndes Gesicht",
+    "fr": "visage souriant",
+    "nl": "lachend gezicht",
+    "fi": "hymyilev\u00e4t kasvot"
+  },
+  "zany face": {
+    "en": "zany face",
+    "es": "cara loca",
+    "de": "verr\u00fccktes Gesicht",
+    "fr": "visage loufoque",
+    "nl": "maf gezicht",
+    "fi": "kauniit kasvot"
+  },
+  "money-mouth face": {
+    "en": "money-mouth face",
+    "es": "cara de boca de dinero",
+    "de": "Geld-Mund-Gesicht",
+    "fr": "face \u00e0 l&#39;argent",
+    "nl": "geld mond gezicht",
+    "fi": "raha-suu kasvot"
+  },
+  "hugging face": {
+    "en": "hugging face",
+    "es": "abrazando la cara",
+    "de": "umarmendes Gesicht",
+    "fr": "\u00e9treindre le visage",
+    "nl": "knuffelend gezicht",
+    "fi": "halaa kasvot"
+  },
+  "shushing face": {
+    "en": "shushing face",
+    "es": "cara callada",
+    "de": "stilles Gesicht",
+    "fr": "visage rougissant",
+    "nl": "zwijgend gezicht",
+    "fi": "naamio kasvot"
+  },
+  "thinking face": {
+    "en": "thinking face",
+    "es": "cara pensante",
+    "de": "denkendes Gesicht",
+    "fr": "visage pensant",
+    "nl": "denkend gezicht",
+    "fi": "ajattelevat kasvot"
+  },
+  "face with raised eyebrow": {
+    "en": "face with raised eyebrow",
+    "es": "cara con ceja levantada",
+    "de": "Gesicht mit hochgezogener Augenbraue",
+    "fr": "visage avec sourcil lev\u00e9",
+    "nl": "gezicht met opgetrokken wenkbrauw",
+    "fi": "kasvot kohollaan kulmakarvoilla"
+  },
+  "face without mouth": {
+    "en": "face without mouth",
+    "es": "cara sin boca",
+    "de": "Gesicht ohne Mund",
+    "fr": "visage sans bouche",
+    "nl": "gezicht zonder mond",
+    "fi": "kasvot ilman suuhun"
+  },
+  "smirking face": {
+    "en": "smirking face",
+    "es": "cara sonriente",
+    "de": "grinsendes Gesicht",
+    "fr": "visage souriant",
+    "nl": "grijnzend gezicht",
+    "fi": "smirking face"
+  },
+  "unamused face": {
+    "en": "unamused face",
+    "es": "cara no divertida",
+    "de": "unbeschwertes Gesicht",
+    "fr": "visage non amus\u00e9",
+    "nl": "geamuseerd gezicht",
+    "fi": "k\u00e4ytt\u00e4m\u00e4tt\u00f6m\u00e4t kasvot"
+  },
+  "face with rolling eyes": {
+    "en": "face with rolling eyes",
+    "es": "cara con ojos en blanco",
+    "de": "Gesicht mit rollenden Augen",
+    "fr": "visage avec des yeux qui roulent",
+    "nl": "gezicht met rollende ogen",
+    "fi": "kasvot vierivill\u00e4 silmill\u00e4"
+  },
+  "lying face": {
+    "en": "lying face",
+    "es": "cara mentirosa",
+    "de": "liegendes Gesicht",
+    "fr": "visage allong\u00e9",
+    "nl": "liggend gezicht",
+    "fi": "valehtelevat kasvot"
+  },
+  "pensive face": {
+    "en": "pensive face",
+    "es": "cara pensativa",
+    "de": "nachdenkliches Gesicht",
+    "fr": "visage pensif",
+    "nl": "peinzend gezicht",
+    "fi": "mietteli\u00e4s kasvot"
+  },
+  "drooling face": {
+    "en": "drooling face",
+    "es": "cara babeante",
+    "de": "sabberndes Gesicht",
+    "fr": "visage baveux",
+    "nl": "kwijlend gezicht",
+    "fi": "kuolaava kasvot"
+  },
+  "face with head-bandage": {
+    "en": "face with head-bandage",
+    "es": "cara con vendaje en la cabeza",
+    "de": "Gesicht mit Kopfverband",
+    "fr": "visage avec bandage",
+    "nl": "gezicht met hoofdverband",
+    "fi": "kasvot p\u00e4\u00e4n siteell\u00e4"
+  },
+  "nauseated face": {
+    "en": "nauseated face",
+    "es": "cara nauseabunda",
+    "de": "\u00dcbelkeit im Gesicht",
+    "fr": "visage naus\u00e9eux",
+    "nl": "misselijk gezicht",
+    "fi": "pahoinvoidut kasvot"
+  },
+  "hot face": {
+    "en": "hot face",
+    "es": "cara caliente",
+    "de": "hei\u00dfes Gesicht",
+    "fr": "visage chaud",
+    "nl": "heet gezicht",
+    "fi": "kuuma kasvot"
+  },
+  "cold face": {
+    "en": "cold face",
+    "es": "cara fr\u00eda",
+    "de": "kaltes Gesicht",
+    "fr": "visage froid",
+    "nl": "koud gezicht",
+    "fi": "kylm\u00e4t kasvot"
+  },
+  "exploding head": {
+    "en": "exploding head",
+    "es": "cabeza explosiva",
+    "de": "explodierender Kopf",
+    "fr": "t\u00eate qui explose",
+    "nl": "exploderende kop",
+    "fi": "r\u00e4j\u00e4ht\u00e4v\u00e4 p\u00e4\u00e4"
+  },
+  "partying face": {
+    "en": "partying face",
+    "es": "cara de fiesta",
+    "de": "Partygesicht",
+    "fr": "visage de f\u00eate",
+    "nl": "feestende gezicht",
+    "fi": "juhla kasvot"
+  },
+  "disguised face": {
+    "en": "disguised face",
+    "es": "cara disfrazada",
+    "de": "getarntes Gesicht",
+    "fr": "visage d\u00e9guis\u00e9",
+    "nl": "vermomd gezicht",
+    "fi": "naamioidut kasvot"
+  },
+  "smiling face with sunglasses": {
+    "en": "smiling face with sunglasses",
+    "es": "cara sonriente con gafas de sol",
+    "de": "l\u00e4chelndes Gesicht mit Sonnenbrille",
+    "fr": "visage souriant avec des lunettes de soleil",
+    "nl": "lachend gezicht met zonnebril",
+    "fi": "hymyilev\u00e4t kasvot aurinkolasilla"
+  },
+  "nerd face": {
+    "en": "nerd face",
+    "es": "cara de nerd",
+    "de": "Nerd Gesicht",
+    "fr": "visage de nerd",
+    "nl": "nerd gezicht",
+    "fi": "n\u00f6rtti kasvot"
+  },
+  "worried face": {
+    "en": "worried face",
+    "es": "cara preocupada",
+    "de": "besorgtes Gesicht",
+    "fr": "visage inquiet",
+    "nl": "bezorgd gezicht",
+    "fi": "huolestunut kasvot"
+  },
+  "astonished face": {
+    "en": "astonished face",
+    "es": "cara de asombro",
+    "de": "erstauntes Gesicht",
+    "fr": "visage \u00e9tonn\u00e9",
+    "nl": "verbaasd gezicht",
+    "fi": "h\u00e4mm\u00e4stynyt kasvot"
+  },
+  "flushed face": {
+    "en": "flushed face",
+    "es": "Cara sonrojada",
+    "de": "err\u00f6tetes Gesicht",
+    "fr": "visage rougi",
+    "nl": "blozend gezicht",
+    "fi": "punoitettu kasvot"
+  },
+  "pleading face": {
+    "en": "pleading face",
+    "es": "cara suplicante",
+    "de": "flehendes Gesicht",
+    "fr": "visage suppliant",
+    "nl": "smekend gezicht",
+    "fi": "vetoomus kasvot"
+  },
+  "anxious face with sweat": {
+    "en": "anxious face with sweat",
+    "es": "cara ansiosa con sudor",
+    "de": "\u00e4ngstliches Gesicht mit Schwei\u00df",
+    "fr": "visage anxieux avec sueur",
+    "nl": "angstig gezicht met zweet",
+    "fi": "ahdistunut kasvot hiki kanssa"
+  },
+  "loudly crying face": {
+    "en": "loudly crying face",
+    "es": "cara llorando ruidosamente",
+    "de": "laut weinendes Gesicht",
+    "fr": "visage qui pleure fort",
+    "nl": "luid huilend gezicht",
+    "fi": "\u00e4\u00e4neen itkuvat kasvot"
+  },
+  "face screaming in fear": {
+    "en": "face screaming in fear",
+    "es": "cara gritando de miedo",
+    "de": "Gesicht vor Angst schreien",
+    "fr": "visage hurlant de peur",
+    "nl": "gezicht schreeuwend van angst",
+    "fi": "kasvot huutavat pelossa"
+  },
+  "pouting face": {
+    "en": "pouting face",
+    "es": "cara de mala cara",
+    "de": "schmollendes Gesicht",
+    "fr": "visage boudeur",
+    "nl": "pruilend gezicht",
+    "fi": "osoittavat kasvot"
+  },
+  "smiling face with horns": {
+    "en": "smiling face with horns",
+    "es": "cara sonriente con cuernos",
+    "de": "l\u00e4chelndes Gesicht mit H\u00f6rnern",
+    "fr": "visage souriant avec des cornes",
+    "nl": "lachend gezicht met hoorns",
+    "fi": "hymyilev\u00e4 kasvot sarvilla"
+  },
+  "skull and crossbones": {
+    "en": "skull and crossbones",
+    "es": "calavera",
+    "de": "Totenkopf",
+    "fr": "cr\u00e2ne et os crois\u00e9s",
+    "nl": "schedel en gekruiste beenderen",
+    "fi": "kallo ja s\u00e4\u00e4riluut"
+  },
+  "clown face": {
+    "en": "clown face",
+    "es": "cara de payaso",
+    "de": "Clownsgesicht",
+    "fr": "visage de clown",
+    "nl": "clown gezicht",
+    "fi": "pelle kasvot"
+  },
+  "ogre": {
+    "en": "ogre",
+    "es": "ogro",
+    "de": "Oger",
+    "fr": "ogre",
+    "nl": "boeman",
+    "fi": "hirvi\u00f6"
+  },
+  "heart with arrow": {
+    "en": "heart with arrow",
+    "es": "coraz\u00f3n con flecha",
+    "de": "Herz mit Pfeil",
+    "fr": "coeur avec fl\u00e8che",
+    "nl": "hart met pijl",
+    "fi": "syd\u00e4n nuolella"
+  },
+  "broken heart": {
+    "en": "broken heart",
+    "es": "coraz\u00f3n roto",
+    "de": "gebrochenes Herz",
+    "fr": "coeur bris\u00e9",
+    "nl": "gebroken hart",
+    "fi": "s\u00e4rkynyt syd\u00e4n"
+  },
+  "red heart": {
+    "en": "red heart",
+    "es": "coraz\u00f3n rojo",
+    "de": "rotes Herz",
+    "fr": "coeur rouge",
+    "nl": "rood hart",
+    "fi": "punainen syd\u00e4n"
+  },
+  "collision": {
+    "en": "collision",
+    "es": "colisi\u00f3n",
+    "de": "Kollision",
+    "fr": "collision",
+    "nl": "botsing",
+    "fi": "t\u00f6rm\u00e4ys"
+  },
+  "bomb": {
+    "en": "bomb",
+    "es": "bomba",
+    "de": "Bombe",
+    "fr": "bombe",
+    "nl": "bom",
+    "fi": "pommi"
+  },
+  "waving hand": {
+    "en": "waving hand",
+    "es": "mano que saluda",
+    "de": "winkende Hand",
+    "fr": "agitant la main",
+    "nl": "zwaaiende hand",
+    "fi": "heiluttaen k\u00e4tt\u00e4"
+  },
+  "OK hand": {
+    "en": "OK hand",
+    "es": "OK mano",
+    "de": "OK Hand",
+    "fr": "OK main",
+    "nl": "OK hand",
+    "fi": "OK k\u00e4si"
+  },
+  "oncoming fist": {
+    "en": "oncoming fist",
+    "es": "pu\u00f1o que se aproxima",
+    "de": "entgegenkommende Faust",
+    "fr": "poing venant en sens inverse",
+    "nl": "tegemoetkomende vuist",
+    "fi": "l\u00e4hestyv\u00e4 nyrkki"
+  },
+  "writing hand": {
+    "en": "writing hand",
+    "es": "mano de escritura",
+    "de": "Hand schreiben",
+    "fr": "\u00e9criture main",
+    "nl": "hand schrijven",
+    "fi": "kirjoitusk\u00e4si"
+  },
+  "baby": {
+    "en": "baby",
+    "es": "beb\u00e9",
+    "de": "Baby",
+    "fr": "b\u00e9b\u00e9",
+    "nl": "baby",
+    "fi": "vauva"
+  },
+  "child": {
+    "en": "child",
+    "es": "ni\u00f1o",
+    "de": "Kind",
+    "fr": "enfant",
+    "nl": "kind",
+    "fi": "lapsi"
+  },
+  "boy": {
+    "en": "boy",
+    "es": "chico",
+    "de": "Junge",
+    "fr": "gar\u00e7on",
+    "nl": "jongen",
+    "fi": "poika"
+  },
+  "man student": {
+    "en": "man student",
+    "es": "hombre estudiante",
+    "de": "Mann Student",
+    "fr": "\u00e9tudiant homme",
+    "nl": "man student",
+    "fi": "mies opiskelija"
+  },
+  "woman student": {
+    "en": "woman student",
+    "es": "estudiante mujer",
+    "de": "Studentin",
+    "fr": "\u00e9tudiante",
+    "nl": "vrouwelijke student",
+    "fi": "nainen opiskelija"
+  },
+  "man teacher": {
+    "en": "man teacher",
+    "es": "profesor hombre",
+    "de": "Mann Lehrer",
+    "fr": "homme enseignant",
+    "nl": "man leraar",
+    "fi": "mies opettaja"
+  },
+  "woman teacher": {
+    "en": "woman teacher",
+    "es": "profesora",
+    "de": "Lehrerin",
+    "fr": "enseignante",
+    "nl": "vrouw leraar",
+    "fi": "nainen opettaja"
+  },
+  "man cook": {
+    "en": "man cook",
+    "es": "hombre cocinero",
+    "de": "Mann kochen",
+    "fr": "homme cuisinier",
+    "nl": "man kok",
+    "fi": "mies kokki"
+  },
+  "woman cook": {
+    "en": "woman cook",
+    "es": "cocinera",
+    "de": "K\u00f6chin",
+    "fr": "femme cuisinier",
+    "nl": "vrouw kok",
+    "fi": "nainen kokki"
+  },
+  "scientist": {
+    "en": "scientist",
+    "es": "cient\u00edfico",
+    "de": "Wissenschaftler",
+    "fr": "scientifique",
+    "nl": "wetenschapper",
+    "fi": "tiedemies"
+  },
+  "man scientist": {
+    "en": "man scientist",
+    "es": "hombre cient\u00edfico",
+    "de": "Mann Wissenschaftler",
+    "fr": "homme scientifique",
+    "nl": "man wetenschapper",
+    "fi": "mies tiedemies"
+  },
+  "singer": {
+    "en": "singer",
+    "es": "cantante",
+    "de": "S\u00e4nger",
+    "fr": "chanteur",
+    "nl": "zanger",
+    "fi": "laulaja"
+  },
+  "man singer": {
+    "en": "man singer",
+    "es": "hombre cantante",
+    "de": "Mann S\u00e4nger",
+    "fr": "chanteur homme",
+    "nl": "man zanger",
+    "fi": "mieslaulaja"
+  },
+  "woman singer": {
+    "en": "woman singer",
+    "es": "mujer cantante",
+    "de": "S\u00e4ngerin",
+    "fr": "chanteuse",
+    "nl": "zangeres",
+    "fi": "nainen laulaja"
+  },
+  "pilot": {
+    "en": "pilot",
+    "es": "piloto",
+    "de": "Pilot",
+    "fr": "pilote",
+    "nl": "piloot",
+    "fi": "lent\u00e4j\u00e4"
+  },
+  "detective": {
+    "en": "detective",
+    "es": "detective",
+    "de": "Detektiv",
+    "fr": "d\u00e9tective",
+    "nl": "detective",
+    "fi": "etsiv\u00e4"
+  },
+  "man detective": {
+    "en": "man detective",
+    "es": "detective hombre",
+    "de": "Mann Detektiv",
+    "fr": "d\u00e9tective homme",
+    "nl": "man detective",
+    "fi": "mies etsiv\u00e4"
+  },
+  "prince": {
+    "en": "prince",
+    "es": "Pr\u00edncipe",
+    "de": "Prinz",
+    "fr": "prince",
+    "nl": "prins",
+    "fi": "prinssi"
+  },
+  "princess": {
+    "en": "princess",
+    "es": "princesa",
+    "de": "Prinzessin",
+    "fr": "Princesse",
+    "nl": "prinses",
+    "fi": "prinsessa"
+  },
+  "breast-feeding": {
+    "en": "breast-feeding",
+    "es": "amamantamiento",
+    "de": "Stillen",
+    "fr": "allaitement maternel",
+    "nl": "borstvoeding geeft",
+    "fi": "imetys"
+  },
+  "baby angel": {
+    "en": "baby angel",
+    "es": "\u00c1ngel beb\u00e9",
+    "de": "Baby Engel",
+    "fr": "b\u00e9b\u00e9 ange",
+    "nl": "baby Engel",
+    "fi": "vauva enkeli"
+  },
+  "merperson": {
+    "en": "merperson",
+    "es": "sirena",
+    "de": "Merperson",
+    "fr": "merperson",
+    "nl": "merperson",
+    "fi": "merperson"
+  },
+  "mermaid": {
+    "en": "mermaid",
+    "es": "sirena",
+    "de": "Meerjungfrau",
+    "fr": "Sir\u00e8ne",
+    "nl": "meermin",
+    "fi": "merenneito"
+  },
+  "man genie": {
+    "en": "man genie",
+    "es": "hombre genio",
+    "de": "Mann Geist",
+    "fr": "homme g\u00e9nie",
+    "nl": "man geest",
+    "fi": "mies henki"
+  },
+  "man with white cane": {
+    "en": "man with white cane",
+    "es": "hombre con bast\u00f3n blanco",
+    "de": "Mann mit wei\u00dfem Stock",
+    "fr": "homme avec canne blanche",
+    "nl": "man met witte stok",
+    "fi": "mies valkoisella sokeriruo&#39;olla"
+  },
+  "woman dancing": {
+    "en": "woman dancing",
+    "es": "mujer bailando",
+    "de": "Frau tanzt",
+    "fr": "femme danse",
+    "nl": "vrouw dansen",
+    "fi": "nainen tanssii"
+  },
+  "man dancing": {
+    "en": "man dancing",
+    "es": "hombre bailando",
+    "de": "Mann tanzen",
+    "fr": "homme dansant",
+    "nl": "man dansen",
+    "fi": "mies tanssii"
+  },
+  "women holding hands": {
+    "en": "women holding hands",
+    "es": "mujeres tomados de la mano",
+    "de": "Frauen H\u00e4ndchen haltend",
+    "fr": "femmes se tenant la main",
+    "nl": "vrouwen hand in hand",
+    "fi": "naiset k\u00e4dest\u00e4"
+  },
+  "woman and man holding hands": {
+    "en": "woman and man holding hands",
+    "es": "mujer y hombre tomados de la mano",
+    "de": "Frau und Mann H\u00e4ndchen haltend",
+    "fr": "femme homme, tenant mains",
+    "nl": "vrouw en man hand in hand",
+    "fi": "nainen ja mies k\u00e4dest\u00e4"
+  },
+  "men holding hands": {
+    "en": "men holding hands",
+    "es": "hombres tomados de la mano",
+    "de": "M\u00e4nner H\u00e4ndchen haltend",
+    "fr": "hommes se tenant la main",
+    "nl": "mannen hand in hand",
+    "fi": "miehet k\u00e4dest\u00e4"
+  },
+  "kiss": {
+    "en": "kiss",
+    "es": "Beso",
+    "de": "Kuss",
+    "fr": "baiser",
+    "nl": "kus",
+    "fi": "suudella"
+  },
+  "kiss: woman, man": {
+    "en": "kiss: woman, man",
+    "es": "beso: mujer, hombre",
+    "de": "Kuss: Frau, Mann",
+    "fr": "baiser: femme, homme",
+    "nl": "kus: vrouw, man",
+    "fi": "suudelma: nainen, mies"
+  },
+  "speaking head": {
+    "en": "speaking head",
+    "es": "cabeza parlante",
+    "de": "sprechender Kopf",
+    "fr": "t\u00eate parlante",
+    "nl": "sprekend hoofd",
+    "fi": "puhuva p\u00e4\u00e4"
+  },
+  "fox": {
+    "en": "fox",
+    "es": "zorro",
+    "de": "Fuchs",
+    "fr": "Renard",
+    "nl": "vos",
+    "fi": "kettu"
+  },
+  "cat": {
+    "en": "cat",
+    "es": "gato",
+    "de": "Katze",
+    "fr": "chat",
+    "nl": "kat",
+    "fi": "kissa"
+  },
+  "unicorn": {
+    "en": "unicorn",
+    "es": "unicornio",
+    "de": "Einhorn",
+    "fr": "Licorne",
+    "nl": "eenhoorn",
+    "fi": "yksisarvinen"
+  },
+  "cow": {
+    "en": "cow",
+    "es": "vaca",
+    "de": "Kuh",
+    "fr": "vache",
+    "nl": "koe",
+    "fi": "lehm\u00e4"
+  },
+  "pig face": {
+    "en": "pig face",
+    "es": "cara de puerco",
+    "de": "Schweinegesicht",
+    "fr": "face de cochon",
+    "nl": "varkenskop",
+    "fi": "sian kasvot"
+  },
+  "two-hump camel": {
+    "en": "two-hump camel",
+    "es": "camello de dos jorobas",
+    "de": "Zwei-Buckel-Kamel",
+    "fr": "chameau \u00e0 deux bosses",
+    "nl": "kameel met twee bulten",
+    "fi": "kaksiarvoinen kameli"
+  },
+  "giraffe": {
+    "en": "giraffe",
+    "es": "jirafa",
+    "de": "Giraffe",
+    "fr": "girafe",
+    "nl": "giraffe",
+    "fi": "kirahvi"
+  },
+  "elephant": {
+    "en": "elephant",
+    "es": "elefante",
+    "de": "Elefant",
+    "fr": "l&#39;\u00e9l\u00e9phant",
+    "nl": "olifant",
+    "fi": "norsu"
+  },
+  "chipmunk": {
+    "en": "chipmunk",
+    "es": "ardilla",
+    "de": "Chipmunk",
+    "fr": "tamia",
+    "nl": "aardeekhoorn",
+    "fi": "maaorava"
+  },
+  "bear": {
+    "en": "bear",
+    "es": "oso",
+    "de": "B\u00e4r",
+    "fr": "ours",
+    "nl": "beer",
+    "fi": "karhu"
+  },
+  "front-facing baby chick": {
+    "en": "front-facing baby chick",
+    "es": "pollito de frente",
+    "de": "nach vorne gerichtetes K\u00fcken",
+    "fr": "poussin b\u00e9b\u00e9 face \u00e0 l&#39;avant",
+    "nl": "naar voren gericht babykuiken",
+    "fi": "edess\u00e4 oleva vauvapoikasen"
+  },
+  "crocodile": {
+    "en": "crocodile",
+    "es": "cocodrilo",
+    "de": "Krokodil",
+    "fr": "crocodile",
+    "nl": "krokodil",
+    "fi": "krokotiili"
+  },
+  "sauropod": {
+    "en": "sauropod",
+    "es": "saur\u00f3podo",
+    "de": "Sauropod",
+    "fr": "sauropode",
+    "nl": "sauropod",
+    "fi": "sauropod"
+  },
+  "T-Rex": {
+    "en": "T-Rex",
+    "es": "Tirano saurio Rex",
+    "de": "T-Rex",
+    "fr": "T-Rex",
+    "nl": "T-Rex",
+    "fi": "T Rex"
+  },
+  "tropical fish": {
+    "en": "tropical fish",
+    "es": "pez tropical",
+    "de": "tropischer Fisch",
+    "fr": "poisson tropical",
+    "nl": "tropische vis",
+    "fi": "trooppisia kaloja"
+  },
+  "shark": {
+    "en": "shark",
+    "es": "tibur\u00f3n",
+    "de": "Hai",
+    "fr": "requin",
+    "nl": "haai",
+    "fi": "Hai"
+  },
+  "octopus": {
+    "en": "octopus",
+    "es": "pulpo",
+    "de": "Tintenfisch",
+    "fr": "poulpe",
+    "nl": "Octopus",
+    "fi": "mustekala"
+  },
+  "bouquet": {
+    "en": "bouquet",
+    "es": "ramo de flores",
+    "de": "Strau\u00df",
+    "fr": "bouquet",
+    "nl": "boeket",
+    "fi": "kukkakimppu"
+  },
+  "rose": {
+    "en": "rose",
+    "es": "Rosa",
+    "de": "Rose",
+    "fr": "Rose",
+    "nl": "roos",
+    "fi": "ruusu"
+  },
+  "wilted flower": {
+    "en": "wilted flower",
+    "es": "flor marchita",
+    "de": "verwelkte Blume",
+    "fr": "fleur fan\u00e9e",
+    "nl": "verwelkte bloem",
+    "fi": "kuihtunut kukka"
+  },
+  "hibiscus": {
+    "en": "hibiscus",
+    "es": "hibisco",
+    "de": "Hibiskus",
+    "fr": "hibiscus",
+    "nl": "hibiscus",
+    "fi": "hibiscus"
+  },
+  "sunflower": {
+    "en": "sunflower",
+    "es": "girasol",
+    "de": "Sonnenblume",
+    "fr": "tournesol",
+    "nl": "zonnebloem",
+    "fi": "auringonkukka"
+  },
+  "deciduous tree": {
+    "en": "deciduous tree",
+    "es": "\u00e1rbol de hoja caduca",
+    "de": "Laubbaum",
+    "fr": "arbre \u00e0 feuilles caduques",
+    "nl": "loofboom",
+    "fi": "lehtipuu"
+  },
+  "bottle with popping cork": {
+    "en": "bottle with popping cork",
+    "es": "botella con corcho",
+    "de": "Flasche mit knallendem Korken",
+    "fr": "bouteille avec bouchon en li\u00e8ge",
+    "nl": "fles met knallende kurk",
+    "fi": "pullo popping korkki"
+  },
+  "wine glass": {
+    "en": "wine glass",
+    "es": "Copa de vino",
+    "de": "Weinglas",
+    "fr": "verre de vin",
+    "nl": "wijnglas",
+    "fi": "viinilasi"
+  },
+  "beer mug": {
+    "en": "beer mug",
+    "es": "jarro de cerveza",
+    "de": "Bierkrug",
+    "fr": "chope \u00e0 Biere",
+    "nl": "bierglas",
+    "fi": "olutmuki"
+  },
+  "clinking beer mugs": {
+    "en": "clinking beer mugs",
+    "es": "tintinear jarras de cerveza",
+    "de": "klirrende Bierkr\u00fcge",
+    "fr": "tasses de bi\u00e8re tintements",
+    "nl": "rammelende bierpullen",
+    "fi": "clink olutmukit"
+  },
+  "clinking glasses": {
+    "en": "clinking glasses",
+    "es": "vasos que tintinean",
+    "de": "klirrende Gl\u00e4ser",
+    "fr": "verres tintements",
+    "nl": "rammelende glazen",
+    "fi": "silm\u00e4lasit"
+  },
+  "tumbler glass": {
+    "en": "tumbler glass",
+    "es": "vaso de vidrio",
+    "de": "Becherglas",
+    "fr": "verre gobelet",
+    "nl": "tumbler glas",
+    "fi": "kuivausrumpu lasi"
+  },
+  "cup with straw": {
+    "en": "cup with straw",
+    "es": "taza con paja",
+    "de": "Tasse mit Strohhalm",
+    "fr": "tasse avec paille",
+    "nl": "beker met rietje",
+    "fi": "kuppi oljella"
+  },
+  "kitchen knife": {
+    "en": "kitchen knife",
+    "es": "cuchillo de cocina",
+    "de": "K\u00fcchenmesser",
+    "fr": "couteau de cuisine",
+    "nl": "keukenmes",
+    "fi": "keitti\u00f6veitsi"
+  },
+  "beach with umbrella": {
+    "en": "beach with umbrella",
+    "es": "playa con sombrilla",
+    "de": "Strand mit Sonnenschirm",
+    "fr": "plage avec parasol",
+    "nl": "strand met parasol",
+    "fi": "ranta sateenvarjo"
+  },
+  "desert": {
+    "en": "desert",
+    "es": "Desierto",
+    "de": "W\u00fcste",
+    "fr": "d\u00e9sert",
+    "nl": "woestijn",
+    "fi": "aavikko"
+  },
+  "desert island": {
+    "en": "desert island",
+    "es": "isla desierta",
+    "de": "einsame Insel",
+    "fr": "\u00eele d\u00e9serte",
+    "nl": "onbewoond eiland",
+    "fi": "autiosaari"
+  },
+  "national park": {
+    "en": "national park",
+    "es": "parque Nacional",
+    "de": "Nationalpark",
+    "fr": "parc national",
+    "nl": "Nationaal Park",
+    "fi": "kansallispuisto"
+  },
+  "stadium": {
+    "en": "stadium",
+    "es": "estadio",
+    "de": "Stadion",
+    "fr": "stade",
+    "nl": "stadion",
+    "fi": "stadion"
+  },
+  "classical building": {
+    "en": "classical building",
+    "es": "edificio clasico",
+    "de": "klassisches Geb\u00e4ude",
+    "fr": "b\u00e2timent classique",
+    "nl": "klassiek gebouw",
+    "fi": "klassinen rakennus"
+  },
+  "houses": {
+    "en": "houses",
+    "es": "casas",
+    "de": "H\u00e4user",
+    "fr": "Maisons",
+    "nl": "huizen",
+    "fi": "talot"
+  },
+  "derelict house": {
+    "en": "derelict house",
+    "es": "casa abandonada",
+    "de": "verlassenes Haus",
+    "fr": "maison abandonn\u00e9e",
+    "nl": "vervallen huis",
+    "fi": "hyl\u00e4tty talo"
+  },
+  "house": {
+    "en": "house",
+    "es": "casa",
+    "de": "Haus",
+    "fr": "maison",
+    "nl": "huis",
+    "fi": "talo"
+  },
+  "house with garden": {
+    "en": "house with garden",
+    "es": "casa con jardin",
+    "de": "Haus mit Garten",
+    "fr": "maison avec jardin",
+    "nl": "huis met tuin",
+    "fi": "talo puutarha"
+  },
+  "Japanese post office": {
+    "en": "Japanese post office",
+    "es": "Oficina de correos japonesa",
+    "de": "Japanische Post",
+    "fr": "Bureau de poste japonais",
+    "nl": "Japans postkantoor",
+    "fi": "Japanin posti"
+  },
+  "post office": {
+    "en": "post office",
+    "es": "oficina postal",
+    "de": "Post",
+    "fr": "bureau de poste",
+    "nl": "postkantoor",
+    "fi": "postitoimisto"
+  },
+  "hospital": {
+    "en": "hospital",
+    "es": "hospital",
+    "de": "Krankenhaus",
+    "fr": "h\u00f4pital",
+    "nl": "ziekenhuis",
+    "fi": "sairaala"
+  },
+  "bank": {
+    "en": "bank",
+    "es": "banco",
+    "de": "Bank",
+    "fr": "banque",
+    "nl": "bank",
+    "fi": "pankki"
+  },
+  "hotel": {
+    "en": "hotel",
+    "es": "hotel",
+    "de": "Hotel",
+    "fr": "H\u00f4tel",
+    "nl": "hotel",
+    "fi": "hotelli"
+  },
+  "love hotel": {
+    "en": "love hotel",
+    "es": "Hotel del amor",
+    "de": "Liebeshotel",
+    "fr": "h\u00f4tel d&#39;amour",
+    "nl": "liefdeshotel",
+    "fi": "rakkaushotelli"
+  },
+  "convenience store": {
+    "en": "convenience store",
+    "es": "tienda de conveniencia",
+    "de": "Gemischtwarenladen",
+    "fr": "\u00e9picerie",
+    "nl": "gemakswinkel",
+    "fi": "l\u00e4hikauppa"
+  },
+  "school": {
+    "en": "school",
+    "es": "colegio",
+    "de": "Schule",
+    "fr": "\u00e9cole",
+    "nl": "school-",
+    "fi": "koulu"
+  },
+  "factory": {
+    "en": "factory",
+    "es": "f\u00e1brica",
+    "de": "Fabrik",
+    "fr": "usine",
+    "nl": "fabriek",
+    "fi": "tehdas"
+  },
+  "Tokyo tower": {
+    "en": "Tokyo tower",
+    "es": "Torre de Tokio",
+    "de": "Tokyo Turm",
+    "fr": "Tour de Tokyo",
+    "nl": "Tokyo toren",
+    "fi": "Tokion torni"
+  },
+  "Statue of Liberty": {
+    "en": "Statue of Liberty",
+    "es": "Estatua de la Libertad",
+    "de": "Freiheitsstatue",
+    "fr": "Statue de la Libert\u00e9",
+    "nl": "Vrijheidsbeeld",
+    "fi": "Vapaudenpatsas"
+  },
+  "church": {
+    "en": "church",
+    "es": "Iglesia",
+    "de": "Kirche",
+    "fr": "\u00e9glise",
+    "nl": "kerk",
+    "fi": "kirkko"
+  },
+  "mosque": {
+    "en": "mosque",
+    "es": "mezquita",
+    "de": "Moschee",
+    "fr": "mosqu\u00e9e",
+    "nl": "moskee",
+    "fi": "moskeija"
+  },
+  "hindu temple": {
+    "en": "hindu temple",
+    "es": "templo hind\u00fa",
+    "de": "Hindu Tempel",
+    "fr": "temple hindou",
+    "nl": "hindoe-tempel",
+    "fi": "hindu temppeli"
+  },
+  "synagogue": {
+    "en": "synagogue",
+    "es": "sinagoga",
+    "de": "Synagoge",
+    "fr": "synagogue",
+    "nl": "synagoge",
+    "fi": "synagoga"
+  },
+  "fountain": {
+    "en": "fountain",
+    "es": "fuente",
+    "de": "Brunnen",
+    "fr": "Fontaine",
+    "nl": "fontein",
+    "fi": "suihkul\u00e4hde"
+  },
+  "tent": {
+    "en": "tent",
+    "es": "tienda",
+    "de": "Zelt",
+    "fr": "tente",
+    "nl": "tent",
+    "fi": "teltta"
+  },
+  "foggy": {
+    "en": "foggy",
+    "es": "brumoso",
+    "de": "nebelig",
+    "fr": "brumeux",
+    "nl": "mistig",
+    "fi": "sumuinen"
+  },
+  "night with stars": {
+    "en": "night with stars",
+    "es": "noche con estrellas",
+    "de": "Nacht mit Sternen",
+    "fr": "nuit avec \u00e9toiles",
+    "nl": "nacht met sterren",
+    "fi": "ilta t\u00e4hdet"
+  },
+  "cityscape": {
+    "en": "cityscape",
+    "es": "paisaje urbano",
+    "de": "Stadtbild",
+    "fr": "paysage urbain",
+    "nl": "stadsgezicht",
+    "fi": "kaupunkikuvan"
+  },
+  "sunrise over mountains": {
+    "en": "sunrise over mountains",
+    "es": "amanecer sobre las monta\u00f1as",
+    "de": "Sonnenaufgang \u00fcber Bergen",
+    "fr": "lever du soleil sur les montagnes",
+    "nl": "zonsopgang boven de bergen",
+    "fi": "auringonnousu vuorten yli"
+  },
+  "sunset": {
+    "en": "sunset",
+    "es": "puesta de sol",
+    "de": "Sonnenuntergang",
+    "fr": "le coucher du soleil",
+    "nl": "zonsondergang",
+    "fi": "auringonlasku"
+  },
+  "ferris wheel": {
+    "en": "ferris wheel",
+    "es": "rueda de la fortuna",
+    "de": "Riesenrad",
+    "fr": "grande roue",
+    "nl": "reuzenrad",
+    "fi": "maailmanpy\u00f6r\u00e4"
+  },
+  "railway car": {
+    "en": "railway car",
+    "es": "vag\u00f3n de ferrocarril",
+    "de": "Eisenbahnwagen",
+    "fr": "wagon de chemin de fer",
+    "nl": "treinwagon",
+    "fi": "rautatievaunu"
+  },
+  "train": {
+    "en": "train",
+    "es": "entrenar",
+    "de": "Zug",
+    "fr": "train",
+    "nl": "trein",
+    "fi": "kouluttaa"
+  },
+  "bus": {
+    "en": "bus",
+    "es": "autob\u00fas",
+    "de": "Bus",
+    "fr": "autobus",
+    "nl": "bus",
+    "fi": "bussi"
+  },
+  "fire engine": {
+    "en": "fire engine",
+    "es": "camion de bomberos",
+    "de": "Feuerwehrauto",
+    "fr": "camion de pompier",
+    "nl": "brandweerwagen",
+    "fi": "paloauto"
+  },
+  "oncoming police car": {
+    "en": "oncoming police car",
+    "es": "coche de polic\u00eda que se aproxima",
+    "de": "entgegenkommendes Polizeiauto",
+    "fr": "voiture de police venant en sens inverse",
+    "nl": "tegemoetkomende politiewagen",
+    "fi": "l\u00e4hestyv\u00e4 poliisiauto"
+  },
+  "oncoming taxi": {
+    "en": "oncoming taxi",
+    "es": "taxi que se aproxima",
+    "de": "entgegenkommendes Taxi",
+    "fr": "taxi venant en sens inverse",
+    "nl": "tegenligger",
+    "fi": "l\u00e4hestyv\u00e4 taksi"
+  },
+  "oncoming automobile": {
+    "en": "oncoming automobile",
+    "es": "autom\u00f3vil que se aproxima",
+    "de": "entgegenkommendes Auto",
+    "fr": "automobile venant en sens inverse",
+    "nl": "tegemoetkomende auto",
+    "fi": "l\u00e4hestyv\u00e4 auto"
+  },
+  "articulated lorry": {
+    "en": "articulated lorry",
+    "es": "cami\u00f3n articulado",
+    "de": "Sattelschlepper",
+    "fr": "camion articul\u00e9",
+    "nl": "gelede vrachtwagen",
+    "fi": "nivelkuorma-auto"
+  },
+  "motorcycle": {
+    "en": "motorcycle",
+    "es": "motocicleta",
+    "de": "Motorrad",
+    "fr": "moto",
+    "nl": "motorfiets",
+    "fi": "moottoripy\u00f6r\u00e4"
+  },
+  "bicycle": {
+    "en": "bicycle",
+    "es": "bicicleta",
+    "de": "Fahrrad",
+    "fr": "v\u00e9lo",
+    "nl": "fiets",
+    "fi": "polkupy\u00f6r\u00e4"
+  },
+  "ferry": {
+    "en": "ferry",
+    "es": "transportar",
+    "de": "F\u00e4hre",
+    "fr": "traversier",
+    "nl": "veerboot",
+    "fi": "lautta"
+  },
+  "airplane": {
+    "en": "airplane",
+    "es": "avi\u00f3n",
+    "de": "Flugzeug",
+    "fr": "avion",
+    "nl": "vliegtuig",
+    "fi": "lentokone"
+  },
+  "parachute": {
+    "en": "parachute",
+    "es": "paraca\u00eddas",
+    "de": "Fallschirm",
+    "fr": "parachute",
+    "nl": "parachute",
+    "fi": "laskuvarjo"
+  },
+  "helicopter": {
+    "en": "helicopter",
+    "es": "helic\u00f3ptero",
+    "de": "Hubschrauber",
+    "fr": "h\u00e9licopt\u00e8re",
+    "nl": "helikopter",
+    "fi": "helikopteri"
+  },
+  "mountain cableway": {
+    "en": "mountain cableway",
+    "es": "telef\u00e9rico de monta\u00f1a",
+    "de": "Bergseilbahn",
+    "fr": "t\u00e9l\u00e9ph\u00e9rique de montagne",
+    "nl": "berg kabelbaan",
+    "fi": "vuoren k\u00f6ysirata"
+  },
+  "rocket": {
+    "en": "rocket",
+    "es": "cohete",
+    "de": "Rakete",
+    "fr": "fus\u00e9e",
+    "nl": "raket",
+    "fi": "raketti"
+  },
+  "flying saucer": {
+    "en": "flying saucer",
+    "es": "Platillo volador",
+    "de": "fliegende Untertasse",
+    "fr": "soucoupe volante",
+    "nl": "vliegende schotel",
+    "fi": "lent\u00e4v\u00e4 lautanen"
+  },
+  "full moon": {
+    "en": "full moon",
+    "es": "Luna llena",
+    "de": "Vollmond",
+    "fr": "pleine lune",
+    "nl": "volle maan",
+    "fi": "t\u00e4ysikuu"
+  },
+  "sun": {
+    "en": "sun",
+    "es": "Dom",
+    "de": "Sonne",
+    "fr": "Soleil",
+    "nl": "zon",
+    "fi": "aurinko"
+  },
+  "ringed planet": {
+    "en": "ringed planet",
+    "es": "planeta anillado",
+    "de": "beringter Planet",
+    "fr": "plan\u00e8te annel\u00e9e",
+    "nl": "geringde planeet",
+    "fi": "rengastettu planeetta"
+  },
+  "star": {
+    "en": "star",
+    "es": "estrella",
+    "de": "Star",
+    "fr": "\u00e9toile",
+    "nl": "ster",
+    "fi": "t\u00e4hti"
+  },
+  "sun behind cloud": {
+    "en": "sun behind cloud",
+    "es": "sol detr\u00e1s de la nube",
+    "de": "Sonne hinter Wolke",
+    "fr": "soleil derri\u00e8re les nuages",
+    "nl": "zon achter wolk",
+    "fi": "aurinko pilven takana"
+  },
+  "cloud with lightning and rain": {
+    "en": "cloud with lightning and rain",
+    "es": "nube con rel\u00e1mpagos y lluvia",
+    "de": "Wolke mit Blitz und Regen",
+    "fr": "nuage avec foudre et pluie",
+    "nl": "wolk met bliksem en regen",
+    "fi": "pilvi salaman ja sateen kanssa"
+  },
+  "tornado": {
+    "en": "tornado",
+    "es": "tornado",
+    "de": "Tornado",
+    "fr": "tornade",
+    "nl": "tornado",
+    "fi": "tornado"
+  },
+  "wind face": {
+    "en": "wind face",
+    "es": "cara de viento",
+    "de": "Windgesicht",
+    "fr": "face au vent",
+    "nl": "wind gezicht",
+    "fi": "tuulen kasvot"
+  },
+  "rainbow": {
+    "en": "rainbow",
+    "es": "arco iris",
+    "de": "Regenbogen",
+    "fr": "arc en ciel",
+    "nl": "regenboog",
+    "fi": "sateenkaari"
+  },
+  "umbrella": {
+    "en": "umbrella",
+    "es": "paraguas",
+    "de": "Regenschirm",
+    "fr": "parapluie",
+    "nl": "paraplu",
+    "fi": "sateenvarjo"
+  },
+  "umbrella on ground": {
+    "en": "umbrella on ground",
+    "es": "paraguas en el suelo",
+    "de": "Regenschirm auf dem Boden",
+    "fr": "parapluie au sol",
+    "nl": "paraplu op de grond",
+    "fi": "sateenvarjo maassa"
+  },
+  "snowflake": {
+    "en": "snowflake",
+    "es": "copo de nieve",
+    "de": "Schneeflocke",
+    "fr": "flocon de neige",
+    "nl": "sneeuwvlok",
+    "fi": "lumihiutale"
+  },
+  "snowman": {
+    "en": "snowman",
+    "es": "monigote de nieve",
+    "de": "Schneemann",
+    "fr": "bonhomme de neige",
+    "nl": "sneeuwman",
+    "fi": "lumiukko"
+  },
+  "snowman without snow": {
+    "en": "snowman without snow",
+    "es": "mu\u00f1eco de nieve sin nieve",
+    "de": "Schneemann ohne Schnee",
+    "fr": "bonhomme de neige sans neige",
+    "nl": "sneeuwman zonder sneeuw",
+    "fi": "lumiukko ilman lunta"
+  },
+  "comet": {
+    "en": "comet",
+    "es": "cometa",
+    "de": "Komet",
+    "fr": "com\u00e8te",
+    "nl": "komeet",
+    "fi": "komeetta"
+  },
+  "fire": {
+    "en": "fire",
+    "es": "fuego",
+    "de": "Feuer",
+    "fr": "Feu",
+    "nl": "brand",
+    "fi": "antaa potkut"
+  },
+  "water wave": {
+    "en": "water wave",
+    "es": "ola de agua",
+    "de": "Wasserwelle",
+    "fr": "vague d&#39;eau",
+    "nl": "watergolf",
+    "fi": "vesiaaltto"
+  },
+  "party popper": {
+    "en": "party popper",
+    "es": "aguafiestas",
+    "de": "Party Popper",
+    "fr": "bombe de table",
+    "nl": "Feestknaller",
+    "fi": "puolue popper"
+  },
+  "confetti ball": {
+    "en": "confetti ball",
+    "es": "bola de confeti",
+    "de": "Konfettiball",
+    "fr": "boule de confettis",
+    "nl": "confetti bal",
+    "fi": "konfetti pallo"
+  },
+  "wrapped gift": {
+    "en": "wrapped gift",
+    "es": "regalo envuelto",
+    "de": "verpacktes Geschenk",
+    "fr": "cadeau emball\u00e9",
+    "nl": "verpakt cadeau",
+    "fi": "k\u00e4\u00e4ritty lahja"
+  },
+  "reminder ribbon": {
+    "en": "reminder ribbon",
+    "es": "cinta recordatoria",
+    "de": "Erinnerungsband",
+    "fr": "ruban de rappel",
+    "nl": "herinnering lint",
+    "fi": "muistutusnauha"
+  },
+  "military medal": {
+    "en": "military medal",
+    "es": "medalla militar",
+    "de": "Milit\u00e4rmedaille",
+    "fr": "m\u00e9daille militaire",
+    "nl": "militaire medaille",
+    "fi": "armeijan mitali"
+  },
+  "trophy": {
+    "en": "trophy",
+    "es": "trofeo",
+    "de": "Troph\u00e4e",
+    "fr": "troph\u00e9e",
+    "nl": "trofee",
+    "fi": "palkinto"
+  },
+  "sports medal": {
+    "en": "sports medal",
+    "es": "medalla deportiva",
+    "de": "Sportmedaille",
+    "fr": "m\u00e9daille sportive",
+    "nl": "sportmedaille",
+    "fi": "urheilumitali"
+  },
+  "soccer ball": {
+    "en": "soccer ball",
+    "es": "bal\u00f3n de f\u00fatbol",
+    "de": "Fu\u00dfball",
+    "fr": "ballon de football",
+    "nl": "voetbal",
+    "fi": "jalkapallo"
+  },
+  "basketball": {
+    "en": "basketball",
+    "es": "baloncesto",
+    "de": "Basketball",
+    "fr": "basketball",
+    "nl": "basketbal",
+    "fi": "koripallo"
+  },
+  "bowling": {
+    "en": "bowling",
+    "es": "bolos",
+    "de": "Bowling",
+    "fr": "bowling",
+    "nl": "bowling",
+    "fi": "keilailu"
+  },
+  "ping pong": {
+    "en": "ping pong",
+    "es": "ping pong",
+    "de": "Tischtennis",
+    "fr": "ping pong",
+    "nl": "tafeltennis",
+    "fi": "P\u00f6yt\u00e4tennis"
+  },
+  "badminton": {
+    "en": "badminton",
+    "es": "b\u00e1dminton",
+    "de": "Badminton",
+    "fr": "badminton",
+    "nl": "badminton",
+    "fi": "sulkapallo"
+  },
+  "boxing glove": {
+    "en": "boxing glove",
+    "es": "guante de boxeo",
+    "de": "Boxhandschuh",
+    "fr": "gant de boxe",
+    "nl": "Bokshandschoen",
+    "fi": "nyrkkeilyhansikka"
+  },
+  "flag in hole": {
+    "en": "flag in hole",
+    "es": "bandera en hoyo",
+    "de": "Flagge im Loch",
+    "fr": "drapeau dans le trou",
+    "nl": "vlag in het gat",
+    "fi": "lippu reik\u00e4\u00e4n"
+  },
+  "ice skate": {
+    "en": "ice skate",
+    "es": "patinar sobre hielo",
+    "de": "Eislaufen",
+    "fr": "patin \u00e0 glace",
+    "nl": "schaatsen",
+    "fi": "luistelu"
+  },
+  "fishing pole": {
+    "en": "fishing pole",
+    "es": "ca\u00f1a de pescar",
+    "de": "Angel",
+    "fr": "canne \u00e0 p\u00eache",
+    "nl": "hengel",
+    "fi": "onkivapa"
+  },
+  "diving mask": {
+    "en": "diving mask",
+    "es": "m\u00e1scara de buceo",
+    "de": "Tauchermaske",
+    "fr": "masque de plong\u00e9e",
+    "nl": "duikmasker",
+    "fi": "sukellus maski"
+  },
+  "kite": {
+    "en": "kite",
+    "es": "cometa",
+    "de": "Drachen",
+    "fr": "cerf-volant",
+    "nl": "vlieger",
+    "fi": "leija"
+  },
+  "crystal ball": {
+    "en": "crystal ball",
+    "es": "bola de cristal",
+    "de": "Kristallkugel",
+    "fr": "boule de cristal",
+    "nl": "kristallen bol",
+    "fi": "kristallipallo"
+  },
+  "video game": {
+    "en": "video game",
+    "es": "videojuego",
+    "de": "Videospiel",
+    "fr": "jeu vid\u00e9o",
+    "nl": "videospel",
+    "fi": "videopeli"
+  },
+  "teddy bear": {
+    "en": "teddy bear",
+    "es": "oso de peluche",
+    "de": "Teddyb\u00e4r",
+    "fr": "ours en peluche",
+    "nl": "teddybeer",
+    "fi": "nalle"
+  },
+  "heart suit": {
+    "en": "heart suit",
+    "es": "traje de coraz\u00f3n",
+    "de": "Herzanzug",
+    "fr": "costume de coeur",
+    "nl": "hart pak",
+    "fi": "syd\u00e4npuku"
+  },
+  "artist palette": {
+    "en": "artist palette",
+    "es": "paleta de artista",
+    "de": "K\u00fcnstlerpalette",
+    "fr": "palette d&#39;artiste",
+    "nl": "kunstenaarspalet",
+    "fi": "taiteilijapaletti"
+  },
+  "handbag": {
+    "en": "handbag",
+    "es": "bolso",
+    "de": "Handtasche",
+    "fr": "Sac \u00e0 main",
+    "nl": "handtas",
+    "fi": "k\u00e4silaukku"
+  },
+  "shopping bags": {
+    "en": "shopping bags",
+    "es": "bolsas de compra",
+    "de": "Einkaufst\u00fcten",
+    "fr": "sacs \u00e0 provisions",
+    "nl": "boodschappentassen",
+    "fi": "ostoskassit"
+  },
+  "backpack": {
+    "en": "backpack",
+    "es": "mochila",
+    "de": "Rucksack",
+    "fr": "sac \u00e0 dos",
+    "nl": "rugzak",
+    "fi": "reppu"
+  },
+  "crown": {
+    "en": "crown",
+    "es": "corona",
+    "de": "Krone",
+    "fr": "couronne",
+    "nl": "kroon",
+    "fi": "kruunu"
+  },
+  "ring": {
+    "en": "ring",
+    "es": "anillo",
+    "de": "Ring",
+    "fr": "bague",
+    "nl": "ring",
+    "fi": "rengas"
+  },
+  "musical score": {
+    "en": "musical score",
+    "es": "puntuaci\u00f3n musical",
+    "de": "Partitur",
+    "fr": "partition musicale",
+    "nl": "muziekscore",
+    "fi": "s\u00e4vellys"
+  },
+  "musical notes": {
+    "en": "musical notes",
+    "es": "notas musicales",
+    "de": "Musiknoten",
+    "fr": "notes de musique",
+    "nl": "muziek noten",
+    "fi": "nuotit"
+  },
+  "headphone": {
+    "en": "headphone",
+    "es": "auricular",
+    "de": "Kopfh\u00f6rer",
+    "fr": "casque de musique",
+    "nl": "hoofdtelefoon",
+    "fi": "kuulokkeet"
+  },
+  "saxophone": {
+    "en": "saxophone",
+    "es": "saxof\u00f3n",
+    "de": "Saxophon",
+    "fr": "saxophone",
+    "nl": "saxofoon",
+    "fi": "saksofoni"
+  },
+  "guitar": {
+    "en": "guitar",
+    "es": "guitarra",
+    "de": "Gitarre",
+    "fr": "guitare",
+    "nl": "gitaar",
+    "fi": "kitara"
+  },
+  "musical keyboard": {
+    "en": "musical keyboard",
+    "es": "teclado musical",
+    "de": "Musiktastatur",
+    "fr": "clavier musical",
+    "nl": "muzikaal toetsenbord",
+    "fi": "musiikillinen n\u00e4pp\u00e4imist\u00f6"
+  },
+  "mobile phone": {
+    "en": "mobile phone",
+    "es": "tel\u00e9fono m\u00f3vil",
+    "de": "Mobiltelefon",
+    "fr": "t\u00e9l\u00e9phone portable",
+    "nl": "mobiele telefoon",
+    "fi": "k\u00e4nnykk\u00e4"
+  },
+  "telephone": {
+    "en": "telephone",
+    "es": "tel\u00e9fono",
+    "de": "Telefon",
+    "fr": "T\u00e9l\u00e9phone",
+    "nl": "telefoon",
+    "fi": "puhelin"
+  },
+  "laptop": {
+    "en": "laptop",
+    "es": "ordenador port\u00e1til",
+    "de": "Laptop",
+    "fr": "portable",
+    "nl": "laptop",
+    "fi": "kannettava tietokone"
+  },
+  "computer disk": {
+    "en": "computer disk",
+    "es": "disco de la computadora",
+    "de": "Computerdiskette",
+    "fr": "disque d&#39;ordinateur",
+    "nl": "computerschijf",
+    "fi": "tietokonelevy"
+  },
+  "floppy disk": {
+    "en": "floppy disk",
+    "es": "disco flexible",
+    "de": "Diskette",
+    "fr": "disquette",
+    "nl": "floppy disk",
+    "fi": "levyke"
+  },
+  "movie camera": {
+    "en": "movie camera",
+    "es": "c\u00e1mara de cine",
+    "de": "Filmkamera",
+    "fr": "cam\u00e9ra vid\u00e9o",
+    "nl": "film camera",
+    "fi": "elokuvakamera"
+  },
+  "film frames": {
+    "en": "film frames",
+    "es": "fotogramas de la pel\u00edcula",
+    "de": "Filmrahmen",
+    "fr": "cadres de film",
+    "nl": "filmframes",
+    "fi": "elokuvakehykset"
+  },
+  "camera with flash": {
+    "en": "camera with flash",
+    "es": "c\u00e1mara con flash",
+    "de": "Kamera mit Blitz",
+    "fr": "appareil photo avec flash",
+    "nl": "camera met flits",
+    "fi": "kamera salamalla"
+  },
+  "magnifying glass tilted left": {
+    "en": "magnifying glass tilted left",
+    "es": "lupa inclinada a la izquierda",
+    "de": "Lupe nach links geneigt",
+    "fr": "loupe inclin\u00e9e vers la gauche",
+    "nl": "vergrootglas naar links gekanteld",
+    "fi": "suurennuslasi kallistettu vasemmalle"
+  },
+  "candle": {
+    "en": "candle",
+    "es": "vela",
+    "de": "Kerze",
+    "fr": "bougie",
+    "nl": "kaars",
+    "fi": "kynttil\u00e4"
+  },
+  "light bulb": {
+    "en": "light bulb",
+    "es": "bombilla",
+    "de": "die Gl\u00fchbirne",
+    "fr": "ampoule",
+    "nl": "gloeilamp",
+    "fi": "hehkulamppu"
+  },
+  "flashlight": {
+    "en": "flashlight",
+    "es": "Linterna",
+    "de": "Taschenlampe",
+    "fr": "lampe de poche",
+    "nl": "zaklamp",
+    "fi": "taskulamppu"
+  },
+  "open book": {
+    "en": "open book",
+    "es": "libro abierto",
+    "de": "offenes Buch",
+    "fr": "livre ouvert",
+    "nl": "open boek",
+    "fi": "avoin kirja"
+  },
+  "green book": {
+    "en": "green book",
+    "es": "libro Verde",
+    "de": "gr\u00fcnes Buch",
+    "fr": "livre vert",
+    "nl": "groen boek",
+    "fi": "vihre\u00e4 kirja"
+  },
+  "books": {
+    "en": "books",
+    "es": "libros",
+    "de": "B\u00fccher",
+    "fr": "livres",
+    "nl": "boeken",
+    "fi": "kirjat"
+  },
+  "money bag": {
+    "en": "money bag",
+    "es": "bolsa de dinero",
+    "de": "Geldtasche",
+    "fr": "Sac d&#39;argent",
+    "nl": "geldtas",
+    "fi": "rahas\u00e4kki"
+  },
+  "dollar banknote": {
+    "en": "dollar banknote",
+    "es": "billete de d\u00f3lar",
+    "de": "Dollar Banknote",
+    "fr": "billet de dollar",
+    "nl": "dollar biljet",
+    "fi": "dollarin seteli"
+  },
+  "money with wings": {
+    "en": "money with wings",
+    "es": "dinero con alas",
+    "de": "Geld mit Fl\u00fcgeln",
+    "fr": "argent avec des ailes",
+    "nl": "geld met vleugels",
+    "fi": "raha siipill\u00e4"
+  },
+  "envelope": {
+    "en": "envelope",
+    "es": "sobre",
+    "de": "Briefumschlag",
+    "fr": "enveloppe",
+    "nl": "envelop",
+    "fi": "kirjekuori"
+  },
+  "scissors": {
+    "en": "scissors",
+    "es": "tijeras",
+    "de": "Schere",
+    "fr": "les ciseaux",
+    "nl": "schaar",
+    "fi": "sakset"
+  },
+  "unlocked": {
+    "en": "unlocked",
+    "es": "desbloqueado",
+    "de": "freigeschaltet",
+    "fr": "d\u00e9verrouill\u00e9",
+    "nl": "ontgrendeld",
+    "fi": "lukitsematon"
+  },
+  "old key": {
+    "en": "old key",
+    "es": "llave vieja",
+    "de": "alter Schl\u00fcssel",
+    "fr": "vieille cl\u00e9",
+    "nl": "oude sleutel",
+    "fi": "vanha avain"
+  },
+  "hammer": {
+    "en": "hammer",
+    "es": "martillo",
+    "de": "Hammer",
+    "fr": "marteau",
+    "nl": "hamer",
+    "fi": "vasara"
+  },
+  "axe": {
+    "en": "axe",
+    "es": "hacha",
+    "de": "Axt",
+    "fr": "hache",
+    "nl": "bijl",
+    "fi": "kirves"
+  },
+  "crossed swords": {
+    "en": "crossed swords",
+    "es": "espadas cruzadas",
+    "de": "gekreuzte Schwerter",
+    "fr": "\u00e9p\u00e9es crois\u00e9es",
+    "nl": "gekruiste zwaarden",
+    "fi": "ristiss\u00e4 miekkoja"
+  },
+  "pistol": {
+    "en": "pistol",
+    "es": "pistola",
+    "de": "Pistole",
+    "fr": "pistolet",
+    "nl": "pistool",
+    "fi": "pistooli"
+  },
+  "dna": {
+    "en": "dna",
+    "es": "adn",
+    "de": "DNA",
+    "fr": "ADN",
+    "nl": "dna",
+    "fi": "dna"
+  },
+  "syringe": {
+    "en": "syringe",
+    "es": "jeringuilla",
+    "de": "Spritze",
+    "fr": "seringue",
+    "nl": "spuit",
+    "fi": "ruisku"
+  },
+  "drop of blood": {
+    "en": "drop of blood",
+    "es": "gota de sangre",
+    "de": "Tropfen Blut",
+    "fr": "une goutte de sang",
+    "nl": "druppel bloed",
+    "fi": "tippa verta"
+  },
+  "door": {
+    "en": "door",
+    "es": "puerta",
+    "de": "T\u00fcr",
+    "fr": "porte",
+    "nl": "deur",
+    "fi": "ovi"
+  },
+  "bed": {
+    "en": "bed",
+    "es": "cama",
+    "de": "Bett",
+    "fr": "lit",
+    "nl": "bed",
+    "fi": "s\u00e4nky"
+  },
+  "bathtub": {
+    "en": "bathtub",
+    "es": "ba\u00f1era",
+    "de": "Badewanne",
+    "fr": "baignoire",
+    "nl": "bad",
+    "fi": "kylpyamme"
+  },
+  "basket": {
+    "en": "basket",
+    "es": "cesta",
+    "de": "Korb",
+    "fr": "panier",
+    "nl": "mand",
+    "fi": "kori"
+  },
+  "coffin": {
+    "en": "coffin",
+    "es": "ata\u00fad",
+    "de": "Sarg",
+    "fr": "cercueil",
+    "nl": "lijkkist",
+    "fi": "ruumisarkku"
+  },
+  "radioactive": {
+    "en": "radioactive",
+    "es": "radioactivo",
+    "de": "radioaktiv",
+    "fr": "radioactif",
+    "nl": "radioactief",
+    "fi": "radioaktiivinen"
+  },
+  "infinity": {
+    "en": "infinity",
+    "es": "infinito",
+    "de": "Unendlichkeit",
+    "fr": "infini",
+    "nl": "oneindigheid",
+    "fi": "\u00e4\u00e4rett\u00f6myys"
+  },
+  "heavy dollar sign": {
+    "en": "heavy dollar sign",
+    "es": "signo de d\u00f3lar pesado",
+    "de": "schweres Dollarzeichen",
+    "fr": "signe dollar lourd",
+    "nl": "zware dollarteken",
+    "fi": "raskas dollarimerkki"
+  },
+  "medical symbol": {
+    "en": "medical symbol",
+    "es": "s\u00edmbolo medico",
+    "de": "medizinisches Symbol",
+    "fr": "symbole m\u00e9dical",
+    "nl": "medisch symbool",
+    "fi": "l\u00e4\u00e4ketieteellinen symboli"
+  },
+  "triangular flag": {
+    "en": "triangular flag",
+    "es": "bandera triangular",
+    "de": "dreieckige Flagge",
+    "fr": "drapeau triangulaire",
+    "nl": "driehoekige vlag",
+    "fi": "kolmion lippu"
+  },
+  "rainbow flag": {
+    "en": "rainbow flag",
+    "es": "bandera del arcoiris",
+    "de": "Regenbogenfahne",
+    "fr": "drapeau arc-en-ciel",
+    "nl": "regenboog vlag",
+    "fi": "sateenkaaren lippu"
+  },
+  "pirate flag": {
+    "en": "pirate flag",
+    "es": "bandera pirata",
+    "de": "Piratenflagge",
+    "fr": "drapeau pirate",
+    "nl": "piraten vlag",
+    "fi": "merirosvo lippu"
+  },
+  "flag: Colombia": {
+    "en": "flag: Colombia",
+    "es": "bandera: Colombia",
+    "de": "Flagge: Kolumbien",
+    "fr": "drapeau: Colombie",
+    "nl": "vlag: Colombia",
+    "fi": "lippu: Kolumbia"
+  },
+  "flag: Spain": {
+    "en": "flag: Spain",
+    "es": "bandera: Espa\u00f1a",
+    "de": "Flagge: Spanien",
+    "fr": "drapeau: Espagne",
+    "nl": "vlag: Spanje",
+    "fi": "lippu: Espanja"
+  },
+  "flag: Germany": {
+    "en": "flag: Germany",
+    "es": "bandera: Alemania",
+    "de": "Flagge: Deutschland",
+    "fr": "drapeau: Allemagne",
+    "nl": "vlag: Duitsland",
+    "fi": "lippu: Saksa"
+  },
+  "flag: France": {
+    "en": "flag: France",
+    "es": "bandera: Francia",
+    "de": "Flagge: Frankreich",
+    "fr": "drapeau: France",
+    "nl": "vlag: Frankrijk",
+    "fi": "lippu: Ranska"
+  },
+  "flag: Brazil": {
+    "en": "flag: Brazil",
+    "es": "bandera: Brasil",
+    "de": "Flagge: Brasilien",
+    "fr": "drapeau: Br\u00e9sil",
+    "nl": "vlag: Brazili\u00eb",
+    "fi": "lippu: Brasilia"
+  },
+  "flag: Argentina": {
+    "en": "flag: Argentina",
+    "es": "bandera: Argentina",
+    "de": "Flagge: Argentinien",
+    "fr": "drapeau: Argentine",
+    "nl": "vlag: Argentini\u00eb",
+    "fi": "lippu: Argentiina"
+  },
+  "flag: United States": {
+    "en": "flag: United States",
+    "es": "bandera: Estados Unidos",
+    "de": "Flagge: Vereinigte Staaten",
+    "fr": "drapeau: \u00c9tats-Unis",
+    "nl": "vlag: Verenigde Staten",
+    "fi": "lippu: Yhdysvallat"
+  },
+  "flag: Canada": {
+    "en": "flag: Canada",
+    "es": "bandera: Canad\u00e1",
+    "de": "Flagge: Kanada",
+    "fr": "drapeau: Canada",
+    "nl": "vlag: Canada",
+    "fi": "lippu: Kanada"
+  },
+  "flag: South Korea": {
+    "en": "flag: South Korea",
+    "es": "bandera: Corea del Sur",
+    "de": "Flagge: S\u00fcdkorea",
+    "fr": "drapeau: Cor\u00e9e du Sud",
+    "nl": "vlag: Zuid-Korea",
+    "fi": "lippu: Etel\u00e4-Korea"
+  },
+  "flag: China": {
+    "en": "flag: China",
+    "es": "bandera: China",
+    "de": "Flagge: China",
+    "fr": "drapeau: Chine",
+    "nl": "vlag: China",
+    "fi": "lippu: Kiina"
+  },
+  "flag: Russia": {
+    "en": "flag: Russia",
+    "es": "bandera: Rusia",
+    "de": "Flagge: Russland",
+    "fr": "drapeau: Russie",
+    "nl": "vlag: Rusland",
+    "fi": "lippu: Ven\u00e4j\u00e4"
+  },
+  "flag: Portugal": {
+    "en": "flag: Portugal",
+    "es": "bandera: Portugal",
+    "de": "Flagge: Portugal",
+    "fr": "drapeau: Portugal",
+    "nl": "vlag: Portugal",
+    "fi": "lippu: Portugali"
+  },
+  "flag: Chile": {
+    "en": "flag: Chile",
+    "es": "bandera: Chile",
+    "de": "Flagge: Chile",
+    "fr": "drapeau: Chili",
+    "nl": "vlag: Chili",
+    "fi": "lippu: Chile"
+  },
+  "flag: United Kingdom": {
+    "en": "flag: United Kingdom",
+    "es": "bandera: Reino Unido",
+    "de": "Flagge: Vereinigtes K\u00f6nigreich",
+    "fr": "drapeau: Royaume-Uni",
+    "nl": "vlag: Verenigd Koninkrijk",
+    "fi": "lippu: Yhdistynyt kuningaskunta"
+  },
+  "flag: Italy": {
+    "en": "flag: Italy",
+    "es": "bandera: Italia",
+    "de": "Flagge: Italien",
+    "fr": "drapeau: Italie",
+    "nl": "vlag: Itali\u00eb",
+    "fi": "lippu: Italia"
+  }
+}
