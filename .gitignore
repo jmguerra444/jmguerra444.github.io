@@ -1,3 +1,5 @@
 old_site
 *.ai
 *.log
+
+translate_script.py
