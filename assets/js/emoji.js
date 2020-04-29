@@ -1,3 +1,4 @@
+var pos = 0;
 
 var results = "";
 var counter = 0; // Controls the number of elements in the story
@@ -18,18 +19,17 @@ var translationList = $.getJSON( "assets/json/translations.json", function( json
 
 function handleRun() 
 {
+    pos = 0;
     // Shuffler story handler
     if (counter == 5) 
     {
         results = "";
         counter = 0;
     }
-    var pos = 0;
     var interval = setInterval(function() 
     {
-        get(2, pos, interval);
+        get(2, interval);
     }, 80);
-    handleTranslation();
 }
 
 function handleTranslation()
@@ -37,17 +37,23 @@ function handleTranslation()
     var translationString = ""
     var e = document.getElementById("lang")
     language = e.options[e.selectedIndex].value;
-    for (var i = 0; (i < resultsList.length || i < 5); i++)
+    for (var i = 0; i < resultsList.length; i++)
     {
         var q = resultsList[i]["description"];
         var thisTranslation = translationList[q][language];
-        translationString += resultsList[i]["emoji"] + thisTranslation + "<br>";
-    }
+        translationString += resultsList[i]["emoji"] + thisTranslation + "      ";
+        if (i == 0) 
+        {
+            translationString = "<p style=font-size:110%; text-align:center;>" + translationString + "</p>";
+        }
 
+        if (i >= 10) { break; }
+    }
+    
     document.getElementById("translation-result").innerHTML = translationString;
 }
 
-function get(n, pos, interval) 
+function get(n, interval) 
 {
     var i;
     var output = "";
@@ -64,14 +70,13 @@ function get(n, pos, interval)
     {
         lottery = Math.random() < 0.2;
     }
-    
     pos++;
     if (pos == 20)
     {
         clearInterval(interval)
         results += output;
         resultsList.unshift(item);
-
+        
         // TODO: Add a populate page method
         document.getElementById("story").innerHTML = results;
         counter++;
@@ -85,4 +90,6 @@ function get(n, pos, interval)
             document.getElementById("alert").innerHTML = "";
         }
     }
+    
+    handleTranslation();
 }
