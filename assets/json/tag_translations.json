@@ -1,0 +1,4202 @@
+{
+  "grinning face with big eyes": {
+    "en": ["happy", "joy", "haha"],
+    "es": ["contento", "alegr\u00eda", "jaja"],
+    "de": ["gl\u00fccklich", "Freude", "Haha"],
+    "fr": ["heureux", "joie", "haha"],
+    "pt": ["feliz", "alegria", "haha"],
+    "it": ["contento", "gioia", "haha"],
+    "nl": ["gelukkig", "vreugde", "haha"],
+    "fi": ["onnellinen", "ilo", "haha"]
+  },
+  "grinning face with smiling eyes": {
+    "en": ["happy", "joy", "laugh", "pleased"],
+    "es": ["contento", "alegr\u00eda", "risa", "satisfecho"],
+    "de": ["gl\u00fccklich", "Freude", "Lachen", "zufrieden"],
+    "fr": ["heureux", "joie", "rire", "heureux"],
+    "pt": ["feliz", "alegria", "rir", "satisfeito"],
+    "it": ["contento", "gioia", "ridere", "lieta"],
+    "nl": ["gelukkig", "vreugde", "lach", "verheugd"],
+    "fi": ["onnellinen", "ilo", "nauraa", "tyytyv\u00e4inen"]
+  },
+  "grinning squinting face": {
+    "en": ["happy", "haha"],
+    "es": ["contento", "jaja"],
+    "de": ["gl\u00fccklich", "Haha"],
+    "fr": ["heureux", "haha"],
+    "pt": ["feliz", "haha"],
+    "it": ["contento", "haha"],
+    "nl": ["gelukkig", "haha"],
+    "fi": ["onnellinen", "haha"]
+  },
+  "grinning face with sweat": {
+    "en": ["hot"],
+    "es": ["caliente"],
+    "de": ["hei\u00df"],
+    "fr": ["chaud"],
+    "pt": ["quente"],
+    "it": ["caldo"],
+    "nl": ["heet"],
+    "fi": ["kuuma"]
+  },
+  "rolling on the floor laughing": {
+    "en": ["lol", "laughing"],
+    "es": ["jajaja", "riendo"],
+    "de": ["lol", "Lachen"],
+    "fr": ["lol", "en riant"],
+    "pt": ["ri muito", "rindo"],
+    "it": ["lol", "ridendo"],
+    "nl": ["lol", "lachend"],
+    "fi": ["LOL", "naurava"]
+  },
+  "upside-down face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "winking face": {
+    "en": ["flirt"],
+    "es": ["Ligar"],
+    "de": ["Flirt"],
+    "fr": ["flirter"],
+    "pt": ["flerte"],
+    "it": ["flirtare"],
+    "nl": ["flirt"],
+    "fi": ["flirttailla"]
+  },
+  "smiling face with smiling eyes": {
+    "en": ["proud"],
+    "es": ["orgulloso"],
+    "de": ["stolz"],
+    "fr": ["fier"],
+    "pt": ["orgulhoso"],
+    "it": ["orgoglioso"],
+    "nl": ["trots"],
+    "fi": ["ylpe\u00e4"]
+  },
+  "smiling face with halo": {
+    "en": ["angel"],
+    "es": ["\u00e1ngel"],
+    "de": ["Engel"],
+    "fr": ["ange"],
+    "pt": ["anjo"],
+    "it": ["angelo"],
+    "nl": ["engel"],
+    "fi": ["enkeli"]
+  },
+  "smiling face with hearts": {
+    "en": ["love"],
+    "es": ["amor"],
+    "de": ["Liebe"],
+    "fr": ["amour"],
+    "pt": ["amor"],
+    "it": ["amore"],
+    "nl": ["liefde"],
+    "fi": ["rakkaus"]
+  },
+  "smiling face with heart-eyes": {
+    "en": ["love", "crush"],
+    "es": ["amor", "Persona especial"],
+    "de": ["Liebe", "zerquetschen"],
+    "fr": ["amour", "\u00e9craser"],
+    "pt": ["amor", "A paix\u00e3o s\u00fabita"],
+    "it": ["amore", "schiacciare"],
+    "nl": ["liefde", "verpletteren"],
+    "fi": ["rakkaus", "murskata"]
+  },
+  "star-struck": {
+    "en": ["eyes"],
+    "es": ["ojos"],
+    "de": ["Augen"],
+    "fr": ["yeux"],
+    "pt": ["olhos"],
+    "it": ["occhi"],
+    "nl": ["ogen"],
+    "fi": ["katse"]
+  },
+  "face blowing a kiss": {
+    "en": ["flirt"],
+    "es": ["Ligar"],
+    "de": ["Flirt"],
+    "fr": ["flirter"],
+    "pt": ["flerte"],
+    "it": ["flirtare"],
+    "nl": ["flirt"],
+    "fi": ["flirttailla"]
+  },
+  "kissing face with closed eyes": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "winking face with tongue": {
+    "en": ["prank", "silly"],
+    "es": ["broma", "tonto"],
+    "de": ["Streich", "dumm"],
+    "fr": ["farce", "idiot"],
+    "pt": ["pegadinha", "boba"],
+    "it": ["scherzo", "sciocco"],
+    "nl": ["streek", "dwaas"],
+    "fi": ["kepponen", "typer\u00e4"]
+  },
+  "zany face": {
+    "en": ["goofy", "wacky"],
+    "es": ["mentecato", "chiflado"],
+    "de": ["doof", "verr\u00fcckt"],
+    "fr": ["maladroit", "farfelu"],
+    "pt": ["pateta", "maluco"],
+    "it": ["Sciocco", "strambo"],
+    "nl": ["maf", "maf"],
+    "fi": ["Typer\u00e4", "hassu"]
+  },
+  "money-mouth face": {
+    "en": ["rich"],
+    "es": ["Rico"],
+    "de": ["Reich"],
+    "fr": ["riches"],
+    "pt": ["rico"],
+    "it": ["ricco"],
+    "nl": ["rijk"],
+    "fi": ["rikas"]
+  },
+  "hugging face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "face with hand over mouth": {
+    "en": ["quiet", "whoops"],
+    "es": ["tranquilo", "gritos"],
+    "de": ["ruhig", "Hoppla"],
+    "fr": ["silencieux", "whoops"],
+    "pt": ["quieto", "gritos"],
+    "it": ["silenzioso", "whoops"],
+    "nl": ["rustig", "oeps"],
+    "fi": ["hiljainen", "Oho"]
+  },
+  "shushing face": {
+    "en": ["silence", "quiet"],
+    "es": ["silencio", "tranquilo"],
+    "de": ["Stille", "ruhig"],
+    "fr": ["silence", "silencieux"],
+    "pt": ["sil\u00eancio", "quieto"],
+    "it": ["silenzio", "silenzioso"],
+    "nl": ["stilte", "rustig"],
+    "fi": ["hiljaisuus", "hiljainen"]
+  },
+  "thinking face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "zipper-mouth face": {
+    "en": ["silence", "hush"],
+    "es": ["silencio", "silencio"],
+    "de": ["Stille", "Stille"],
+    "fr": ["silence", "silence"],
+    "pt": ["sil\u00eancio", "sil\u00eancio"],
+    "it": ["silenzio", "silenzio"],
+    "nl": ["stilte", "stil"],
+    "fi": ["hiljaisuus", "hys"]
+  },
+  "face with raised eyebrow": {
+    "en": ["suspicious"],
+    "es": ["suspicaz"],
+    "de": ["verd\u00e4chtig"],
+    "fr": ["m\u00e9fiant"],
+    "pt": ["suspeito"],
+    "it": ["sospetto"],
+    "nl": ["verdacht"],
+    "fi": ["ep\u00e4ilytt\u00e4v\u00e4"]
+  },
+  "neutral face": {
+    "en": ["meh"],
+    "es": ["meh"],
+    "de": ["meh"],
+    "fr": ["meh"],
+    "pt": ["meh"],
+    "it": ["meh"],
+    "nl": ["meh"],
+    "fi": ["meh"]
+  },
+  "face without mouth": {
+    "en": ["mute", "silence"],
+    "es": ["mudo", "silencio"],
+    "de": ["stumm", "Stille"],
+    "fr": ["muet", "silence"],
+    "pt": ["mudo", "sil\u00eancio"],
+    "it": ["muto", "silenzio"],
+    "nl": ["dempen", "stilte"],
+    "fi": ["mykk\u00e4", "hiljaisuus"]
+  },
+  "smirking face": {
+    "en": ["smug"],
+    "es": ["presumido"],
+    "de": ["selbstgef\u00e4llig"],
+    "fr": ["suffisant"],
+    "pt": ["presun\u00e7oso"],
+    "it": ["compiaciuto"],
+    "nl": ["zelfvoldaan"],
+    "fi": ["omahyv\u00e4inen"]
+  },
+  "unamused face": {
+    "en": ["meh"],
+    "es": ["meh"],
+    "de": ["meh"],
+    "fr": ["meh"],
+    "pt": ["meh"],
+    "it": ["meh"],
+    "nl": ["meh"],
+    "fi": ["meh"]
+  },
+  "face with rolling eyes": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "lying face": {
+    "en": ["liar"],
+    "es": ["mentiroso"],
+    "de": ["L\u00fcgner"],
+    "fr": ["menteur"],
+    "pt": ["mentiroso"],
+    "it": ["bugiardo"],
+    "nl": ["leugenaar"],
+    "fi": ["valehtelija"]
+  },
+  "relieved face": {
+    "en": ["whew"],
+    "es": ["Uf"],
+    "de": ["W\u00fctend"],
+    "fr": ["ouf"],
+    "pt": ["uau"],
+    "it": ["whew"],
+    "nl": ["whew"],
+    "fi": ["Whew"]
+  },
+  "pensive face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "sleepy face": {
+    "en": ["tired"],
+    "es": ["cansado"],
+    "de": ["m\u00fcde"],
+    "fr": ["fatigu\u00e9"],
+    "pt": ["cansado"],
+    "it": ["stanco"],
+    "nl": ["moe"],
+    "fi": ["v\u00e4synyt"]
+  },
+  "drooling face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "sleeping face": {
+    "en": ["zzz"],
+    "es": ["zzz"],
+    "de": ["zzz"],
+    "fr": ["zzz"],
+    "pt": ["zzz"],
+    "it": ["zzz"],
+    "nl": ["zzz"],
+    "fi": ["ZZZ"]
+  },
+  "face with medical mask": {
+    "en": ["sick", "ill"],
+    "es": ["enfermo", "enfermo"],
+    "de": ["krank", "krank"],
+    "fr": ["malade", "mauvais"],
+    "pt": ["doente", "eu vou"],
+    "it": ["malato", "malato"],
+    "nl": ["ziek", "ziek"],
+    "fi": ["sairas", "sairas"]
+  },
+  "face with thermometer": {
+    "en": ["sick"],
+    "es": ["enfermo"],
+    "de": ["krank"],
+    "fr": ["malade"],
+    "pt": ["doente"],
+    "it": ["malato"],
+    "nl": ["ziek"],
+    "fi": ["sairas"]
+  },
+  "face with head-bandage": {
+    "en": ["hurt"],
+    "es": ["herir"],
+    "de": ["verletzt"],
+    "fr": ["blesser"],
+    "pt": ["doeu"],
+    "it": ["male"],
+    "nl": ["pijn doen"],
+    "fi": ["satuttaa"]
+  },
+  "nauseated face": {
+    "en": ["sick", "barf", "disgusted"],
+    "es": ["enfermo", "barf", "disgustado"],
+    "de": ["krank", "Kotzen", "angewidert"],
+    "fr": ["malade", "barf", "d\u00e9go\u00fbt\u00e9"],
+    "pt": ["doente", "vomitar", "com nojo"],
+    "it": ["malato", "barf", "disgustato"],
+    "nl": ["ziek", "barf", "weerzinwekkend"],
+    "fi": ["sairas", "barf", "tymp\u00e4\u00e4ntynyt"]
+  },
+  "hot face": {
+    "en": ["heat", "sweating"],
+    "es": ["calor", "transpiraci\u00f3n"],
+    "de": ["Hitze", "Schwitzen"],
+    "fr": ["chaleur", "transpiration"],
+    "pt": ["calor", "suando"],
+    "it": ["calore", "sudorazione"],
+    "nl": ["warmte", "zweten"],
+    "fi": ["l\u00e4mp\u00f6", "hikoilu"]
+  },
+  "cold face": {
+    "en": ["freezing", "ice"],
+    "es": ["congelaci\u00f3n", "hielo"],
+    "de": ["Einfrieren", "Eis"],
+    "fr": ["gel\u00e9", "la glace"],
+    "pt": ["congelando", "gelo"],
+    "it": ["congelamento", "ghiaccio"],
+    "nl": ["bevriezing", "ijs"],
+    "fi": ["j\u00e4\u00e4tymispiste", "j\u00e4\u00e4"]
+  },
+  "dizzy face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "exploding head": {
+    "en": ["mind", "blown"],
+    "es": ["mente", "estropeado"],
+    "de": ["Verstand", "geblasen"],
+    "fr": ["esprit", "souffl\u00e9"],
+    "pt": ["mente", "queimado"],
+    "it": ["mente", "soffiato"],
+    "nl": ["geest", "geblazen"],
+    "fi": ["mieli", "puhalletaan"]
+  },
+  "cowboy hat face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "partying face": {
+    "en": ["celebration", "birthday"],
+    "es": ["celebracion", "cumplea\u00f1os"],
+    "de": ["Feier", "Geburtstag"],
+    "fr": ["f\u00eate", "anniversaire"],
+    "pt": ["celebra\u00e7\u00e3o", "anivers\u00e1rio"],
+    "it": ["celebrazione", "compleanno"],
+    "nl": ["viering", "verjaardag"],
+    "fi": ["juhla", "syntym\u00e4p\u00e4iv\u00e4"]
+  },
+  "smiling face with sunglasses": {
+    "en": ["cool"],
+    "es": ["frio"],
+    "de": ["cool"],
+    "fr": ["cool"],
+    "pt": ["legal"],
+    "it": ["freddo"],
+    "nl": ["koel"],
+    "fi": ["viile\u00e4"]
+  },
+  "nerd face": {
+    "en": ["geek", "glasses"],
+    "es": ["friki", "vasos"],
+    "de": ["Geek", "Brille"],
+    "fr": ["geek", "des lunettes"],
+    "pt": ["nerd", "\u00f3culos"],
+    "it": ["disadattato", "bicchieri"],
+    "nl": ["nerd", "bril"],
+    "fi": ["n\u00f6rtti", "lasit"]
+  },
+  "face with monocle": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "worried face": {
+    "en": ["nervous"],
+    "es": ["nervioso"],
+    "de": ["nerv\u00f6s"],
+    "fr": ["nerveux"],
+    "pt": ["nervoso"],
+    "it": ["nervoso"],
+    "nl": ["nerveus"],
+    "fi": ["hermostunut"]
+  },
+  "frowning face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hushed face": {
+    "en": ["silence", "speechless"],
+    "es": ["silencio", "Sin palabras"],
+    "de": ["Stille", "sprachlos"],
+    "fr": ["silence", "muet"],
+    "pt": ["sil\u00eancio", "sem palavras"],
+    "it": ["silenzio", "muto"],
+    "nl": ["stilte", "sprakeloos"],
+    "fi": ["hiljaisuus", "sanaton"]
+  },
+  "astonished face": {
+    "en": ["amazed", "gasp"],
+    "es": ["asombrado", "jadear"],
+    "de": ["erstaunt", "keuchen"],
+    "fr": ["\u00e9tonn\u00e9", "haleter"],
+    "pt": ["espantado", "suspiro"],
+    "it": ["stupito", "respiro"],
+    "nl": ["versteld staan", "hijg"],
+    "fi": ["h\u00e4mm\u00e4stynyt", "huohottaa"]
+  },
+  "flushed face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pleading face": {
+    "en": ["puppy", "eyes"],
+    "es": ["perrito", "ojos"],
+    "de": ["H\u00fcndchen", "Augen"],
+    "fr": ["chiot", "yeux"],
+    "pt": ["cachorro", "olhos"],
+    "it": ["cucciolo", "occhi"],
+    "nl": ["puppy", "ogen"],
+    "fi": ["pentu", "katse"]
+  },
+  "anguished face": {
+    "en": ["stunned"],
+    "es": ["aturdido"],
+    "de": ["bet\u00e4ubt"],
+    "fr": ["\u00e9tourdi"],
+    "pt": ["atordoado"],
+    "it": ["stordito"],
+    "nl": ["verbijsterd"],
+    "fi": ["j\u00e4rkyttynyt"]
+  },
+  "anxious face with sweat": {
+    "en": ["nervous"],
+    "es": ["nervioso"],
+    "de": ["nerv\u00f6s"],
+    "fr": ["nerveux"],
+    "pt": ["nervoso"],
+    "it": ["nervoso"],
+    "nl": ["nerveus"],
+    "fi": ["hermostunut"]
+  },
+  "sad but relieved face": {
+    "en": ["phew", "sweat", "nervous"],
+    "es": ["Uf", "sudor", "nervioso"],
+    "de": ["Puh", "Schwei\u00df", "nerv\u00f6s"],
+    "fr": ["phew", "transpiration", "nerveux"],
+    "pt": ["ufa", "suor", "nervoso"],
+    "it": ["uff", "sudore", "nervoso"],
+    "nl": ["opluchting", "zweet", "nerveus"],
+    "fi": ["Huh huh", "hiki", "hermostunut"]
+  },
+  "crying face": {
+    "en": ["sad", "tear"],
+    "es": ["triste", "l\u00e1grima"],
+    "de": ["traurig", "zerrei\u00dfen"],
+    "fr": ["triste", "d\u00e9chirer"],
+    "pt": ["triste", "l\u00e1grima"],
+    "it": ["triste", "lacrima"],
+    "nl": ["verdrietig", "scheur"],
+    "fi": ["surullinen", "repi\u00e4"]
+  },
+  "loudly crying face": {
+    "en": ["sad", "cry", "bawling"],
+    "es": ["triste", "llorar", "gritos"],
+    "de": ["traurig", "Schrei", "br\u00fcllend"],
+    "fr": ["triste", "pleurer", "brailler"],
+    "pt": ["triste", "chorar", "berrando"],
+    "it": ["triste", "piangere", "vociare"],
+    "nl": ["verdrietig", "huilen", "brullen"],
+    "fi": ["surullinen", "itke\u00e4", "bawling"]
+  },
+  "face screaming in fear": {
+    "en": ["horror", "shocked"],
+    "es": ["horror", "conmocionado"],
+    "de": ["Grusel", "schockiert"],
+    "fr": ["horreur", "choqu\u00e9"],
+    "pt": ["Horror", "chocado"],
+    "it": ["orrore", "scioccato"],
+    "nl": ["verschrikking", "geschokt"],
+    "fi": ["kauhu", "j\u00e4rkyttynyt"]
+  },
+  "confounded face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "disappointed face": {
+    "en": ["sad"],
+    "es": ["triste"],
+    "de": ["traurig"],
+    "fr": ["triste"],
+    "pt": ["triste"],
+    "it": ["triste"],
+    "nl": ["verdrietig"],
+    "fi": ["surullinen"]
+  },
+  "downcast face with sweat": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "tired face": {
+    "en": ["upset", "whine"],
+    "es": ["trastornado", "gimoteo"],
+    "de": ["ver\u00e4rgert", "jammern"],
+    "fr": ["d\u00e9rang\u00e9", "g\u00e9missement"],
+    "pt": ["chateado", "lamentar"],
+    "it": ["irritato", "gemito"],
+    "nl": ["boos", "zeuren"],
+    "fi": ["poissa tolaltaan", "kitist\u00e4"]
+  },
+  "yawning face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "face with steam from nose": {
+    "en": ["smug"],
+    "es": ["presumido"],
+    "de": ["selbstgef\u00e4llig"],
+    "fr": ["suffisant"],
+    "pt": ["presun\u00e7oso"],
+    "it": ["compiaciuto"],
+    "nl": ["zelfvoldaan"],
+    "fi": ["omahyv\u00e4inen"]
+  },
+  "pouting face": {
+    "en": ["angry"],
+    "es": ["enojado"],
+    "de": ["w\u00fctend"],
+    "fr": ["en col\u00e8re"],
+    "pt": ["Bravo"],
+    "it": ["arrabbiato"],
+    "nl": ["boos"],
+    "fi": ["vihainen"]
+  },
+  "angry face": {
+    "en": ["mad", "annoyed"],
+    "es": ["enojado", "irritado"],
+    "de": ["w\u00fctend", "genervt"],
+    "fr": ["furieux", "agac\u00e9"],
+    "pt": ["louco", "irritado"],
+    "it": ["pazzo", "infastidito"],
+    "nl": ["boos", "ge\u00ebrgerd"],
+    "fi": ["vihainen", "vihainen"]
+  },
+  "face with symbols on mouth": {
+    "en": ["foul"],
+    "es": ["falta"],
+    "de": ["Foul"],
+    "fr": ["faute"],
+    "pt": ["falta"],
+    "it": ["fallo"],
+    "nl": ["vals"],
+    "fi": ["liata"]
+  },
+  "smiling face with horns": {
+    "en": ["devil", "evil", "horns"],
+    "es": ["diablo", "mal", "cuernos"],
+    "de": ["Teufel", "b\u00f6se", "H\u00f6rner"],
+    "fr": ["diable", "mal", "cornes"],
+    "pt": ["diabo", "mal", "chifres"],
+    "it": ["diavolo", "il male", "corna"],
+    "nl": ["duivel", "slecht", "hoorns"],
+    "fi": ["paholainen", "paha", "sarvet"]
+  },
+  "angry face with horns": {
+    "en": ["angry", "devil", "evil", "horns"],
+    "es": ["enojado", "diablo", "mal", "cuernos"],
+    "de": ["w\u00fctend", "Teufel", "b\u00f6se", "H\u00f6rner"],
+    "fr": ["en col\u00e8re", "diable", "mal", "cornes"],
+    "pt": ["Bravo", "diabo", "mal", "chifres"],
+    "it": ["arrabbiato", "diavolo", "il male", "corna"],
+    "nl": ["boos", "duivel", "slecht", "hoorns"],
+    "fi": ["vihainen", "paholainen", "paha", "sarvet"]
+  },
+  "skull": {
+    "en": ["dead", "danger", "poison"],
+    "es": ["muerto", "peligro", "veneno"],
+    "de": ["tot", "Achtung", "vergiften"],
+    "fr": ["mort", "danger", "poison"],
+    "pt": ["morto", "perigo", "Po\u00e7\u00e3o"],
+    "it": ["morto", "Pericolo", "veleno"],
+    "nl": ["dood", "Gevaar", "vergiftigen"],
+    "fi": ["kuollut", "vaara", "myrkytt\u00e4\u00e4"]
+  },
+  "skull and crossbones": {
+    "en": ["danger", "pirate"],
+    "es": ["peligro", "pirata"],
+    "de": ["Achtung", "Pirat"],
+    "fr": ["danger", "pirate"],
+    "pt": ["perigo", "pirata"],
+    "it": ["Pericolo", "pirata"],
+    "nl": ["Gevaar", "piraat"],
+    "fi": ["vaara", "merirosvo"]
+  },
+  "clown face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "ogre": {
+    "en": ["monster"],
+    "es": ["monstruo"],
+    "de": ["Monster-"],
+    "fr": ["monstre"],
+    "pt": ["monstro"],
+    "it": ["mostro"],
+    "nl": ["monster"],
+    "fi": ["hirvi\u00f6"]
+  },
+  "ghost": {
+    "en": ["halloween"],
+    "es": ["V\u00edspera de Todos los Santos"],
+    "de": ["Halloween"],
+    "fr": ["Halloween"],
+    "pt": ["dia das Bruxas"],
+    "it": ["Halloween"],
+    "nl": ["halloween"],
+    "fi": ["halloween"]
+  },
+  "alien": {
+    "en": ["ufo"],
+    "es": ["OVNI"],
+    "de": ["UFO"],
+    "fr": ["OVNI"],
+    "pt": ["UFO"],
+    "it": ["ufo"],
+    "nl": ["ufo"],
+    "fi": ["ufo"]
+  },
+  "robot": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "see-no-evil monkey": {
+    "en": ["monkey", "blind", "ignore"],
+    "es": ["mono", "ciego", "ignorar"],
+    "de": ["Affe", "blind", "ignorieren"],
+    "fr": ["singe", "aveugle", "ignorer"],
+    "pt": ["macaco", "cego", "ignorar"],
+    "it": ["scimmia", "cieco", "ignorare"],
+    "nl": ["aap", "Blind", "negeren"],
+    "fi": ["apina", "sokea", "j\u00e4tt\u00e4\u00e4 huomiotta"]
+  },
+  "kiss mark": {
+    "en": ["lipstick"],
+    "es": ["l\u00e1piz labial"],
+    "de": ["Lippenstift"],
+    "fr": ["rouge \u00e0 l\u00e8vres"],
+    "pt": ["batom"],
+    "it": ["rossetto"],
+    "nl": ["lippenstift"],
+    "fi": ["huulipuna"]
+  },
+  "love letter": {
+    "en": ["email", "envelope"],
+    "es": ["correo electr\u00f3nico", "sobre"],
+    "de": ["Email", "Briefumschlag"],
+    "fr": ["email", "enveloppe"],
+    "pt": ["o email", "envelope"],
+    "it": ["e-mail", "Busta"],
+    "nl": ["e-mail", "envelop"],
+    "fi": ["s\u00e4hk\u00f6posti", "kirjekuori"]
+  },
+  "growing heart": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "broken heart": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "red heart": {
+    "en": ["love"],
+    "es": ["amor"],
+    "de": ["Liebe"],
+    "fr": ["amour"],
+    "pt": ["amor"],
+    "it": ["amore"],
+    "nl": ["liefde"],
+    "fi": ["rakkaus"]
+  },
+  "collision": {
+    "en": ["explode"],
+    "es": ["explotar"],
+    "de": ["explodieren"],
+    "fr": ["exploser"],
+    "pt": ["explodir"],
+    "it": ["esplodere"],
+    "nl": ["ontploffen"],
+    "fi": ["r\u00e4j\u00e4ht\u00e4\u00e4"]
+  },
+  "dashing away": {
+    "en": ["wind", "blow", "fast"],
+    "es": ["viento", "soplo", "r\u00e1pido"],
+    "de": ["Wind", "Schlag", "schnell"],
+    "fr": ["vent", "coup", "vite"],
+    "pt": ["vento", "golpe", "velozes"],
+    "it": ["vento", "soffio", "veloce"],
+    "nl": ["wind", "blazen", "snel"],
+    "fi": ["tuuli", "isku", "nopeasti"]
+  },
+  "bomb": {
+    "en": ["boom"],
+    "es": ["auge"],
+    "de": ["Boom"],
+    "fr": ["boom"],
+    "pt": ["estrondo"],
+    "it": ["boom"],
+    "nl": ["boom"],
+    "fi": ["puomi"]
+  },
+  "speech balloon": {
+    "en": ["comment"],
+    "es": ["comentario"],
+    "de": ["Kommentar"],
+    "fr": ["commentaire"],
+    "pt": ["Comente"],
+    "it": ["commento"],
+    "nl": ["commentaar"],
+    "fi": ["kommentti"]
+  },
+  "waving hand": {
+    "en": ["goodbye"],
+    "es": ["adi\u00f3s"],
+    "de": ["Auf Wiedersehen"],
+    "fr": ["Au revoir"],
+    "pt": ["Tchau"],
+    "it": ["addio"],
+    "nl": ["Vaarwel"],
+    "fi": ["Hyv\u00e4sti"]
+  },
+  "OK hand": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "crossed fingers": {
+    "en": ["luck", "hopeful"],
+    "es": ["suerte", "esperanzado"],
+    "de": ["Gl\u00fcck", "hoffnungsvoll"],
+    "fr": ["la chance", "optimiste"],
+    "pt": ["sorte", "esperan\u00e7oso"],
+    "it": ["fortuna", "pieno di speranza"],
+    "nl": ["geluk", "hoopvol"],
+    "fi": ["onni", "toiveikas"]
+  },
+  "middle finger": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "thumbs up": {
+    "en": ["approve", "ok"],
+    "es": ["aprobar", "Okay"],
+    "de": ["genehmigen", "OK"],
+    "fr": ["approuver", "D&#39;accord"],
+    "pt": ["aprovar", "Est\u00e1 bem"],
+    "it": ["approvare", "ok"],
+    "nl": ["goedkeuren", "OK"],
+    "fi": ["hyv\u00e4ksy\u00e4", "kunnossa"]
+  },
+  "thumbs down": {
+    "en": ["disapprove", "bury"],
+    "es": ["desaprobar", "enterrar"],
+    "de": ["missbilligen", "begraben"],
+    "fr": ["d\u00e9sapprouver", "enterrer"],
+    "pt": ["desaprovar", "enterrar"],
+    "it": ["disapprove", "seppellire"],
+    "nl": ["afkeuren", "begraven"],
+    "fi": ["hylk\u00e4\u00e4", "haudata"]
+  },
+  "oncoming fist": {
+    "en": ["attack"],
+    "es": ["ataque"],
+    "de": ["Attacke"],
+    "fr": ["attaque"],
+    "pt": ["ataque"],
+    "it": ["attacco"],
+    "nl": ["aanval"],
+    "fi": ["hy\u00f6kk\u00e4ys"]
+  },
+  "brain": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "baby": {
+    "en": ["child", "newborn"],
+    "es": ["ni\u00f1o", "reci\u00e9n nacido"],
+    "de": ["Kind", "Neugeborene"],
+    "fr": ["enfant", "nouveau n\u00e9e"],
+    "pt": ["crian\u00e7a", "rec\u00e9m-nascido"],
+    "it": ["bambino", "neonato"],
+    "nl": ["kind", "pasgeboren"],
+    "fi": ["lapsi", "vastasyntynyt"]
+  },
+  "child": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "boy": {
+    "en": ["child"],
+    "es": ["ni\u00f1o"],
+    "de": ["Kind"],
+    "fr": ["enfant"],
+    "pt": ["crian\u00e7a"],
+    "it": ["bambino"],
+    "nl": ["kind"],
+    "fi": ["lapsi"]
+  },
+  "girl": {
+    "en": ["child"],
+    "es": ["ni\u00f1o"],
+    "de": ["Kind"],
+    "fr": ["enfant"],
+    "pt": ["crian\u00e7a"],
+    "it": ["bambino"],
+    "nl": ["kind"],
+    "fi": ["lapsi"]
+  },
+  "person": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person: blond hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man": {
+    "en": ["mustache", "father", "dad"],
+    "es": ["Bigote", "padre", "pap\u00e1"],
+    "de": ["Schnurrbart", "Vater", "Papa"],
+    "fr": ["moustache", "p\u00e8re", "papa"],
+    "pt": ["bigode", "pai", "Papai"],
+    "it": ["baffi", "padre", "pap\u00e0"],
+    "nl": ["snor", "vader", "vader"],
+    "fi": ["viikset", "is\u00e4", "is\u00e4"]
+  },
+  "man: beard": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man: red hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man: curly hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man: white hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man: bald": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman": {
+    "en": ["girls"],
+    "es": ["muchachas"],
+    "de": ["M\u00e4dchen"],
+    "fr": ["les filles"],
+    "pt": ["meninas"],
+    "it": ["ragazze"],
+    "nl": ["meisjes"],
+    "fi": ["tyt\u00f6t"]
+  },
+  "woman: red hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person: red hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman: curly hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person: curly hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman: white hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person: white hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman: bald": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person: bald": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman: blond hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man: blond hair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "older person": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "old man": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "old woman": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person frowning": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man frowning": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman frowning": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person pouting": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man pouting": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman pouting": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person facepalming": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man facepalming": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman facepalming": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person shrugging": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man shrugging": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman shrugging": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "health worker": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man health worker": {
+    "en": ["doctor", "nurse"],
+    "es": ["m\u00e9dico", "enfermero"],
+    "de": ["Arzt", "Krankenschwester"],
+    "fr": ["m\u00e9decin", "infirmi\u00e8re"],
+    "pt": ["m\u00e9dico", "enfermeira"],
+    "it": ["medico", "infermiera"],
+    "nl": ["dokter", "verpleegster"],
+    "fi": ["l\u00e4\u00e4k\u00e4ri", "sairaanhoitaja"]
+  },
+  "student": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man student": {
+    "en": ["graduation"],
+    "es": ["graduaci\u00f3n"],
+    "de": ["Abschluss"],
+    "fr": ["l&#39;obtention du dipl\u00f4me"],
+    "pt": ["gradua\u00e7\u00e3o"],
+    "it": ["la laurea"],
+    "nl": ["diploma uitreiking"],
+    "fi": ["valmistuminen"]
+  },
+  "man teacher": {
+    "en": ["school", "professor"],
+    "es": ["colegio", "profesor"],
+    "de": ["Schule", "Professor"],
+    "fr": ["\u00e9cole", "professeur"],
+    "pt": ["escola", "professor"],
+    "it": ["scuola", "professoressa"],
+    "nl": ["school-", "professor"],
+    "fi": ["koulu", "professori"]
+  },
+  "woman teacher": {
+    "en": ["school", "professor"],
+    "es": ["colegio", "profesor"],
+    "de": ["Schule", "Professor"],
+    "fr": ["\u00e9cole", "professeur"],
+    "pt": ["escola", "professor"],
+    "it": ["scuola", "professoressa"],
+    "nl": ["school-", "professor"],
+    "fi": ["koulu", "professori"]
+  },
+  "man judge": {
+    "en": ["justice"],
+    "es": ["justicia"],
+    "de": ["Gerechtigkeit"],
+    "fr": ["Justice"],
+    "pt": ["justi\u00e7a"],
+    "it": ["giustizia"],
+    "nl": ["gerechtigheid"],
+    "fi": ["oikeudenmukaisuus"]
+  },
+  "woman judge": {
+    "en": ["justice"],
+    "es": ["justicia"],
+    "de": ["Gerechtigkeit"],
+    "fr": ["Justice"],
+    "pt": ["justi\u00e7a"],
+    "it": ["giustizia"],
+    "nl": ["gerechtigheid"],
+    "fi": ["oikeudenmukaisuus"]
+  },
+  "man farmer": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman farmer": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cook": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man cook": {
+    "en": ["chef"],
+    "es": ["cocinero"],
+    "de": ["Koch"],
+    "fr": ["chef"],
+    "pt": ["chefe de cozinha"],
+    "it": ["capocuoco"],
+    "nl": ["chef"],
+    "fi": ["kokki"]
+  },
+  "man mechanic": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman mechanic": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man factory worker": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman factory worker": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "man office worker": {
+    "en": ["business"],
+    "es": ["negocio"],
+    "de": ["Gesch\u00e4ft"],
+    "fr": ["Entreprise"],
+    "pt": ["o neg\u00f3cio"],
+    "it": ["attivit\u00e0 commerciale"],
+    "nl": ["bedrijf"],
+    "fi": ["liiketoiminta"]
+  },
+  "woman office worker": {
+    "en": ["business"],
+    "es": ["negocio"],
+    "de": ["Gesch\u00e4ft"],
+    "fr": ["Entreprise"],
+    "pt": ["o neg\u00f3cio"],
+    "it": ["attivit\u00e0 commerciale"],
+    "nl": ["bedrijf"],
+    "fi": ["liiketoiminta"]
+  },
+  "man scientist": {
+    "en": ["research"],
+    "es": ["investigaci\u00f3n"],
+    "de": ["Forschung"],
+    "fr": ["recherche"],
+    "pt": ["pesquisa"],
+    "it": ["ricerca"],
+    "nl": ["Onderzoek"],
+    "fi": ["tutkimus"]
+  },
+  "woman scientist": {
+    "en": ["research"],
+    "es": ["investigaci\u00f3n"],
+    "de": ["Forschung"],
+    "fr": ["recherche"],
+    "pt": ["pesquisa"],
+    "it": ["ricerca"],
+    "nl": ["Onderzoek"],
+    "fi": ["tutkimus"]
+  },
+  "man artist": {
+    "en": ["painter"],
+    "es": ["pintor"],
+    "de": ["Maler"],
+    "fr": ["peintre"],
+    "pt": ["pintor"],
+    "it": ["pittore"],
+    "nl": ["schilder"],
+    "fi": ["taidemaalari"]
+  },
+  "woman artist": {
+    "en": ["painter"],
+    "es": ["pintor"],
+    "de": ["Maler"],
+    "fr": ["peintre"],
+    "pt": ["pintor"],
+    "it": ["pittore"],
+    "nl": ["schilder"],
+    "fi": ["taidemaalari"]
+  },
+  "man pilot": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman pilot": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "astronaut": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman firefighter": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman police officer": {
+    "en": ["law", "cop"],
+    "es": ["ley", "polic\u00eda"],
+    "de": ["Gesetz", "Polizist"],
+    "fr": ["loi", "flic"],
+    "pt": ["lei", "policial"],
+    "it": ["legge", "poliziotto"],
+    "nl": ["wet", "agent"],
+    "fi": ["laki", "poliisi"]
+  },
+  "man detective": {
+    "en": ["sleuth"],
+    "es": ["detective"],
+    "de": ["Wahrheit"],
+    "fr": ["d\u00e9tective"],
+    "pt": ["investigar"],
+    "it": ["investigatore"],
+    "nl": ["speurneus"],
+    "fi": ["salapoliisi"]
+  },
+  "man construction worker": {
+    "en": ["helmet"],
+    "es": ["Yelmo"],
+    "de": ["Helm"],
+    "fr": ["casque"],
+    "pt": ["capacete"],
+    "it": ["casco"],
+    "nl": ["helm"],
+    "fi": ["kyp\u00e4r\u00e4"]
+  },
+  "prince": {
+    "en": ["crown", "royal"],
+    "es": ["corona", "real"],
+    "de": ["Krone", "k\u00f6niglich"],
+    "fr": ["couronne", "Royal"],
+    "pt": ["coroa", "real"],
+    "it": ["corona", "reale"],
+    "nl": ["kroon", "Koninklijk"],
+    "fi": ["kruunu", "kuninkaallinen"]
+  },
+  "princess": {
+    "en": ["crown", "royal"],
+    "es": ["corona", "real"],
+    "de": ["Krone", "k\u00f6niglich"],
+    "fr": ["couronne", "Royal"],
+    "pt": ["coroa", "real"],
+    "it": ["corona", "reale"],
+    "nl": ["kroon", "Koninklijk"],
+    "fi": ["kruunu", "kuninkaallinen"]
+  },
+  "person with veil": {
+    "en": ["marriage", "wedding"],
+    "es": ["matrimonio", "Boda"],
+    "de": ["Ehe", "Hochzeit"],
+    "fr": ["mariage", "mariage"],
+    "pt": ["casamento", "Casamento"],
+    "it": ["matrimonio", "nozze"],
+    "nl": ["huwelijk", "bruiloft"],
+    "fi": ["avioliitto", "h\u00e4\u00e4t"]
+  },
+  "pregnant woman": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "breast-feeding": {
+    "en": ["nursing"],
+    "es": ["enfermer\u00eda"],
+    "de": ["Pflege-"],
+    "fr": ["allaitement"],
+    "pt": ["enfermagem"],
+    "it": ["assistenza infermieristica"],
+    "nl": ["verpleging"],
+    "fi": ["sairaanhoito"]
+  },
+  "baby angel": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Santa Claus": {
+    "en": ["christmas"],
+    "es": ["Navidad"],
+    "de": ["Weihnachten"],
+    "fr": ["No\u00ebl"],
+    "pt": ["Natal"],
+    "it": ["Natale"],
+    "nl": ["Kerstmis"],
+    "fi": ["joulu"]
+  },
+  "Mrs. Claus": {
+    "en": ["santa"],
+    "es": ["Papa Noel"],
+    "de": ["Santa"],
+    "fr": ["P\u00e8re No\u00ebl"],
+    "pt": ["santa"],
+    "it": ["Santa"],
+    "nl": ["de kerstman"],
+    "fi": ["joulupukki"]
+  },
+  "mx claus": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "superhero": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "supervillain": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman mage": {
+    "en": ["wizard"],
+    "es": ["mago"],
+    "de": ["Magier"],
+    "fr": ["sorcier"],
+    "pt": ["Mago"],
+    "it": ["procedura guidata"],
+    "nl": ["tovenaar"],
+    "fi": ["velho"]
+  },
+  "fairy": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "vampire": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "mermaid": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "elf": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person with white cane": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman in motorized wheelchair": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman dancing": {
+    "en": ["dress"],
+    "es": ["vestir"],
+    "de": ["Kleid"],
+    "fr": ["robe"],
+    "pt": ["vestir"],
+    "it": ["vestito"],
+    "nl": ["jurk"],
+    "fi": ["mekko"]
+  },
+  "man dancing": {
+    "en": ["dancer"],
+    "es": ["bailar\u00edn"],
+    "de": ["T\u00e4nzer"],
+    "fr": ["Danseur"],
+    "pt": ["dan\u00e7arino"],
+    "it": ["ballerino"],
+    "nl": ["danser"],
+    "fi": ["tanssija"]
+  },
+  "men with bunny ears": {
+    "en": ["bunny"],
+    "es": ["conejito"],
+    "de": ["Hase"],
+    "fr": ["lapin"],
+    "pt": ["Coelho"],
+    "it": ["coniglietto"],
+    "nl": ["konijn"],
+    "fi": ["pupu"]
+  },
+  "man climbing": {
+    "en": ["bouldering"],
+    "es": ["boulder"],
+    "de": ["Bouldern"],
+    "fr": ["bloc"],
+    "pt": ["pedregulho"],
+    "it": ["bouldering"],
+    "nl": ["boulderen"],
+    "fi": ["kalliokiipeily"]
+  },
+  "woman climbing": {
+    "en": ["bouldering"],
+    "es": ["boulder"],
+    "de": ["Bouldern"],
+    "fr": ["bloc"],
+    "pt": ["pedregulho"],
+    "it": ["bouldering"],
+    "nl": ["boulderen"],
+    "fi": ["kalliokiipeily"]
+  },
+  "horse racing": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "skier": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person rowing boat": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person biking": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "men wrestling": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person juggling": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "person taking bath": {
+    "en": ["shower"],
+    "es": ["ducha"],
+    "de": ["Dusche"],
+    "fr": ["douche"],
+    "pt": ["chuveiro"],
+    "it": ["doccia"],
+    "nl": ["douche"],
+    "fi": ["suihku"]
+  },
+  "person in bed": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "woman and man holding hands": {
+    "en": ["date"],
+    "es": ["fecha"],
+    "de": ["Datum"],
+    "fr": ["Date"],
+    "pt": ["encontro"],
+    "it": ["Data"],
+    "nl": ["datum"],
+    "fi": ["P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"]
+  },
+  "kiss: woman, man": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "family: man, woman, boy": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "family: man, woman, girl, boy": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "dog face": {
+    "en": ["pet"],
+    "es": ["mascota"],
+    "de": ["Haustier"],
+    "fr": ["animal de compagnie"],
+    "pt": ["animal"],
+    "it": ["animale domestico"],
+    "nl": ["huisdier"],
+    "fi": ["lemmikki"]
+  },
+  "fox": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cat face": {
+    "en": ["pet"],
+    "es": ["mascota"],
+    "de": ["Haustier"],
+    "fr": ["animal de compagnie"],
+    "pt": ["animal"],
+    "it": ["animale domestico"],
+    "nl": ["huisdier"],
+    "fi": ["lemmikki"]
+  },
+  "horse face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "horse": {
+    "en": ["speed"],
+    "es": ["velocidad"],
+    "de": ["Geschwindigkeit"],
+    "fr": ["la vitesse"],
+    "pt": ["Rapidez"],
+    "it": ["velocit\u00e0"],
+    "nl": ["snelheid"],
+    "fi": ["nopeus"]
+  },
+  "unicorn": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cow face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pig face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "mouse face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "mouse": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "rabbit face": {
+    "en": ["bunny"],
+    "es": ["conejito"],
+    "de": ["Hase"],
+    "fr": ["lapin"],
+    "pt": ["Coelho"],
+    "it": ["coniglietto"],
+    "nl": ["konijn"],
+    "fi": ["pupu"]
+  },
+  "chicken": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "front-facing baby chick": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "snake": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "dragon face": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "T-Rex": {
+    "en": ["dinosaur"],
+    "es": ["dinosaurio"],
+    "de": ["Dinosaurier"],
+    "fr": ["dinosaure"],
+    "pt": ["dinossauro"],
+    "it": ["dinosauro"],
+    "nl": ["dinosaurus"],
+    "fi": ["dinosaurus"]
+  },
+  "spouting whale": {
+    "en": ["sea"],
+    "es": ["mar"],
+    "de": ["Meer"],
+    "fr": ["mer"],
+    "pt": ["mar"],
+    "it": ["mare"],
+    "nl": ["zee"],
+    "fi": ["meri"]
+  },
+  "tropical fish": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "spider": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "bouquet": {
+    "en": ["flowers"],
+    "es": ["flores"],
+    "de": ["Blumen"],
+    "fr": ["fleurs"],
+    "pt": ["flores"],
+    "it": ["fiori"],
+    "nl": ["bloemen"],
+    "fi": ["kukat"]
+  },
+  "wilted flower": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "evergreen tree": {
+    "en": ["wood"],
+    "es": ["madera"],
+    "de": ["Holz"],
+    "fr": ["bois"],
+    "pt": ["madeira"],
+    "it": ["legna"],
+    "nl": ["hout"],
+    "fi": ["puu"]
+  },
+  "four leaf clover": {
+    "en": ["luck"],
+    "es": ["suerte"],
+    "de": ["Gl\u00fcck"],
+    "fr": ["la chance"],
+    "pt": ["sorte"],
+    "it": ["fortuna"],
+    "nl": ["geluk"],
+    "fi": ["onni"]
+  },
+  "maple leaf": {
+    "en": ["canada"],
+    "es": ["Canad\u00e1"],
+    "de": ["Kanada"],
+    "fr": ["Canada"],
+    "pt": ["Canad\u00e1"],
+    "it": ["Canada"],
+    "nl": ["Canada"],
+    "fi": ["Kanada"]
+  },
+  "mushroom": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "croissant": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cheese wedge": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "meat on bone": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hamburger": {
+    "en": ["burger"],
+    "es": ["hamburguesa"],
+    "de": ["Burger"],
+    "fr": ["Burger"],
+    "pt": ["hamburguer"],
+    "it": ["hamburger"],
+    "nl": ["hamburger"],
+    "fi": ["hampurilainen"]
+  },
+  "french fries": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pizza": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hot dog": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "sandwich": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "taco": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "shallow pan of food": {
+    "en": ["paella", "curry"],
+    "es": ["paella", "curry"],
+    "de": ["Paella", "Curry"],
+    "fr": ["Pa\u00eblla", "curry"],
+    "pt": ["paella", "Curry"],
+    "it": ["paella", "curry"],
+    "nl": ["paella", "kerrie"],
+    "fi": ["paella", "curry"]
+  },
+  "popcorn": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "spaghetti": {
+    "en": ["pasta"],
+    "es": ["pasta"],
+    "de": ["Pasta"],
+    "fr": ["P\u00e2tes"],
+    "pt": ["massa"],
+    "it": ["pasta"],
+    "nl": ["pasta"],
+    "fi": ["pasta"]
+  },
+  "soft ice cream": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "birthday cake": {
+    "en": ["party"],
+    "es": ["fiesta"],
+    "de": ["Party"],
+    "fr": ["f\u00eate"],
+    "pt": ["festa"],
+    "it": ["festa"],
+    "nl": ["partij"],
+    "fi": ["juhla"]
+  },
+  "bottle with popping cork": {
+    "en": ["bottle", "bubbly", "celebration"],
+    "es": ["botella", "burbujeante", "celebracion"],
+    "de": ["Flasche", "sprudelnd", "Feier"],
+    "fr": ["bouteille", "p\u00e9tillant", "f\u00eate"],
+    "pt": ["garrafa", "borbulhante", "celebra\u00e7\u00e3o"],
+    "it": ["bottiglia", "pieno di bolle", "celebrazione"],
+    "nl": ["fles", "bruisend", "viering"],
+    "fi": ["pullo", "kupliva", "juhla"]
+  },
+  "wine glass": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cocktail glass": {
+    "en": ["drink"],
+    "es": ["beber"],
+    "de": ["Getr\u00e4nk"],
+    "fr": ["boisson"],
+    "pt": ["bebida"],
+    "it": ["bevanda"],
+    "nl": ["drinken"],
+    "fi": ["juoda"]
+  },
+  "tropical drink": {
+    "en": ["summer", "vacation"],
+    "es": ["verano", "vacaciones"],
+    "de": ["Sommer-", "Urlaub"],
+    "fr": ["\u00e9t\u00e9", "vacances"],
+    "pt": ["ver\u00e3o", "per\u00edodo de f\u00e9rias"],
+    "it": ["estate", "vacanza"],
+    "nl": ["zomer", "vakantie"],
+    "fi": ["kes\u00e4", "loma"]
+  },
+  "beer mug": {
+    "en": ["drink"],
+    "es": ["beber"],
+    "de": ["Getr\u00e4nk"],
+    "fr": ["boisson"],
+    "pt": ["bebida"],
+    "it": ["bevanda"],
+    "nl": ["drinken"],
+    "fi": ["juoda"]
+  },
+  "clinking beer mugs": {
+    "en": ["drinks"],
+    "es": ["bebidas"],
+    "de": ["Getr\u00e4nke"],
+    "fr": ["les boissons"],
+    "pt": ["bebidas"],
+    "it": ["bevande"],
+    "nl": ["drankjes"],
+    "fi": ["juomat"]
+  },
+  "clinking glasses": {
+    "en": ["cheers", "toast"],
+    "es": ["salud", "brindis"],
+    "de": ["Prost", "Toast"],
+    "fr": ["\u00e0 votre sant\u00e9", "pain grill\u00e9"],
+    "pt": ["Felicidades", "torrada"],
+    "it": ["Saluti", "crostini"],
+    "nl": ["proost", "geroosterd brood"],
+    "fi": ["Kippis", "paahtoleip\u00e4"]
+  },
+  "tumbler glass": {
+    "en": ["whisky"],
+    "es": ["whisky"],
+    "de": ["Whiskey"],
+    "fr": ["whisky"],
+    "pt": ["U\u00edsque"],
+    "it": ["Whisky"],
+    "nl": ["whisky"],
+    "fi": ["viski"]
+  },
+  "kitchen knife": {
+    "en": ["cut", "chop"],
+    "es": ["cortar", "picar"],
+    "de": ["Schnitt", "hacken"],
+    "fr": ["Couper", "hacher"],
+    "pt": ["cortar", "Picar"],
+    "it": ["taglio", "chop"],
+    "nl": ["besnoeiing", "karbonade"],
+    "fi": ["leikata", "pilko"]
+  },
+  "amphora": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "world map": {
+    "en": ["travel"],
+    "es": ["viajar"],
+    "de": ["Reise"],
+    "fr": ["Voyage"],
+    "pt": ["viagem"],
+    "it": ["viaggio"],
+    "nl": ["reizen"],
+    "fi": ["matkustaa"]
+  },
+  "camping": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "beach with umbrella": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "desert": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "desert island": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "house": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "office building": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hospital": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "bank": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hotel": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "love hotel": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "factory": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "castle": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "ferris wheel": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "roller coaster": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "circus tent": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "locomotive": {
+    "en": ["train"],
+    "es": ["entrenar"],
+    "de": ["Zug"],
+    "fr": ["train"],
+    "pt": ["trem"],
+    "it": ["treno"],
+    "nl": ["trein"],
+    "fi": ["kouluttaa"]
+  },
+  "railway car": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "train": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "metro": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "station": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "monorail": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "bus": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "ambulance": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "fire engine": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "police car": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "taxi": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "automobile": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "delivery truck": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "articulated lorry": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "tractor": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "motorcycle": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "motor scooter": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "bicycle": {
+    "en": ["bicycle"],
+    "es": ["bicicleta"],
+    "de": ["Fahrrad"],
+    "fr": ["v\u00e9lo"],
+    "pt": ["bicicleta"],
+    "it": ["bicicletta"],
+    "nl": ["fiets"],
+    "fi": ["polkupy\u00f6r\u00e4"]
+  },
+  "sailboat": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "canoe": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "airplane": {
+    "en": ["flight"],
+    "es": ["vuelo"],
+    "de": ["Flug"],
+    "fr": ["vol"],
+    "pt": ["voar"],
+    "it": ["volo"],
+    "nl": ["vlucht"],
+    "fi": ["lento"]
+  },
+  "airplane departure": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "helicopter": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "flying saucer": {
+    "en": ["ufo"],
+    "es": ["OVNI"],
+    "de": ["UFO"],
+    "fr": ["OVNI"],
+    "pt": ["UFO"],
+    "it": ["ufo"],
+    "nl": ["ufo"],
+    "fi": ["ufo"]
+  },
+  "luggage": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hourglass not done": {
+    "en": ["time"],
+    "es": ["hora"],
+    "de": ["Zeit"],
+    "fr": ["temps"],
+    "pt": ["Tempo"],
+    "it": ["tempo"],
+    "nl": ["tijd"],
+    "fi": ["aika"]
+  },
+  "watch": {
+    "en": ["time"],
+    "es": ["hora"],
+    "de": ["Zeit"],
+    "fr": ["temps"],
+    "pt": ["Tempo"],
+    "it": ["tempo"],
+    "nl": ["tijd"],
+    "fi": ["aika"]
+  },
+  "alarm clock": {
+    "en": ["morning"],
+    "es": ["Ma\u00f1ana"],
+    "de": ["Morgen"],
+    "fr": ["Matin"],
+    "pt": ["manh\u00e3"],
+    "it": ["mattina"],
+    "nl": ["ochtend-"],
+    "fi": ["aamu"]
+  },
+  "first quarter moon": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "waxing gibbous moon": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "crescent moon": {
+    "en": ["night"],
+    "es": ["noche"],
+    "de": ["Nacht"],
+    "fr": ["nuit"],
+    "pt": ["noite"],
+    "it": ["notte"],
+    "nl": ["nacht"],
+    "fi": ["y\u00f6"]
+  },
+  "sun": {
+    "en": ["weather"],
+    "es": ["clima"],
+    "de": ["Wetter"],
+    "fr": ["temps"],
+    "pt": ["clima"],
+    "it": ["tempo metereologico"],
+    "nl": ["weer"],
+    "fi": ["s\u00e4\u00e4"]
+  },
+  "star": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cloud with lightning and rain": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "sun behind small cloud": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "sun behind large cloud": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "cloud with snow": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "tornado": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "rainbow": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "umbrella": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "snowflake": {
+    "en": ["winter", "cold", "weather"],
+    "es": ["invierno", "fr\u00edo", "clima"],
+    "de": ["Winter", "kalt", "Wetter"],
+    "fr": ["hiver", "du froid", "temps"],
+    "pt": ["inverno", "frio", "clima"],
+    "it": ["inverno", "freddo", "tempo metereologico"],
+    "nl": ["winter", "verkoudheid", "weer"],
+    "fi": ["talvi", "kylm\u00e4", "s\u00e4\u00e4"]
+  },
+  "snowman": {
+    "en": ["winter", "christmas"],
+    "es": ["invierno", "Navidad"],
+    "de": ["Winter", "Weihnachten"],
+    "fr": ["hiver", "No\u00ebl"],
+    "pt": ["inverno", "Natal"],
+    "it": ["inverno", "Natale"],
+    "nl": ["winter", "Kerstmis"],
+    "fi": ["talvi", "joulu"]
+  },
+  "fire": {
+    "en": ["burn"],
+    "es": ["quemar"],
+    "de": ["brennen"],
+    "fr": ["br\u00fbler"],
+    "pt": ["queimar"],
+    "it": ["bruciare"],
+    "nl": ["brandwond"],
+    "fi": ["polttaa"]
+  },
+  "water wave": {
+    "en": ["sea"],
+    "es": ["mar"],
+    "de": ["Meer"],
+    "fr": ["mer"],
+    "pt": ["mar"],
+    "it": ["mare"],
+    "nl": ["zee"],
+    "fi": ["meri"]
+  },
+  "jack-o-lantern": {
+    "en": ["halloween"],
+    "es": ["V\u00edspera de Todos los Santos"],
+    "de": ["Halloween"],
+    "fr": ["Halloween"],
+    "pt": ["dia das Bruxas"],
+    "it": ["Halloween"],
+    "nl": ["halloween"],
+    "fi": ["halloween"]
+  },
+  "Christmas tree": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "firecracker": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "party popper": {
+    "en": ["hooray", "party"],
+    "es": ["hurra", "fiesta"],
+    "de": ["Hurra", "Party"],
+    "fr": ["hourra", "f\u00eate"],
+    "pt": ["hooray", "festa"],
+    "it": ["urr\u00e0", "festa"],
+    "nl": ["Hoera", "partij"],
+    "fi": ["Hurraa", "juhla"]
+  },
+  "confetti ball": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "wrapped gift": {
+    "en": ["present", "birthday", "christmas"],
+    "es": ["presente", "cumplea\u00f1os", "Navidad"],
+    "de": ["vorhanden", "Geburtstag", "Weihnachten"],
+    "fr": ["pr\u00e9sent", "anniversaire", "No\u00ebl"],
+    "pt": ["presente", "anivers\u00e1rio", "Natal"],
+    "it": ["presente", "null", "Natale"],
+    "nl": ["Cadeau", "verjaardag", "Kerstmis"],
+    "fi": ["esitt\u00e4\u00e4", "syntym\u00e4p\u00e4iv\u00e4", "joulu"]
+  },
+  "trophy": {
+    "en": ["award", "contest", "winner"],
+    "es": ["premio", "concurso", "ganador"],
+    "de": ["vergeben", "Wettbewerb", "Gewinner"],
+    "fr": ["prix", "concours", "gagnant"],
+    "pt": ["pr\u00eamio", "concurso", "vencedora"],
+    "it": ["premio", "concorso", "vincitore"],
+    "nl": ["prijs", "wedstrijd", "winnaar"],
+    "fi": ["palkinto", "kilpailu", "voittaja"]
+  },
+  "sports medal": {
+    "en": ["gold", "winner"],
+    "es": ["oro", "ganador"],
+    "de": ["Gold", "Gewinner"],
+    "fr": ["or", "gagnant"],
+    "pt": ["ouro", "vencedora"],
+    "it": ["oro", "vincitore"],
+    "nl": ["goud", "winnaar"],
+    "fi": ["kulta", "voittaja"]
+  },
+  "soccer ball": {
+    "en": ["sports"],
+    "es": ["Deportes"],
+    "de": ["Sport"],
+    "fr": ["des sports"],
+    "pt": ["Esportes"],
+    "it": ["gli sport"],
+    "nl": ["sport-"],
+    "fi": ["Urheilu"]
+  },
+  "boxing glove": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "flag in hole": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "ice skate": {
+    "en": ["skating"],
+    "es": ["Patinaje"],
+    "de": ["Skaten"],
+    "fr": ["patinage"],
+    "pt": ["patina\u00e7\u00e3o"],
+    "it": ["pattinando"],
+    "nl": ["het schaatsen"],
+    "fi": ["luistelu"]
+  },
+  "fishing pole": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "kite": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "crystal ball": {
+    "en": ["fortune"],
+    "es": ["fortuna"],
+    "de": ["Verm\u00f6gen"],
+    "fr": ["fortune"],
+    "pt": ["fortuna"],
+    "it": ["fortuna"],
+    "nl": ["fortuin"],
+    "fi": ["onni"]
+  },
+  "heart suit": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "shopping bags": {
+    "en": ["bags"],
+    "es": ["pantalones"],
+    "de": ["Taschen"],
+    "fr": ["Sacs"],
+    "pt": ["bolsas"],
+    "it": ["borse"],
+    "nl": ["Tassen"],
+    "fi": ["laukut"]
+  },
+  "backpack": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "crown": {
+    "en": ["king", "queen", "royal"],
+    "es": ["Rey", "reina", "real"],
+    "de": ["K\u00f6nig", "K\u00f6nigin", "k\u00f6niglich"],
+    "fr": ["Roi", "reine", "Royal"],
+    "pt": ["rei", "rainha", "real"],
+    "it": ["re", "Regina", "reale"],
+    "nl": ["koning", "koningin", "Koninklijk"],
+    "fi": ["kuningas", "kuningatar", "kuninkaallinen"]
+  },
+  "top hat": {
+    "en": ["hat", "classy"],
+    "es": ["sombrero", "de buen tono"],
+    "de": ["Hut", "nobel"],
+    "fr": ["chapeau", "chic"],
+    "pt": ["chap\u00e9u", "elegante"],
+    "it": ["cappello", "di classe"],
+    "nl": ["hoed", "stijlvol"],
+    "fi": ["hattu", "tyylik\u00e4s"]
+  },
+  "ring": {
+    "en": ["wedding", "marriage", "engaged"],
+    "es": ["Boda", "matrimonio", "comprometido"],
+    "de": ["Hochzeit", "Ehe", "besch\u00e4ftigt, verlobt"],
+    "fr": ["mariage", "mariage", "engag\u00e9"],
+    "pt": ["Casamento", "casamento", "acionado"],
+    "it": ["nozze", "matrimonio", "impegnato"],
+    "nl": ["bruiloft", "huwelijk", "verloofd"],
+    "fi": ["h\u00e4\u00e4t", "avioliitto", "kihloissa"]
+  },
+  "gem stone": {
+    "en": ["diamond"],
+    "es": ["diamante"],
+    "de": ["Diamant"],
+    "fr": ["diamant"],
+    "pt": ["diamante"],
+    "it": ["diamante"],
+    "nl": ["diamant"],
+    "fi": ["timantti-"]
+  },
+  "muted speaker": {
+    "en": ["sound", "volume"],
+    "es": ["sonido", "volumen"],
+    "de": ["Klang", "Volumen"],
+    "fr": ["du son", "le volume"],
+    "pt": ["som", "volume"],
+    "it": ["suono", "volume"],
+    "nl": ["geluid", "volume"],
+    "fi": ["\u00e4\u00e4ni", "tilavuus"]
+  },
+  "speaker low volume": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "musical score": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "musical note": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "microphone": {
+    "en": ["sing"],
+    "es": ["canta"],
+    "de": ["singen"],
+    "fr": ["chanter"],
+    "pt": ["cantar"],
+    "it": ["cantare"],
+    "nl": ["zingen"],
+    "fi": ["laulaa"]
+  },
+  "headphone": {
+    "en": ["music", "earphones"],
+    "es": ["m\u00fasica", "auriculares"],
+    "de": ["Musik-", "Kopfh\u00f6rer"],
+    "fr": ["la musique", "\u00e9couteurs"],
+    "pt": ["m\u00fasica", "fones de ouvido"],
+    "it": ["musica", "auricolari"],
+    "nl": ["muziek-", "oortelefoons"],
+    "fi": ["musiikki", "kuulokkeet"]
+  },
+  "radio": {
+    "en": ["podcast"],
+    "es": ["podcast"],
+    "de": ["Podcast"],
+    "fr": ["Podcast"],
+    "pt": ["podcast"],
+    "it": ["Podcast"],
+    "nl": ["podcast"],
+    "fi": ["podcast"]
+  },
+  "saxophone": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "guitar": {
+    "en": ["rock"],
+    "es": ["rock"],
+    "de": ["Felsen"],
+    "fr": ["Roche"],
+    "pt": ["Rocha"],
+    "it": ["roccia"],
+    "nl": ["rots"],
+    "fi": ["rock"]
+  },
+  "musical keyboard": {
+    "en": ["piano"],
+    "es": ["piano"],
+    "de": ["Klavier"],
+    "fr": ["piano"],
+    "pt": ["piano"],
+    "it": ["pianoforte"],
+    "nl": ["piano"],
+    "fi": ["piano"]
+  },
+  "violin": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "mobile phone with arrow": {
+    "en": ["call", "incoming"],
+    "es": ["llamada", "entrante"],
+    "de": ["Anruf", "eingehend"],
+    "fr": ["appel", "entrant"],
+    "pt": ["ligar", "entrada"],
+    "it": ["chiamata", "arrivo"],
+    "nl": ["bellen", "inkomend"],
+    "fi": ["puhelu", "saapuva"]
+  },
+  "telephone": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "laptop": {
+    "en": ["desktop", "screen"],
+    "es": ["escritorio", "pantalla"],
+    "de": ["Desktop", "Bildschirm"],
+    "fr": ["bureau", "\u00e9cran"],
+    "pt": ["\u00c1rea de Trabalho", "tela"],
+    "it": ["del desktop", "schermo"],
+    "nl": ["bureaublad", "scherm"],
+    "fi": ["p\u00f6yt\u00e4-", "kuvaruutu"]
+  },
+  "computer disk": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "floppy disk": {
+    "en": ["save"],
+    "es": ["salvar"],
+    "de": ["speichern"],
+    "fr": ["enregistrer"],
+    "pt": ["Salve \ue051"],
+    "it": ["Salva"],
+    "nl": ["opslaan"],
+    "fi": ["Tallentaa"]
+  },
+  "optical disk": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "movie camera": {
+    "en": ["film", "video"],
+    "es": ["pel\u00edcula", "v\u00eddeo"],
+    "de": ["Film", "Video"],
+    "fr": ["film", "vid\u00e9o"],
+    "pt": ["filme", "v\u00eddeo"],
+    "it": ["film", "video"],
+    "nl": ["film", "video"],
+    "fi": ["elokuva", "video-"]
+  },
+  "camera with flash": {
+    "en": ["photo"],
+    "es": ["foto"],
+    "de": ["Foto"],
+    "fr": ["photo"],
+    "pt": ["foto"],
+    "it": ["foto"],
+    "nl": ["foto"],
+    "fi": ["kuva"]
+  },
+  "magnifying glass tilted left": {
+    "en": ["search", "zoom"],
+    "es": ["buscar", "enfocar"],
+    "de": ["Suche", "Zoomen"],
+    "fr": ["chercher", "Zoom"],
+    "pt": ["procurar", "amplia\u00e7\u00e3o"],
+    "it": ["ricerca", "Ingrandisci"],
+    "nl": ["zoeken", "zoom"],
+    "fi": ["Hae", "Zoomaus"]
+  },
+  "candle": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "light bulb": {
+    "en": ["idea", "light"],
+    "es": ["idea", "ligero"],
+    "de": ["Idee", "Licht"],
+    "fr": ["id\u00e9e", "lumi\u00e8re"],
+    "pt": ["id\u00e9ia", "leve"],
+    "it": ["idea", "leggero"],
+    "nl": ["idee", "licht"],
+    "fi": ["ajatus", "valo"]
+  },
+  "flashlight": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "closed book": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "open book": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "books": {
+    "en": ["library"],
+    "es": ["biblioteca"],
+    "de": ["Bibliothek"],
+    "fr": ["biblioth\u00e8que"],
+    "pt": ["biblioteca"],
+    "it": ["biblioteca"],
+    "nl": ["bibliotheek"],
+    "fi": ["kirjasto"]
+  },
+  "ledger": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "page with curl": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "scroll": {
+    "en": ["document"],
+    "es": ["documento"],
+    "de": ["dokumentieren"],
+    "fr": ["document"],
+    "pt": ["documento"],
+    "it": ["documento"],
+    "nl": ["document"],
+    "fi": ["asiakirja"]
+  },
+  "newspaper": {
+    "en": ["press"],
+    "es": ["prensa"],
+    "de": ["Dr\u00fccken Sie"],
+    "fr": ["presse"],
+    "pt": ["pressione"],
+    "it": ["stampa"],
+    "nl": ["druk op"],
+    "fi": ["Lehdist\u00f6"]
+  },
+  "rolled-up newspaper": {
+    "en": ["press"],
+    "es": ["prensa"],
+    "de": ["Dr\u00fccken Sie"],
+    "fr": ["presse"],
+    "pt": ["pressione"],
+    "it": ["stampa"],
+    "nl": ["druk op"],
+    "fi": ["Lehdist\u00f6"]
+  },
+  "money bag": {
+    "en": ["dollar", "cream"],
+    "es": ["d\u00f3lar", "crema"],
+    "de": ["Dollar", "Sahne"],
+    "fr": ["dollar", "cr\u00e8me"],
+    "pt": ["d\u00f3lar", "creme"],
+    "it": ["dollaro", "crema"],
+    "nl": ["dollar", "room"],
+    "fi": ["dollari", "kerma"]
+  },
+  "dollar banknote": {
+    "en": ["money"],
+    "es": ["dinero"],
+    "de": ["Geld"],
+    "fr": ["argent"],
+    "pt": ["dinheiro"],
+    "it": ["i soldi"],
+    "nl": ["geld"],
+    "fi": ["raha"]
+  },
+  "euro banknote": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pound banknote": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "money with wings": {
+    "en": ["dollar"],
+    "es": ["d\u00f3lar"],
+    "de": ["Dollar"],
+    "fr": ["dollar"],
+    "pt": ["d\u00f3lar"],
+    "it": ["dollaro"],
+    "nl": ["dollar"],
+    "fi": ["dollari"]
+  },
+  "credit card": {
+    "en": ["subscription"],
+    "es": ["suscripci\u00f3n"],
+    "de": ["Abonnement"],
+    "fr": ["abonnement"],
+    "pt": ["inscri\u00e7\u00e3o"],
+    "it": ["sottoscrizione"],
+    "nl": ["abonnement"],
+    "fi": ["tilaus"]
+  },
+  "envelope": {
+    "en": ["letter"],
+    "es": ["carta"],
+    "de": ["Brief"],
+    "fr": ["lettre"],
+    "pt": ["carta"],
+    "it": ["lettera"],
+    "nl": ["brief"],
+    "fi": ["kirjain"]
+  },
+  "incoming envelope": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "envelope with arrow": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "package": {
+    "en": ["shipping"],
+    "es": ["Env\u00edo"],
+    "de": ["Versand"],
+    "fr": ["livraison"],
+    "pt": ["Remessa"],
+    "it": ["spedizione"],
+    "nl": ["Verzending"],
+    "fi": ["laivaus"]
+  },
+  "closed mailbox with raised flag": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "black nib": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "memo": {
+    "en": ["document", "note"],
+    "es": ["documento", "Nota"],
+    "de": ["dokumentieren", "Hinweis"],
+    "fr": ["document", "Remarque"],
+    "pt": ["documento", "Nota"],
+    "it": ["documento", "Nota"],
+    "nl": ["document", "Notitie"],
+    "fi": ["asiakirja", "merkint\u00e4"]
+  },
+  "briefcase": {
+    "en": ["business"],
+    "es": ["negocio"],
+    "de": ["Gesch\u00e4ft"],
+    "fr": ["Entreprise"],
+    "pt": ["o neg\u00f3cio"],
+    "it": ["attivit\u00e0 commerciale"],
+    "nl": ["bedrijf"],
+    "fi": ["liiketoiminta"]
+  },
+  "round pushpin": {
+    "en": ["location"],
+    "es": ["ubicaci\u00f3n"],
+    "de": ["Standort"],
+    "fr": ["emplacement"],
+    "pt": ["localiza\u00e7\u00e3o"],
+    "it": ["Posizione"],
+    "nl": ["plaats"],
+    "fi": ["sijainti"]
+  },
+  "scissors": {
+    "en": ["cut"],
+    "es": ["cortar"],
+    "de": ["Schnitt"],
+    "fr": ["Couper"],
+    "pt": ["cortar"],
+    "it": ["taglio"],
+    "nl": ["besnoeiing"],
+    "fi": ["leikata"]
+  },
+  "card file box": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "locked": {
+    "en": ["security", "private"],
+    "es": ["seguridad", "privado"],
+    "de": ["Sicherheit", "Privat"],
+    "fr": ["S\u00e9curit\u00e9", "priv\u00e9"],
+    "pt": ["seguran\u00e7a", "privado"],
+    "it": ["sicurezza", "privato"],
+    "nl": ["veiligheid", "privaat"],
+    "fi": ["turvallisuus", "yksityinen"]
+  },
+  "unlocked": {
+    "en": ["security"],
+    "es": ["seguridad"],
+    "de": ["Sicherheit"],
+    "fr": ["S\u00e9curit\u00e9"],
+    "pt": ["seguran\u00e7a"],
+    "it": ["sicurezza"],
+    "nl": ["veiligheid"],
+    "fi": ["turvallisuus"]
+  },
+  "key": {
+    "en": ["lock", "password"],
+    "es": ["bloquear", "contrase\u00f1a"],
+    "de": ["sperren", "Passwort"],
+    "fr": ["fermer \u00e0 cl\u00e9", "mot de passe"],
+    "pt": ["trava", "senha"],
+    "it": ["serratura", "parola d&#39;ordine"],
+    "nl": ["slot", "wachtwoord"],
+    "fi": ["Lukko", "Salasana"]
+  },
+  "old key": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hammer": {
+    "en": ["tool"],
+    "es": ["herramienta"],
+    "de": ["Werkzeug"],
+    "fr": ["outil"],
+    "pt": ["ferramenta"],
+    "it": ["attrezzo"],
+    "nl": ["gereedschap"],
+    "fi": ["ty\u00f6kalu"]
+  },
+  "axe": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pick": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hammer and pick": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "hammer and wrench": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "dagger": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "crossed swords": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pistol": {
+    "en": ["shoot", "weapon"],
+    "es": ["disparar", "arma"],
+    "de": ["schie\u00dfen", "Waffe"],
+    "fr": ["tirer", "arme"],
+    "pt": ["tiro", "arma"],
+    "it": ["sparare", "arma"],
+    "nl": ["schieten", "wapen"],
+    "fi": ["ampua", "ase"]
+  },
+  "bow and arrow": {
+    "en": ["archery"],
+    "es": ["tiro al arco"],
+    "de": ["Bogenschie\u00dfen"],
+    "fr": ["tir \u00e0 l&#39;arc"],
+    "pt": ["tiro com arco"],
+    "it": ["tiro con l&#39;arco"],
+    "nl": ["boogschieten"],
+    "fi": ["jousiammunta"]
+  },
+  "balance scale": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "dna": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "microscope": {
+    "en": ["science", "laboratory", "investigate"],
+    "es": ["Ciencias", "laboratorio", "investigar"],
+    "de": ["Wissenschaft", "Labor", "untersuchen"],
+    "fr": ["science", "laboratoire", "enqu\u00eater"],
+    "pt": ["Ci\u00eancia", "laborat\u00f3rio", "investigar"],
+    "it": ["scienza", "laboratorio", "indagare"],
+    "nl": ["wetenschap", "laboratorium", "onderzoeken"],
+    "fi": ["tiede", "laboratorio", "tutkia"]
+  },
+  "syringe": {
+    "en": ["health", "hospital", "needle"],
+    "es": ["salud", "hospital", "aguja"],
+    "de": ["Gesundheit", "Krankenhaus", "Nadel"],
+    "fr": ["sant\u00e9", "h\u00f4pital", "aiguille"],
+    "pt": ["sa\u00fade", "hospital", "agulha"],
+    "it": ["Salute", "ospedale", "ago"],
+    "nl": ["Gezondheid", "ziekenhuis", "naald-"],
+    "fi": ["terveys", "sairaala", "neula"]
+  },
+  "drop of blood": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "pill": {
+    "en": ["health", "medicine"],
+    "es": ["salud", "medicamento"],
+    "de": ["Gesundheit", "Medizin"],
+    "fr": ["sant\u00e9", "m\u00e9dicament"],
+    "pt": ["sa\u00fade", "medicamento"],
+    "it": ["Salute", "medicinale"],
+    "nl": ["Gezondheid", "geneesmiddel"],
+    "fi": ["terveys", "l\u00e4\u00e4ke"]
+  },
+  "bathtub": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "razor": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "fire extinguisher": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "coffin": {
+    "en": ["funeral"],
+    "es": ["funeral"],
+    "de": ["Beerdigung"],
+    "fr": ["fun\u00e9railles"],
+    "pt": ["funeral"],
+    "it": ["funerale"],
+    "nl": ["begrafenis"],
+    "fi": ["hautajaiset"]
+  },
+  "SOS button": {
+    "en": ["help", "emergency"],
+    "es": ["ayuda", "emergencia"],
+    "de": ["Hilfe", "Notfall"],
+    "fr": ["Aidez-moi", "urgence"],
+    "pt": ["Socorro", "emerg\u00eancia"],
+    "it": ["Aiuto", "emergenza"],
+    "nl": ["helpen", "noodsituatie"],
+    "fi": ["auta", "h\u00e4t\u00e4"]
+  },
+  "triangular flag": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "rainbow flag": {
+    "en": ["pride"],
+    "es": ["orgullo"],
+    "de": ["Stolz"],
+    "fr": ["fiert\u00e9"],
+    "pt": ["orgulho"],
+    "it": ["orgoglio"],
+    "nl": ["trots"],
+    "fi": ["ylpeys"]
+  },
+  "pirate flag": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Colombia": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Spain": {
+    "en": ["spain"],
+    "es": ["Espa\u00f1a"],
+    "de": ["Spanien"],
+    "fr": ["Espagne"],
+    "pt": ["Espanha"],
+    "it": ["Spagna"],
+    "nl": ["Spanje"],
+    "fi": ["Espanja"]
+  },
+  "Germany": {
+    "en": ["flag", "germany"],
+    "es": ["bandera", "Alemania"],
+    "de": ["Flagge", "Deutschland"],
+    "fr": ["drapeau", "Allemagne"],
+    "pt": ["bandeira", "Alemanha"],
+    "it": ["bandiera", "Germania"],
+    "nl": ["vlag", "Duitsland"],
+    "fi": ["lippu", "Saksa"]
+  },
+  "France": {
+    "en": ["france", "french"],
+    "es": ["Francia", "franc\u00e9s"],
+    "de": ["Frankreich", "Franz\u00f6sisch"],
+    "fr": ["France", "fran\u00e7ais"],
+    "pt": ["Fran\u00e7a", "franc\u00eas"],
+    "it": ["Francia", "francese"],
+    "nl": ["Frankrijk", "Frans"],
+    "fi": ["Ranska", "Ranskan kieli"]
+  },
+  "Brazil": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Argentina": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "United States": {
+    "en": ["flag", "united", "america"],
+    "es": ["bandera", "unido", "America"],
+    "de": ["Flagge", "vereinigt", "Amerika"],
+    "fr": ["drapeau", "uni", "Am\u00e9rique"],
+    "pt": ["bandeira", "Unidos", "Am\u00e9rica"],
+    "it": ["bandiera", "unito", "America"],
+    "nl": ["vlag", "Verenigde", "Amerika"],
+    "fi": ["lippu", "yhdistynyt", "Amerikka"]
+  },
+  "Canada": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "South Korea": {
+    "en": ["korea"],
+    "es": ["Corea"],
+    "de": ["Korea"],
+    "fr": ["Cor\u00e9e"],
+    "pt": ["Cor\u00e9ia"],
+    "it": ["Corea"],
+    "nl": ["Korea"],
+    "fi": ["Korea"]
+  },
+  "China": {
+    "en": ["china"],
+    "es": ["China"],
+    "de": ["China"],
+    "fr": ["Chine"],
+    "pt": ["China"],
+    "it": ["Cina"],
+    "nl": ["China"],
+    "fi": ["Kiina"]
+  },
+  "Russia": {
+    "en": ["russia"],
+    "es": ["Rusia"],
+    "de": ["Russland"],
+    "fr": ["Russie"],
+    "pt": ["R\u00fassia"],
+    "it": ["Russia"],
+    "nl": ["Rusland"],
+    "fi": ["Ven\u00e4j\u00e4"]
+  },
+  "Portugal": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Chile": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "United Kingdom": {
+    "en": ["flag", "british"],
+    "es": ["bandera", "brit\u00e1nico"],
+    "de": ["Flagge", "britisch"],
+    "fr": ["drapeau", "Britanique"],
+    "pt": ["bandeira", "brit\u00e2nico"],
+    "it": ["bandiera", "Britannico"],
+    "nl": ["vlag", "Brits"],
+    "fi": ["lippu", "brittil\u00e4inen"]
+  },
+  "Italy": {
+    "en": ["italy"],
+    "es": ["Italia"],
+    "de": ["Italien"],
+    "fr": ["Italie"],
+    "pt": ["It\u00e1lia"],
+    "it": ["Italia"],
+    "nl": ["Itali\u00eb"],
+    "fi": ["Italia"]
+  },
+  "New Zealand": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  },
+  "Venezuela": {
+    "en": [],
+    "es": [],
+    "de": [],
+    "fr": [],
+    "pt": [],
+    "it": [],
+    "nl": [],
+    "fi": []
+  }
+}
