@@ -1,8 +1,5 @@
 var pos = 0;
 
-var results = "";
-var counter = 0; // Controls the number of elements in the story
-
 var language = "en"
 var resultsList = [] // Contains the list of element results 
                      //TODO: refactor repeated variable
@@ -20,12 +17,6 @@ var translationList = $.getJSON( "assets/json/translations.json", function( json
 function handleRun() 
 {
     pos = 0;
-    // Shuffler story handler
-    if (counter == 5) 
-    {
-        results = "";
-        counter = 0;
-    }
     var interval = setInterval(function() 
     {
         get(2, interval);
@@ -53,42 +44,51 @@ function handleTranslation()
     document.getElementById("translation-result").innerHTML = translationString;
 }
 
+function handleStoryline()
+{
+    // Populate results
+    console.log(resultsList[0]);
+
+    var resultsListTemp = resultsList.reverse();
+    var story = ""
+    for (var i = 0; i < resultsListTemp.length; i++)
+    {
+        story = story + resultsListTemp[i].emoji;
+    }
+    document.getElementById("story").innerHTML = story
+}
+
+
+function clearResults()
+{
+    resultsList = []
+}
+
 function get(n, interval) 
 {
     var i;
     var output = "";
     
-    for (i = 0; i < n; i++) 
-    {
-        var item = emojiList[Math.floor(Math.random() * emojiList.length)];
-        output += item.emoji;
-    }
-    document.getElementById("demo").innerHTML = output;
+    var item_1 = emojiList[Math.floor(Math.random() * emojiList.length)];
+    var item_2 = emojiList[Math.floor(Math.random() * emojiList.length)];
+
     
+    document.getElementById("spin").innerHTML = item_1.emoji + item_2.emoji;
+    
+    // TODO: Refactor this
     var lottery = false
-    if (item.category == "People & Body")
+    if (item_1.category == "People & Body" || item_2.category == "People & Body")
     {
         lottery = Math.random() < 0.2;
     }
+
     pos++;
     if (pos == 20)
     {
         clearInterval(interval)
-        results += output;
-        resultsList.unshift(item);
-        
-        // TODO: Add a populate page method
-        document.getElementById("story").innerHTML = results;
-        counter++;
-        
-        if (counter == 4)
-        {
-            document.getElementById("alert").innerHTML = "Last!!";
-        }
-        if (counter == 5)
-        {
-            document.getElementById("alert").innerHTML = "";
-        }
+        resultsList.unshift(item_1);
+        resultsList.unshift(item_2);
+        handleStoryline();
     }
     
     handleTranslation();
