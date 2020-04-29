@@ -33,9 +33,9 @@ function handleTranslation()
         var q = resultsList[i]["description"];
         var thisTranslation = translationList[q][language];
         translationString += resultsList[i]["emoji"] + thisTranslation + "      ";
-        if (i == 0) 
+        if (i == 0 || i == 1)
         {
-            translationString = "<p style=font-size:110%; text-align:center;>" + translationString + "</p>";
+            translationString = "<strong>" + translationString + "</strong><br>";
         }
 
         if (i >= 10) { break; }
@@ -49,11 +49,10 @@ function handleStoryline()
     // Populate results
     console.log(resultsList[0]);
 
-    var resultsListTemp = resultsList.reverse();
     var story = ""
-    for (var i = 0; i < resultsListTemp.length; i++)
+    for (var i = 0; i < resultsList.length; i++)
     {
-        story = story + resultsListTemp[i].emoji;
+        story = story + resultsList[i].emoji;
     }
     document.getElementById("story").innerHTML = story
 }
@@ -66,9 +65,7 @@ function clearResults()
 
 function get(n, interval) 
 {
-    var i;
-    var output = "";
-    
+
     var item_1 = emojiList[Math.floor(Math.random() * emojiList.length)];
     var item_2 = emojiList[Math.floor(Math.random() * emojiList.length)];
 
@@ -86,10 +83,10 @@ function get(n, interval)
     if (pos == 20)
     {
         clearInterval(interval)
-        resultsList.unshift(item_1);
         resultsList.unshift(item_2);
+        resultsList.unshift(item_1);
         handleStoryline();
+        console.log(resultsList);
     }
-    
     handleTranslation();
 }
