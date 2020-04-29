@@ -3,7 +3,8 @@ var results = "";
 var counter = 0; // Controls the number of elements in the story
 
 var language = "en"
-var translations = "" //Results but translated
+var resultsList = [] // Contains the list of element results 
+                     //TODO: refactor repeated variable
 
 var emojiList = $.getJSON( "assets/json/emoji.json", function( json )
 {
@@ -15,9 +16,9 @@ var translationList = $.getJSON( "assets/json/translations.json", function( json
     translationList = json;
 });
 
-function run() 
+function handleRun() 
 {
-    
+    // Shuffler story handler
     if (counter == 5) 
     {
         results = "";
@@ -26,16 +27,27 @@ function run()
     var pos = 0;
     var interval = setInterval(function() 
     {
-        get_1(2, pos, interval);
+        get(2, pos, interval);
     }, 80);
+    handleTranslation();
 }
 
-function get_translation(sel, item)
+function handleTranslation()
 {
+    var translationString = ""
+    var e = document.getElementById("lang")
+    language = e.options[e.selectedIndex].value;
+    for (var i = 0; (i < resultsList.length || i < 5); i++)
+    {
+        var q = resultsList[i]["description"];
+        var thisTranslation = translationList[q][language];
+        translationString += resultsList[i]["emoji"] + thisTranslation + "<br>";
+    }
 
+    document.getElementById("translation-result").innerHTML = translationString;
 }
 
-function get_1(n, pos, interval) 
+function get(n, pos, interval) 
 {
     var i;
     var output = "";
@@ -52,16 +64,18 @@ function get_1(n, pos, interval)
     {
         lottery = Math.random() < 0.2;
     }
-
+    
     pos++;
     if (pos == 20)
     {
         clearInterval(interval)
-        results += output
+        results += output;
+        resultsList.unshift(item);
+
+        // TODO: Add a populate page method
         document.getElementById("story").innerHTML = results;
         counter++;
         
-        console.log(pos)
         if (counter == 4)
         {
             document.getElementById("alert").innerHTML = "Last!!";

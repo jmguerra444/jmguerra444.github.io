@@ -51,11 +51,16 @@
 
             .content 
             {
-            padding: 10px 10px;
-            display: none;
-            overflow: hidden;
-            background-color: #f1f1f1;
-            text-align: center;
+                width: 100%;
+                padding: 10px 10px;
+                display: none;
+                background-color: #f1f1f1;
+            }
+            
+            .content-music
+            {
+                overflow: hidden;
+                text-align: center;
             }
 
         </style>
@@ -67,7 +72,7 @@
         <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
         <br>
         <div style="font-size: 120%">
-            <button class="small" onclick="run()">RUN!!</button>
+            <button class="small" onclick="handleRun(); handleTranslation()">RUN!!</button>
         </div>
             
         <div style="font-size:350%; margin: 0.5em;">
@@ -85,34 +90,35 @@
         </div>
     </div>
 
-    <div class="pick-lang">
-        <br>
-        Translate to:
-        <select id="lang">
-            <option value="en">🇺🇸 English</option>
-            <option value="es">🇨🇴 Spanish</option>
-            <option value="de">🇩🇪 German</option>
-            <option value="fr">🇫🇷 French</option>
-            <!-- <option value="br">🇧🇷 Portuguese</option>
-            <option value="it">🇮🇹 Ialian</option> -->
-            <option value="nl">🇳🇱 Dutch</option>
-            <option value="fi">🇫🇮 Finnish</option>
-        </select>
-        <br>
-    </div>
-
+    
     <!-- TRANSLATIONS -->
     <section id="translations">
         <button type="button" class="collapsible">TRANSLATIONS</button>
-        <div class="content">
-
-        </div>
+            <div class="content">
+                <div class="pick-lang">
+                    <br>
+                    Translate to:
+                    <select id="lang" onclick="handleTranslation();">
+                        <option value="en">🇺🇸 English</option>
+                        <option value="es">🇨🇴 Spanish</option>
+                        <option value="de">🇩🇪 German</option>
+                        <option value="fr">🇫🇷 French</option>
+                        <!-- <option value="br">🇧🇷 Portuguese</option>
+                        <option value="it">🇮🇹 Ialian</option> -->
+                        <option value="nl">🇳🇱 Dutch</option>
+                        <option value="fi">🇫🇮 Finnish</option>
+                    </select>
+                    <br>
+                    <p id="translation-result" style="font-size: 150%;"></p>
+                </div>
+                
+            </div>
     </section>
 
     <!-- MUSIC -->
     <section id="music">
         <button type="button" class="collapsible">Sound Effects</button>
-        <div class="content">
+        <div class="content content-music">
             <h5>Romantic</h5>
             <iframe src="https://open.spotify.com/embed/track/0tgVpDi06FyKpA1z0VMD4v" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <h5>Suspense</h5>
