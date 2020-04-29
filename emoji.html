@@ -40,22 +40,24 @@
                 background-color: #777;
                 color: white !important;
                 cursor: pointer;
-                width: 80%;
+                width: 100%;
+                max-width: 1000px;
                 text-align: center;
             }
-
+            
             .active, .collapsible:hover 
             {
                 background-color: #555;
             }
-
+            
             .content 
             {
                 margin: auto;
-                width: 80%;
+                width: 100%;
+                max-width: 1000px;
                 padding: 10px 10px;
                 display: none;
-                background-color: #f1f1f1;
+                background-color: #f0f0f0;
             }
             
             .content-music
@@ -95,10 +97,9 @@
         <!-- TRANSLATIONS -->
         <section id="translations">
             <button type="button" class="collapsible">TRANSLATIONS</button>
-                <div class="content">
+                <div class="content" style="display: block;">
                     <div class="pick-lang">
                         <br>
-                        Translate to:
                         <select id="lang" onclick="handleTranslation();">
                             <option value="en">🇺🇸 English</option>
                             <option value="es">🇨🇴 Spanish</option>
