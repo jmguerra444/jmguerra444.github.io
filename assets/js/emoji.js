@@ -1,5 +1,5 @@
 var pos = 0;
-
+var numStories = 5;
 var language = "en"
 var resultsList = [] // Contains the list of element results 
                      //TODO: refactor repeated variable
@@ -14,9 +14,13 @@ var translationList = $.getJSON( "assets/json/translations.json", function( json
     translationList = json;
 });
 
-function handleRun() 
+function run() 
 {
     pos = 0;
+    if (resultsList.length == numStories * 2)
+    {
+        clearResults();
+    }
     var interval = setInterval(function() 
     {
         get(2, interval);
@@ -38,7 +42,7 @@ function handleTranslation()
             translationString = "<strong>" + translationString + "</strong><br>";
         }
 
-        if (i >= 10) { break; }
+        if (i >= 16) { break; }
     }
     
     document.getElementById("translation-result").innerHTML = translationString;
@@ -47,10 +51,8 @@ function handleTranslation()
 function handleStoryline()
 {
     // Populate results
-    console.log(resultsList[0]);
-
     var story = ""
-    for (var i = 0; i < resultsList.length; i++)
+    for (var i = resultsList.length - 1; i >= 0; i--)
     {
         story = story + resultsList[i].emoji;
     }
@@ -58,9 +60,37 @@ function handleStoryline()
 }
 
 
+function handleAlert()
+{
+    var s = ""
+    if (resultsList.length > 0)
+    {
+        s = (resultsList.length / 2) + " of " + numStories;
+
+        if (resultsList.length / 2 >= numStories - 1)
+        {
+            document.getElementById("alert").style.color = "#ff2121";
+
+            if (resultsList.length / 2 == numStories)
+            {
+                s = "Finish the story!!";
+            }
+
+        }
+        else
+        {
+            document.getElementById("alert").style.color = "inherit";
+        }
+    }
+    document.getElementById("alert").innerHTML = s
+}
+
 function clearResults()
 {
     resultsList = []
+    handleTranslation();
+    handleStoryline();
+    handleAlert();
 }
 
 function get(n, interval) 
@@ -68,11 +98,9 @@ function get(n, interval)
 
     var item_1 = emojiList[Math.floor(Math.random() * emojiList.length)];
     var item_2 = emojiList[Math.floor(Math.random() * emojiList.length)];
-
     
     document.getElementById("spin").innerHTML = item_1.emoji + item_2.emoji;
     
-    // TODO: Refactor this
     var lottery = false
     if (item_1.category == "People & Body" || item_2.category == "People & Body")
     {
@@ -83,10 +111,10 @@ function get(n, interval)
     if (pos == 20)
     {
         clearInterval(interval)
-        resultsList.unshift(item_2);
         resultsList.unshift(item_1);
+        resultsList.unshift(item_2);
         handleStoryline();
-        console.log(resultsList);
+        handleAlert();
     }
     handleTranslation();
 }
