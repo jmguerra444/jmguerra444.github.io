@@ -54,7 +54,7 @@ function get_1(n, pos, interval)
     }
 
     pos++;
-    if (pos == 40 || lottery)
+    if (pos == 20)
     {
         clearInterval(interval)
         results += output
