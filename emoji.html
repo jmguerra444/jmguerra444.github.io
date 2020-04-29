@@ -35,23 +35,24 @@
 
             .collapsible 
             {
-            background-color: #777;
-            color: white !important;
-            cursor: pointer;
-            width: 100%;
-            border: none;
-            text-align: left;
-            outline: none;
+                margin: auto !important;
+                display: block;
+                background-color: #777;
+                color: white !important;
+                cursor: pointer;
+                width: 80%;
+                text-align: center;
             }
 
             .active, .collapsible:hover 
             {
-            background-color: #555;
+                background-color: #555;
             }
 
             .content 
             {
-                width: 100%;
+                margin: auto;
+                width: 80%;
                 padding: 10px 10px;
                 display: none;
                 background-color: #f1f1f1;
@@ -67,85 +68,85 @@
 	</head>
 
 	<body class="is-preload">
-    <div class ="picker-main">
-        <h2>Create a story</h2>
-        <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
-        <br>
-        <div style="font-size: 120%">
-            <button class="small" onclick="handleRun(); handleTranslation()">RUN!!</button>
-        </div>
-            
-        <div style="font-size:350%; margin: 0.5em;">
+        <div class ="picker-main">
+            <h2>Create a story</h2>
+            <p style="font-size: 110%"> Random Emoji generator, why don't you try to create a cool story?</p>
             <br>
-            <p id="demo">😎</p>
-            <br>
-        </div>
-        
-        <div style="font-size:150%; border:0.4em; display:block-line; min-height:40px;">
-            <p id="story"></p>
-        </div>
-        <br>
-        <div style="font-size:150%; border:0.4em; display:inline-block; min-height:40px;">
-            <p id="alert"></p>
-        </div>
-    </div>
-
-    
-    <!-- TRANSLATIONS -->
-    <section id="translations">
-        <button type="button" class="collapsible">TRANSLATIONS</button>
-            <div class="content">
-                <div class="pick-lang">
-                    <br>
-                    Translate to:
-                    <select id="lang" onclick="handleTranslation();">
-                        <option value="en">🇺🇸 English</option>
-                        <option value="es">🇨🇴 Spanish</option>
-                        <option value="de">🇩🇪 German</option>
-                        <option value="fr">🇫🇷 French</option>
-                        <!-- <option value="br">🇧🇷 Portuguese</option>
-                        <option value="it">🇮🇹 Ialian</option> -->
-                        <option value="nl">🇳🇱 Dutch</option>
-                        <option value="fi">🇫🇮 Finnish</option>
-                    </select>
-                    <br>
-                </div>
-                <p id="translation-result" style="font-size: 110%; margin: 1em 0"></p>
-                
+            <div style="font-size: 120%">
+                <button class="small" onclick="handleRun(); handleTranslation()">RUN!!</button>
             </div>
-    </section>
-
-    <!-- MUSIC -->
-    <section id="music">
-        <button type="button" class="collapsible">Sound Effects</button>
-        <div class="content content-music">
-            <h5>Romantic</h5>
-            <iframe src="https://open.spotify.com/embed/track/0tgVpDi06FyKpA1z0VMD4v" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            <h5>Suspense</h5>
-            <iframe src="https://open.spotify.com/embed/track/2jd20t5nkaFrEbTPJNXDzi" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            <h5>Sad</h5>
-            <iframe src="https://open.spotify.com/embed/track/4gVZhkcsZcwQ4mU1gEeXEO" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            <h5>Horror</h5>
-            <iframe src="https://open.spotify.com/embed/track/1hcPul0rzWcsNCLfPxVZAI" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            <h5>🔥</h5>
-            <iframe src="https://open.spotify.com/embed/track/2PIvq1pGrUjY007X5y1UpM" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                
+            <div style="font-size:350%; margin: 0.5em;">
+                <br>
+                <p id="spin">😎</p>
+                <br>
+            </div>
+            
+            <div style="font-size:150%; border:0.4em; display:block-line; min-height:40px;">
+                <p id="story"></p>
+            </div>
+            <br>
+            <div style="font-size:150%; border:0.4em; display:inline-block; min-height:40px;">
+                <p id="alert"></p>
+            </div>
         </div>
-    </section>
 
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-            content.style.display = "none";
-            } else {
-            content.style.display = "block";
+        
+        <!-- TRANSLATIONS -->
+        <section id="translations">
+            <button type="button" class="collapsible">TRANSLATIONS</button>
+                <div class="content">
+                    <div class="pick-lang">
+                        <br>
+                        Translate to:
+                        <select id="lang" onclick="handleTranslation();">
+                            <option value="en">🇺🇸 English</option>
+                            <option value="es">🇨🇴 Spanish</option>
+                            <option value="de">🇩🇪 German</option>
+                            <option value="fr">🇫🇷 French</option>
+                            <!-- <option value="br">🇧🇷 Portuguese</option>
+                            <option value="it">🇮🇹 Ialian</option> -->
+                            <option value="nl">🇳🇱 Dutch</option>
+                            <option value="fi">🇫🇮 Finnish</option>
+                        </select>
+                        <br>
+                    </div>
+                    <p id="translation-result" style="font-size: 110%; margin: 1em 0"></p>
+                    
+                </div>
+        </section>
+
+        <!-- MUSIC -->
+        <section id="music">
+            <button type="button" class="collapsible">Sound Effects</button>
+            <div class="content content-music">
+                <h5>Romantic</h5>
+                <iframe src="https://open.spotify.com/embed/track/0tgVpDi06FyKpA1z0VMD4v" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                <h5>Suspense</h5>
+                <iframe src="https://open.spotify.com/embed/track/2jd20t5nkaFrEbTPJNXDzi" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                <h5>Sad</h5>
+                <iframe src="https://open.spotify.com/embed/track/4gVZhkcsZcwQ4mU1gEeXEO" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                <h5>Horror</h5>
+                <iframe src="https://open.spotify.com/embed/track/1hcPul0rzWcsNCLfPxVZAI" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                <h5>🔥</h5>
+                <iframe src="https://open.spotify.com/embed/track/2PIvq1pGrUjY007X5y1UpM" width="400" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </div>
+        </section>
+
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+            for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                content.style.display = "none";
+                } else {
+                content.style.display = "block";
+                }
+            });
             }
-        });
-        }
-    </script>
+        </script>
 </body>
 </html>
